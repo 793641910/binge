@@ -6,12 +6,12 @@
       "key": "豆豆",
       "name": "🌹兵哥4K专线💘整理于5月11日💋加QQ防失联🍎获取最新接口🇨🇳",
       "type": 3,
-      "api": "./jar/min.js",
+      "api": "https://raw.githubusercontent.com/793641910/binge/main/min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "./jar/worong.txt",
-      "ext": "./jar/douban.js"
+      "jar": "https://raw.githubusercontent.com/793641910/binge/main/worong.txt",
+      "ext": "https://raw.githubusercontent.com/793641910/binge/main/douban.js"
     },
     {
       "key": "玩偶",
