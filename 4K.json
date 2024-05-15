@@ -1,44 +1,44 @@
 {
-  "spider": "./jar/worong.txt",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "sites": [
+“蜘蛛”:/jar/worong.txt“，
+“壁纸”:“https://深色壁纸。xxoo。cf/“，
+“站点”:【
     {
-      "key": "豆豆",
-      "name": "🌹兵哥4K专线💘整理于5月11日💋加QQ防失联🍎获取最新接口🇨🇳",
-      "type": 3,
-      "api": "./jar/min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "./jar/worong.txt",
-      "ext": "./jar/douban.js"
+“密钥“:“豆豆",
+"名称": "🌹兵哥4K专线💘整理于5月15日💋加即时通信软件防失联🍎获取最新接口🇨🇳",
+【类型】:3、
+api“:”./jar/min.js "，
+“可搜索”:0，
+“快速搜索”:0，
+“可过滤”:0，
+"罐子":“会议、工作。/jar/worong.txt，
+“EXT”:的。/jar/douban.js
     },
     {
-      "key": "玩偶",
-      "name": "兵哥4K专线",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "tvfan/token.txt",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd",
-        "siteUrl": "https://www.wogg.link/",
-        "danMu": "弹"
+“密钥“:“玩偶",
+"名称": “兵哥4K特别线“,
+【类型】:3、
+“API”:“CSP _ WoGG”，
+【可搜索】:1、
+「快速搜索」:1，
+【可变】:0，
+“分机”:{
+“AliToken”:"电视粉丝/代币. txt”，
+"夸克饼干":"电视迷/饼干. txt”，
+“从“:“4k自动全高清",
+“SiteUrl”:“https://www。WOGG的。链接 /"，
+        《母丹》: "弹"
       }
     },
     {
-      "key": "csp_xml_ikun",
-      "name": "爱坤｜兵哥",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "categories": [
+“Key”:“CSP_XML_ikun”，
+      "名称": "爱坤｜兵哥",
+      "类型": 1,
+"空气污染指数":" https://ikunzyapi .com/API .PHP/provide/VOD/from/ikm3u8/at/JSON“,
+      "可搜索": 1,
+      "快速搜索": 1,
+      “可过滤“: 1,
+      “播放器类型“: 2,
+      "类别": [
         "国产剧",
         "韩国剧",
         "泰国剧",
@@ -75,28 +75,28 @@
     },
     {
       "key": "YGP",
-      "name": "荐片｜兵哥",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "名称": "荐片｜兵哥",
+      "类型": 3,
+      “空气污染指数“: “YGP CSP”,
+      “可搜索“: 0,
+      “快速搜索”: 0,
+      “多变”: 0
     },
     {
-      "key": "短剧",
-      "name": "短剧｜兵哥",
-      "type": 3,
-      "api": "csp_Djuu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "钥匙": "短剧",
+      "名称": "短剧｜兵哥",
+      "类型": 3,
+      “空气污染指数“: “csp_Djuu“,
+      “可搜索“: 1,
+      “快速搜索”: 1,
+      “多变”: 1
     },
     {
-      "key": "酷看",
-      "name": "酷看｜兵哥",
-      "type": 3,
-      "api": "csp_Kkys",
-      "timeout": 15,
+      "钥匙": "酷看",
+      "名称": "酷看｜兵哥",
+      "类型": 3,
+      " api ": “csp_Kkys“,
+      “超时“: 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -126,9 +126,9 @@
       "type": 3,
       "api": "csp_Xdys",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
+      “快速搜索”: 1,
+      “可过滤“: 1,
+      “多变”: 0
     },
     {
       "key": "视觉",
@@ -137,16 +137,16 @@
       "api": "csp_Xinsj",
       "timeout": 15,
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.80yy3.com/"
+      “快速搜索”: 1,
+      “多变”: 1,
+      “分机“: “https://www.80yy3.com/“
     },
     {
-      "key": "厂长",
-      "name": "厂长｜兵哥",
-      "type": 3,
-      "api": "csp_NewCz",
-      "timeout": 15,
+      "钥匙": "厂长",
+      "名称": "厂长｜兵哥",
+      "类型": 3,
+      " api ": “csp_NewCz“,
+      “超时“: 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -239,35 +239,35 @@
     },
     {
       "key": "Lib",
-      "name": "利播｜兵哥",
-      "type": 3,
-      "api": "csp_Libvio",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.libvio.pw/"
+      "名称": "利播｜兵哥",
+      "类型": 3,
+      “空气污染指数“: “csp_Libvio“,
+      “超时“: 15,
+      “可搜索“: 1,
+      "快速搜索": 1,
+      “多变”: 1,
+      “分机“: “https://www.libvio.pw/“
     },
     {
-      "key": "Auete",
-      "name": "澳忒｜兵哥",
-      "type": 3,
-      "api": "csp_Auete",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.pro/"
+      "钥匙": “Auete”,
+      "名称": "澳忒｜兵哥",
+      "类型": 3,
+      “空气污染指数“: “csp_Auete“,
+      “超时“: 15,
+      “可搜索“: 1,
+      "快速搜索": 1,
+      “多变”: 1,
+      “分机“: “https://auete.pro/“
     },
     {
-      "key": "贱贱",
-      "name": "蹇蹇｜兵哥",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "钥匙": "贱贱",
+      "名称": "蹇蹇｜兵哥",
+      "类型": 3,
+      “可搜索“: 1,
+      "快速搜索": 1,
+      “多变”: 1,
+      “播放器类型“: "1",
+      “空气污染指数“: “https://git lab . com/fantaiying/ext/-/raw/main/drpy 2 . min . js“,
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
     },
     {
@@ -409,9 +409,9 @@
       "key": "虎牙直播js",
       "name": "虎牙┃直播",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
-      "style": {
+      " api ": " https://git lab . com/fantaiying/ext/-/raw/main/drpy 2 . min . js ",
+      "分机": " https://git lab . com/fantaiying/ext/-/raw/main/huya 2 . js ",
+      “风格”: {
         "type": "rect",
         "ratio": 1.755
       },
@@ -825,34 +825,34 @@
     },
     {
       "name": "cl",
-      "hosts": [
-        "magnet"
+      “主机“: [
+        “磁铁”
       ],
-      "regex": [
+      “正则表达式”: [
         "最 新",
         "直 播",
         "更 新"
       ]
     }
   ],
-  "lives": [
+  “生命”: [
     {
-      "name": "多线ITV",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
-      "playerType": 1
+      "名称": "多线独立电视台“,
+      "类型": 0,
+      "网址": “https://mirror . GH proxy . com/raw . githubusercontent . com/ssili 126/TV/main/ITV list . m3u“,
+      “播放器类型“: 1
     },
     {
-      "name": "XIUTAN",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-      "type": 0,
-      "url": "https://xhdwc.tk/xiutan.m3u"
+      "名称": “秀坛”,
+      “ua”: “Mozilla/5.0（Windows NT 10.0；Win64x64）AppleWebKit/537.36（KHTML，类似Gecko）Chrome/120 . 0 . 0 . 0 Safari/537.36 Edg/120 . 0 . 0 . 0“,
+      "类型": 0,
+      "网址": “https://xhdwc.tk/xiutan.m3u“
     },
     {
-      "name": "IPV6",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1
+      "名称": “IPV6”,
+      "类型": 0,
+      "网址": “https://live . fanmingming . com/TV/m3u/IPv6 . m3u“,
+      “播放器类型“: 1
     }
   ]
 }
