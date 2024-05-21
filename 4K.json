@@ -31,7 +31,7 @@
     },
     {
       "key": "csp_xml_ikun",
-      "name": "爱坤｜兵哥",
+      "name": "齐天大圣",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
@@ -75,7 +75,7 @@
     },
     {
       "key": "YGP",
-      "name": "荐片｜兵哥",
+      "name": "天蓬元帅",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
@@ -84,7 +84,7 @@
     },
     {
       "key": "短剧",
-      "name": "短剧｜兵哥",
+      "name": "卷帘大将",
       "type": 3,
       "api": "csp_Djuu",
       "searchable": 1,
@@ -93,7 +93,7 @@
     },
     {
       "key": "酷看",
-      "name": "酷看｜兵哥",
+      "name": "如来佛祖",
       "type": 3,
       "api": "csp_Kkys",
       "timeout": 15,
@@ -103,7 +103,7 @@
     },
     {
       "key": "原创",
-      "name": "原创｜兵哥",
+      "name": "玉皇大帝",
       "type": 3,
       "api": "csp_YCyz",
       "timeout": 15,
@@ -113,7 +113,7 @@
     },
     {
       "key": "苹果",
-      "name": "苹果｜兵哥",
+      "name": "牛魔大王",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -122,7 +122,7 @@
     },
     {
       "key": "奈飞中文",
-      "name": "奈飞｜兵哥",
+      "name": "铁扇公主",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -133,7 +133,7 @@
     },
     {
       "key": "鸭奈飞影视",
-      "name": "鸭奈飞｜兵哥",
+      "name": "燃灯佛祖",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -144,7 +144,7 @@
     },
     {
       "key": "小点",
-      "name": "小点｜兵哥",
+      "name": "嫦娥仙子",
       "type": 3,
       "api": "csp_Xdys",
       "searchable": 1,
@@ -154,7 +154,7 @@
     },
     {
       "key": "视觉",
-      "name": "视觉｜兵哥",
+      "name": "王母娘娘",
       "type": 3,
       "api": "csp_Xinsj",
       "timeout": 15,
@@ -165,7 +165,7 @@
     },
     {
       "key": "厂长",
-      "name": "厂长｜兵哥",
+      "name": "太上老君",
       "type": 3,
       "api": "csp_NewCz",
       "timeout": 15,
@@ -177,7 +177,7 @@
     },
     {
       "key": "南瓜",
-      "name": "南瓜｜兵哥",
+      "name": "大唐圣僧",
       "type": 3,
       "api": "csp_NanGua",
       "timeout": 15,
@@ -188,7 +188,7 @@
     },
     {
       "key": "糯米",
-      "name": "糯米｜兵哥",
+      "name": "托塔天王",
       "type": 3,
       "api": "csp_Nmys",
       "timeout": 15,
@@ -199,7 +199,7 @@
     },
     {
       "key": "低端",
-      "name": "低端｜兵哥",
+      "name": "白龙马",
       "type": 3,
       "api": "csp_Ddrk",
       "playerType": "2",
@@ -209,7 +209,7 @@
     },
     {
       "key": "热播",
-      "name": "热播｜兵哥",
+      "name": "观音菩萨",
       "type": 3,
       "api": "csp_AppTT",
       "timeout": 15,
@@ -221,7 +221,7 @@
     },
     {
       "key": "毛驴",
-      "name": "毛驴｜兵哥",
+      "name": "菩提祖师",
       "type": 3,
       "api": "csp_MLYS",
       "timeout": 15,
@@ -232,7 +232,7 @@
     },
     {
       "key": "萌米",
-      "name": "萌米｜兵哥",
+      "name": "太白金星",
       "type": 3,
       "api": "csp_AppTT",
       "timeout": 15,
@@ -241,7 +241,7 @@
     },
     {
       "key": "比特",
-      "name": "比特｜兵哥",
+      "name": "镇元大仙",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -250,7 +250,7 @@
     },
     {
       "key": "zxzj",
-      "name": "在线｜兵哥",
+      "name": "二郎真君",
       "type": 3,
       "api": "csp_Zxzj",
       "timeout": 15,
@@ -261,7 +261,7 @@
     },
     {
       "key": "Lib",
-      "name": "利播｜兵哥",
+      "name": "托塔天王",
       "type": 3,
       "api": "csp_Libvio",
       "timeout": 15,
@@ -272,7 +272,7 @@
     },
     {
       "key": "Auete",
-      "name": "澳忒｜兵哥",
+      "name": "文殊菩萨",
       "type": 3,
       "api": "csp_Auete",
       "timeout": 15,
@@ -283,7 +283,7 @@
     },
     {
       "key": "贱贱",
-      "name": "蹇蹇｜兵哥",
+      "name": "四海龙王",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -294,7 +294,7 @@
     },
     {
       "key": "新6V",
-      "name": "新6V｜兵哥",
+      "name": "阎罗真君",
       "type": 3,
       "api": "csp_SixV",
       "searchable": 1,
@@ -304,7 +304,7 @@
     },
     {
       "key": "Dm84",
-      "name": "巴士｜动画",
+      "name": "哪吒三太子",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -313,7 +313,7 @@
     },
     {
       "key": "Ying",
-      "name": "樱花｜动画",
+      "name": "黄眉大王",
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
