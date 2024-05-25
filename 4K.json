@@ -1,5 +1,5 @@
 {
-  "spider": "./binge.txt",
+  "spider": "./jar/binge.txt",
   "wallpaper": "https://pan.shangui.cc/f/G6eoFz/kjhbn.webp",
   "sites": [
     {
@@ -128,7 +128,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/奈飞中文.json",
-      "jar": "./XYQ.jar"
+      "jar": "./jar/XYQ.jar"
     },
     {
       "key": "鸭奈飞影视",
@@ -139,7 +139,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/鸭奈飞影视.json",
-      "jar": "./XYQ.jar"
+      "jar": "./jar/XYQ.jar"
     },
     {
       "key": "小点",
