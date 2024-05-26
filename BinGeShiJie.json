@@ -87,13 +87,9 @@
       "key": "csp_南瓜",
       "name": "南瓜影视|兵哥视界",
       "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "jar": "./jar/binge.txt",
-      "ext": "null$$$1"
+      "playerType": "2",
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/nangua.js"
     },
     {
       "key": "csp_xBPQ_玖八",
