@@ -59,18 +59,41 @@
       "api": "csp_AppHccxCz",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://bo.czys.me@@兵哥视界"
+      "ext": "https://bo.czys.me"
+    },
+    {
+      "key": "奈飞中文",
+      "name": "🏋️‍♂️♨️奈飞｜兵哥视界",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/奈飞中文.json",
+      "jar": "./jar/XYQ.jar"
+    },
+    {
+      "key": "鸭奈飞影视",
+      "name": "🐧鸭奈飞｜兵哥视界",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/鸭奈飞影视.json",
+      "jar": "./jar/XYQ.jar"
     },
     {
       "key": "csp_南瓜",
       "name": "南瓜影视|兵哥视界",
       "type": 3,
-      "api": "csp_AppHccxNg",
+      "api": "csp_NanGua",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
       "filterable": 1,
-      "ext": "http://ys.changmengyun.com/api.php/provide/@@兵哥视界"
+      "jar": "./jar/binge.txt",
+      "ext": "null$$$1"
     },
     {
       "key": "csp_xBPQ_玖八",
