@@ -44,7 +44,7 @@
     "年代详情": ".module-info-content&&.module-info-item,3&&Text",
     "地区详情": "",
     "演员详情": ".module-info-content&&.module-info-item,2&&Text",
-    "简介详情": "🌹关注企鹅号：别叫偶兵哥哥,获取最新接口🌹+.module-info-content&&.module-info-item&&Text",
+    "简介详情": "'🌹关注企鹅号“别叫偶兵哥哥”，获取最新接口，加qq防迷失！兵哥提醒您以下为简介🌹：'+.module-info-content&&.module-info-item&&Text",
     "线路列表数组规则": ".module-tab-items-box&&.module-tab-item",
     "线路标题": "Text",
     "播放列表数组规则": "body&&.module-play-list-content",
