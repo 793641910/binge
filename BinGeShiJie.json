@@ -62,6 +62,145 @@
       "ext": "./json/miaobo.json"
     },
     {
+      "key": "茶狐影视",
+      "name": "茶狐影视🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/jqqys.json"
+    },
+    {
+      "key": "Vidhub",
+      "name": "Vid影视🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/vid.json"
+    },
+    {
+      "key": "饭团影视",
+      "name": "饭团影视🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/fantuan.json"
+    },
+    {
+      "key": "剧圈影视",
+      "name": "剧圈蓝光🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/jqqzx.json"
+    },
+    {
+      "key": "子子影视",
+      "name": "子子蓝光🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/zizi.json"
+    },
+    {
+      "key": "4K影院",
+      "name": "影院蓝光🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/4kvm.json"
+    },
+    {
+      "key": "可可影视",
+      "name": "可可蓝光🌺兵哥视界",
+      "type": 3,
+      "playerType": 2,
+      "searchable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./json/kkys.json"
+    },
+    {
+      "key": "素白白影视",
+      "name": "素白蓝光🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./json/subaibai.json"
+    },
+    {
+      "key": "美柏影视",
+      "name": "美柏蓝光🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./json/meibai.json"
+    },
+    {
+      "key": "csp_TVB",
+      "name": "TVB云播🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/tvbyun.json"
+    },
+    {
+      "key": "csp_duoju",
+      "name": "星辰影院🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/xinchen.json"
+    },
+    {
+      "key": "韩剧影院",
+      "name": "韩剧TV🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/hanju.json"
+    },
+    {
+      "key": "meowtv_syys",
+      "name": "速映影视🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/suying.json"
+    },
+    {
+      "key": "可达影视",
+      "name": "可达蓝光🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/kedays.json"
+    },
+    {
       "key": "光速资源",
       "name": "光速资源🌺兵哥视界",
       "type": 1,
