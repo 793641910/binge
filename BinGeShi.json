@@ -13,7 +13,7 @@
   "sites": [
     {
       "key": "豆瓣热播",
-      "name": "🌹兵哥视界💘整理于6月5日💋新增16条线路🍎祝大家端午安康🇨🇳",
+      "name": "🌹兵哥视界💘整理于6月8日💋再加24条线路🍎祝大家端午安康🇨🇳",
       "type": 3,
       "api": "./js/min.js",
       "searchable": 0,
@@ -43,13 +43,269 @@
       "ext": "./json/玩我哥哥.json"
     },
     {
-      "key": "荐片",
-      "name": "鉴赏蓝光🌺兵哥视界",
+      "key": "NRTFIY星球",
+      "name": "NETFIY🌺兵哥视界",
       "type": 3,
-      "api": "./js/min.js",
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
       "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.netfly.tv/api.php/app/"
+    },
+    {
+      "key": "鸭奈飞",
+      "name": "鸭飞鸡跳🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yanetflix.me/api.php/app/"
+    },
+    {
+      "key": "追剧兔",
+      "name": "剧兔影视🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.zjtu.one/api.php/app/"
+    },
+    {
+      "key": "北极狐",
+      "name": "北极狐狸🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
+      "key": "河狸影视",
+      "name": "河狸河虾🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.heli888.cc/api.php/app/"
+    },
+    {
+      "key": "皮皮虾",
+      "name": "大基围虾🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://aikun.tv/api.php/app/"
+    },
+    {
+      "key": "神马影视",
+      "name": "神笔马良🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.shenmaysk.com/api.php/app/"
+    },
+    {
+      "key": "小马影视",
+      "name": "小白龙马🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 1,
-      "ext": "./js/jianpian.js"
+      "ext": "https://mas.szyyds.cn/api.php/app/"
+    },
+    {
+      "key": "电影狗",
+      "name": "电影狗仔🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://app.88dyg.com/icciu_api.php/v1.vod"
+    },
+    {
+      "key": "老蟹电影",
+      "name": "千年老蟹🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.ajj001.top/api.php/app/"
+    },
+    {
+      "key": "柠檬影院",
+      "name": "手打柠檬🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://mf.songshu.cyou/api.php/app/"
+    },
+    {
+      "key": "北川影视",
+      "name": "北川剧院🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.bczhuiju.com/icciu_api.php/v1.vod"
+    },
+    {
+      "key": "影视之家",
+      "name": "影视老窝🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+    },
+    {
+      "key": "星易影影院",
+      "name": "星星影院🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.xingyiying.com/api.php/v1.vod"
+    },
+    {
+      "key": "爱迪影院",
+      "name": "爱迪生气🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://adys.tv/xgapp.php/v1/"
+    },
+    {
+      "key": "影视站影视",
+      "name": "影视仓库🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://xn--p3t583cbin.top/api.php/app/"
+    },
+    {
+      "key": "影馆影视",
+      "name": "电影厅馆🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://4kdyg.top/api.php/v1.vod"
+    },
+    {
+      "key": "银河影视",
+      "name": "银河星系🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://134.175.219.46/mogai_api.php/v1.vod"
+    },
+    {
+      "key": "69美剧",
+      "name": "美剧天堂🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.69mj.com/xgapp.php/v2/"
+    },
+    {
+      "key": "大米星球",
+      "name": "大米智影🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://damifi.com/api.php/app/"
+    },
+    {
+      "key": "思古电影",
+      "name": "长思古茗🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://siguyy.cn/api.php/app/"
+    },
+    {
+      "key": "零刻影视",
+      "name": "零点一刻🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
+    },
+    {
+      "key": "UM电影",
+      "name": "环球电影🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://umvod.cc/mogai_api.php/v1.vod"
+    },
+    {
+      "key": "555影院",
+      "name": "555剧院🌺兵哥视界",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./jar/spider.jar"
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://55wuv.com/api.php/app/"
     },
     {
       "key": "秒播影院",
@@ -472,6 +728,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./tvboxt/tok.txt"
+    },
+    {
+      "key": "荐片",
+      "name": "鉴赏蓝光🌺兵哥视界",
+      "type": 3,
+      "api": "./js/min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./js/jianpian.js"
     },
     {
       "key": "csp_AliPS",
