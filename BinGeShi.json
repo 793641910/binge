@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/BinGeShiJie.jar",
+  "spider": "./jar/BinGeShiJie.jar;md5;07f7e56adbda0c328398d7d663ff75a5",
   "wallpaper": "https://8698.kstore.space/kjhbn.webp",
   "lives": [
     {
