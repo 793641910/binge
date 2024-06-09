@@ -216,7 +216,7 @@
                 "标题": "title=\"&&\"",
                 "副标题": "<span class=\"pack-prb hidden\">&&</span>",
                 "线路数组": "<a class=\"channelname swiper-slide&&</a>",
-                "线路名称": "🌺兵哥视界接口🌺+</i>&nbsp;&&</span>",
+                "线路名称": "</i>&nbsp;&&</span>+🌺兵哥视界接口🌺",
                 "播放数组": "<ul class=\"content_playlist cf\">&&</ul>",
                 "播放列表": ">&&</a",
                 "分类url": "https://qzy998-wap-1.ysgq.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
