@@ -13,7 +13,7 @@
   "sites": [
     {
       "key": "豆瓣热播",
-      "name": "🌹兵哥视界💘整理于6月8日💋再加24条线路🍎祝大家端午安康🇨🇳",
+      "name": "🌹兵哥视界💘整理于6月10日💋再加34条线路🍎祝大家端午安康🇨🇳",
       "type": 3,
       "api": "./js/min.js",
       "searchable": 0,
@@ -142,26 +142,6 @@
         "跳转播放链接": "<iframe*src=\"&&\"",
         "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
-      }
-    },
-    {
-      "key": "freeok",
-      "name": "freeok🌺兵哥视界",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "2",
-      "ext": {
-        "分类url": "www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
-        "分类值": "1&2&3&4&12&5",
-        "播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-        "副标题": "<div class=\"module-item-note\">&&</div>",
-        "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-        "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
-        "线路标题": "🌺兵哥视界接口🌺+<span>&&</small>",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "简介": "🌺关注企鹅号“别叫偶兵哥哥”🌺获取最新接口🌺加qq防迷失！🌺兵哥提醒您以下为简介🌺：+<p>&&</p>"
       }
     },
     {
