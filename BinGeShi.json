@@ -212,6 +212,26 @@
       "jar": "./jar/spider.jar",
       "ext": "http://op.ysdqjs.cn"
     },
+    {
+            "key": "FreeOK☭ ",
+            "name": "FreeOK🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext":"./json/FreeOK.json", 
+             "兵哥出品":""},
+{
+            "key": " 蘑菇影视 ",
+            "name": "蘑菇影视🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext":"./json/蘑菇影视.json", 
+             "兵哥出品":""},
         {
             "key": "XBPQ_黑狐影院",
             "name": "红狐影院🌺兵哥视界",
