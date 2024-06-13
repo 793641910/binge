@@ -20,6 +20,19 @@
       "quickSearch": 0
     },
     {
+            "key": "优优阁",
+            "name": "优优阁",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+            "分类": "亚洲$yazhou#欧美$oumei#国产$3guochan#动漫$dongman#伦理$lunli",
+"分类url":"https://www.uuge5.com/vodtype/{cateId}/area/{area}/lang/{lang}/page/{catePg}/year/{year}/"
+            },
+    {
       "key": "我爱AV",
       "name": "WO❤️AV",
       "type": 3,
