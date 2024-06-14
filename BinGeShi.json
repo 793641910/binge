@@ -13,7 +13,7 @@
   "sites": [
     {
       "key": "豆瓣热播",
-      "name": "🌹兵哥视界💘6月11日撰💋长按主页刷新数据🍎祝大家观影愉快🇨🇳",
+      "name": "🌹兵哥视界💘6月14日撰💋长按主页刷新数据🍎增加七条线路🇨🇳",
       "type": 3,
       "api": "./js/min.js",
       "searchable": 0,
@@ -211,6 +211,128 @@
       "playerType": 1,
       "jar": "./jar/spider.jar",
       "ext": "http://op.ysdqjs.cn"
+    },
+    {
+      "key": "duanju8",
+      "name": "短剧看吧🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.duanju8.cc/show/{cateId}--{by}------{catePg}---.html;;ar1",
+        "分类": "恋爱&反转&悬疑&穿越&古装&都市",
+        "分类值": "lianai&fanzhuan&xuanyi&chuanyue&guzhuang&dushi",
+        "副标题": "<div class=\"v-item-bottom\">&&</div>",
+        "嗅探词": "m3u8#.m3u8#.mp4#mp4#/obj/",
+        "导演": "导演:&&</div>",
+        "主演": "主演:&&</div>",
+        "简介": "🌺关注企鹅号“别叫偶兵哥哥”🌺获取最新接口🌺加qq防迷失🌺兵哥提醒您以下为简介🌺：+<p>&&</p>"
+      }
+    },
+    {
+      "key": "duanju001",
+      "name": "短剧零一🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.duanju001.com/show/duanju-{area}-{by}------{catePg}---{year}.html",
+        "分类": "短剧&",
+        "分类值": "duanju&",
+        "副标题": "<div class=\"v-item-bottom\">&&</div>",
+        "嗅探词": "m3u8#.m3u8#.mp4#mp4#/obj/",
+        "导演": "导演:&&</div>",
+        "主演": "主演:&&</div>",
+        "简介": "🌺关注企鹅号“别叫偶兵哥哥”🌺获取最新接口🌺加qq防迷失🌺兵哥提醒您以下为简介🌺：+<p>&&</p>"
+      }
+    },
+    {
+      "key": "卫总影院",
+      "name": "卫总影院🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "数组": "myui-vodlist__thumb lazyload&&</a",
+        "副标题": "pic-text text-right\">&&</span",
+        "简介": "🌺关注企鹅号“别叫偶兵哥哥”🌺获取最新接口🌺加qq防迷失🌺兵哥提醒您以下为简介🌺：+剧情介绍</h3>&&<div class=\"myui-panel myui-panel-bg clearfix",
+        "线路数组": "<li><a href=\"#playlist&&</li[排序:专线01]",
+        "线路标题": "🌺兵哥视界接口🌺+>&&</a",
+        "播放数组": "class=\"tab-pane fade&&</div",
+        "播放列表": "<li&&</li",
+        "播放标题": "title=\"&&\"",
+        "跳转播放链接": "var now=\"&&\"",
+        "搜索数组": "lazyload\"&&</a",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索标题": "title=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "搜索url": "https://wzznl.buzz/search.php?page={pg}&searchword={wd}&searchtype=",
+        "分类url": "https://wzznl.buzz/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#纪录片$11#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
+      }
+    },
+    {
+      "key": "qimaoys",
+      "name": "七猫影院🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "http://www.qimaoym.com",
+        "二次截取": "class=\"module-list\">&&class=\"module-list module-lines-list\"",
+        "数组": "class=\"module-item-cover\">&&class=\"module-item\">",
+        "标题": "title=\"&&\"",
+        "副标题": "module-item-text\">&&</div>",
+        "链接": "href=\"&&\"",
+        "图片": "data-src=\"&&\"",
+        "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+        "搜索url": "http://www.qimaoym.com/index.php/vod/search/wd/{wd}",
+        "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+        "线路数组": "module-tab-item tab-item\"&&</div>",
+        "线路标题": "🌺兵哥视界接口🌺+<span>&&</small>[替换:</span><small>>>🌺]+集",
+        "播放数组": "class=\"module-blocklist\">&&</div",
+        "播放列表": "<a&&</a",
+        "播放标题": "🌺兵哥提示🌺+<span&&</span",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$28#少儿$38",
+        "分类url": "http://www.qimaoym.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
+      }
+    },
+    {
+      "key": "9527",
+      "name": "玖伍贰柒🌺兵哥视界",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.jialihotel.cn/s/{cateId}/page/{catePg}/year/{year}.html",
+        "图片": "data-original=\"&&\"",
+        "标题": "<a class=\"fed-list-title*>&&</a>",
+        "副标题": "<span class=\"fed-list-remarks*>&&</span>",
+        "链接": "href=\"&&\"",
+        "线路数组": "class=\"fed-drop-btns*>&&</li>",
+        "线路标题": "🌺兵哥视界接口🌺+>&&</a>",
+        "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"
+      }
+    },
+    {
+      "key": "Bt0ys",
+      "name": "不太灵影视🌺兵哥视界",
+      "type": 3,
+      "api": "csp_Bt0ys",
+      "searchable": 1,
+      "quickSearch": 0,
+      "jar": "./jar/custom_spidert.jar",
+      "filterable": 1
+    },
+    {
+      "key": "PiaoHua",
+      "name": "飘花影视🌺兵哥视界",
+      "type": 3,
+      "api": "csp_PiaoHua",
+      "searchable": 1,
+      "quickSearch": 0,
+      "jar": "./jar/custom_spidert.jar",
+      "filterable": 1
     },
     {
             "key": "FreeOK☭ ",
