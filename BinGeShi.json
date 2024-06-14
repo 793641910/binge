@@ -13,7 +13,7 @@
   "sites": [
     {
       "key": "豆瓣热播",
-      "name": "🌹兵哥视界💘6月14日撰💋长按主页刷新数据🍎增加九条线路🇨🇳",
+      "name": "🌹兵哥视界💘6月14日撰💋长按主页刷新数据🍎再增加⑦条线路🇨🇳",
       "type": 3,
       "api": "./js/min.js",
       "searchable": 0,
@@ -329,26 +329,6 @@
       "name": "飘花影视🌺兵哥视界",
       "type": 3,
       "api": "csp_PiaoHua",
-      "searchable": 1,
-      "quickSearch": 0,
-      "jar": "./jar/custom_spidert.jar",
-      "filterable": 1
-    },
-        {
-      "key": "XingYiYing",
-      "name": "星易影视🌺兵哥视界",
-      "type": 3,
-      "api": "csp_XingYiYing",
-      "searchable": 1,
-      "quickSearch": 0,
-      "jar": "./jar/custom_spidert.jar",
-      "filterable": 1
-    },
-    {
-      "key": "Cangzhang",
-      "name": "厂长影视🌺兵哥视界",
-      "type": 3,
-      "api": "csp_Cangzhang",
       "searchable": 1,
       "quickSearch": 0,
       "jar": "./jar/custom_spidert.jar",
