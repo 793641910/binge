@@ -1,6 +1,7 @@
 {
   "spider": "./jar/bingepg.jar",
   "wallpaper": "https://8698.kstore.space/kjhbn.webp",
+ "logo": "./logo.txt",
   "lives": [
     {
       "name": "live",
