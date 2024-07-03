@@ -15,7 +15,7 @@
   "sites": [
     {
       "key": "豆瓣热播",
-      "name": "🌹兵哥视界💘6月24日撰💋长按主页刷新数据🍎优化线路体验🇨🇳",
+      "name": "🌹兵哥视界💘7月3日撰💋长按主页刷新数据🍎优化线路体验🇨🇳",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -32,17 +32,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "./json/玩偶哥哥.json",
-      "jar": "./jar/BinGeShiJie.jar;md5;07f7e56adbda0c328398d7d663ff75a5"
-    },
-    {
-      "key": "wwgg",
-      "name": "玩我表哥🌺兵哥视界",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/玩我哥哥.json",
       "jar": "./jar/BinGeShiJie.jar;md5;07f7e56adbda0c328398d7d663ff75a5"
     },
     {
@@ -1240,15 +1229,16 @@
       "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
     },
     {
-      "key": "push_agent",
-      "name": "推送助手🌺兵哥视界",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "./jar/BinGeShiJie.jar;md5;07f7e56adbda0c328398d7d663ff75a5"
-    },
+            "key": "push_agent",
+            "name": "推送助手🌺兵哥视界",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "jar": "./jar/huige1.jar",
+            "ext": "http://127.0.0.1:9978/file/huigeTV/token.txt+4k|auto|fhd"
+        },
     {
       "key": "Gitcafe",
       "name": "阿里🌺小纸条",
