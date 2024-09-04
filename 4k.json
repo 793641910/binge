@@ -31,7 +31,7 @@
     },
         {
             "key": "csp_xml_ikun",
-            "name": "无始天尊",
+            "name": "艾伦剧院",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
             "searchable": 1,
@@ -75,7 +75,7 @@
         },
         {
             "key": "YGP",
-            "name": "太上老君",
+            "name": "无名影院",
             "type": 3,
             "api": "csp_YGP",
             "searchable": 0,
@@ -84,7 +84,7 @@
         },
         {
             "key": "短剧",
-            "name": "灵宝天尊",
+            "name": "爱看短剧",
             "type": 3,
             "api": "csp_Djuu",
             "searchable": 1,
@@ -93,7 +93,7 @@
         },
         {
             "key": "酷看",
-            "name": "菩提祖师",
+            "name": "库康电影",
             "type": 3,
             "api": "csp_Kkys",
             "timeout": 15,
@@ -103,7 +103,7 @@
         },
         {
             "key": "原创",
-            "name": "镇元大仙",
+            "name": "源创蓝光",
             "type": 3,
             "api": "csp_YCyz",
             "timeout": 15,
@@ -112,8 +112,8 @@
             "changeable": 1
         },
         {
-            "key": "苹果",
-            "name": "如来佛祖",
+            "key": "清果",
+            "name": "青果乐园",
             "type": 3,
             "api": "csp_LiteApple",
             "searchable": 1,
@@ -122,7 +122,7 @@
         },
         {
             "key": "奈飞中文",
-            "name": "玉皇大帝",
+            "name": "奈飞中文",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -133,7 +133,7 @@
         },
         {
             "key": "鸭奈飞影视",
-            "name": "观音菩萨",
+            "name": "鸭奈飞 🦢",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -144,7 +144,7 @@
         },
         {
             "key": "小点",
-            "name": "大唐圣僧",
+            "name": "小不点影视",
             "type": 3,
             "api": "csp_Xdys",
             "searchable": 1,
@@ -154,7 +154,7 @@
         },
         {
             "key": "视觉",
-            "name": "王母娘娘",
+            "name": "视觉盛宴",
             "type": 3,
             "api": "csp_Xinsj",
             "timeout": 15,
@@ -163,18 +163,7 @@
             "changeable": 1,
             "ext": "https://www.80yy3.com/"
         },
-        {
-            "key": "厂长",
-            "name": "齐天大圣",
-            "type": 3,
-            "api": "csp_NewCz",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://czzy.top/"
-        },
+       
         {
             "key": "南瓜",
             "name": "天蓬元帅",
