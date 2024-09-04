@@ -1359,28 +1359,10 @@
             ]
         },
         {
-            "key": "Ying",
-            "name": "黄眉大王",
-            "type": 3,
-            "api": "csp_Ying",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "Ysj",
-            "name": "万圣公主",
+            "name": "动漫之家💥兵哥视界",
             "type": 3,
             "api": "csp_Ysj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Anime1",
-            "name": "孔雀公主",
-            "type": 3,
-            "api": "csp_Anime1",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
