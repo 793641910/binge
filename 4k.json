@@ -15,6 +15,13 @@
             "jar": "./jar/douban.jar"
         },
         {
+            "key": "config",
+            "name": "配置中心🌺兵哥",
+            "type": 3,
+            "api": "csp_Config",
+            "playerType": 2
+        },
+        {
             "key": "玩偶",
             "name": "兵哥4k专线🌺兵哥",
             "type": 3,
