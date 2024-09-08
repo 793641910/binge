@@ -1,7 +1,7 @@
 {
     "spider": "./jar/binge240907.jar;md5;6f012619ebc8af51e86d19d2b7452f56",
     "wallpaper": "https://8698.kstore.space/logo.webp",
-    "logo": "https://gitee.com/biejiaooubingege/yes/raw/master/logo.txt",
+    "logo": "./lib/logo.txt",
     "warningText": "兵哥整理出品，永久免费使用",
     "sites": [
         {
