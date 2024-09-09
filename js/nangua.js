@@ -37,8 +37,8 @@ var rule = {
 		"User-Agent":"okhttp/4.6.0"
 	},
 	timeout:5000,
-	class_name:'电视剧&电影&动漫&综艺&海外精选', // /api.php/provide/home_nav
-	class_url:'2&1&4&3&46',
+	class_name:'电影&电视剧&综艺&动漫&外剧', // /api.php/provide/home_nav
+	class_url:'1&2&3&4&46',
 	limit:20,
 	play_parse:true,
 	lazy:`js:
