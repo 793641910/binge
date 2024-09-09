@@ -56,7 +56,7 @@
             "name": "南瓜影视🌺兵哥",
             "type": 3,
             "playerType": "2",
-            "api": "./lib/ng_open.js"
+            "api": "./lib/nangua.js"
         },
         {
             "key": "csp_J",
