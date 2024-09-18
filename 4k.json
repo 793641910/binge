@@ -15,6 +15,22 @@
             "jar": "./jar/douban.jar"
         },
         {
+            "key": "预告",
+            "name": "影片预告更新于9月18号",
+            "type": 3,
+            "api": "csp_YGP",
+            "jar": "./jar/01.jar",
+            "searchable": 0
+        },
+        {
+            "key": "兵哥",
+            "name": "兵哥直播🌺兵哥视界",
+            "type": 3,
+            "api": "./js/sdtv.js",
+            "ext": "./js/sdtv.txt",
+            "jar": "./jar/sdtv.jar"
+        },
+        {
             "key": "config",
             "name": "配置中心🌺兵哥",
             "type": 3,
@@ -36,6 +52,17 @@
                 "siteUrl": "https://www.wogg.net/",
                 "danMu": "弹"
             }
+        },
+        {
+            "key": "Gitcafe",
+            "name": "阿里🌺小纸条",
+            "type": 3,
+            "api": "csp_Gitcafe",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/binge.txt;md5;aa164c88dfaf62b98b44fc6086a77fef",
+            "ext": "./tvboxt/tok.txt"
         },
         {
             "key": "csp_Duopan",
