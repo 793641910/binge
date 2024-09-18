@@ -61,7 +61,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-             "jar": "./jar/BinGeShiJie.jar", "ext": "./tvboxt/tok.txt"
+            "jar": "./jar/BinGeShiJie.jar", 
+            "ext": "./tvboxt/tok.txt"
         },
         {
             "key": "csp_Duopan",
