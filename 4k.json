@@ -1,6 +1,6 @@
 {
     "spider": "./jar/binge240907.jar;md5;6f012619ebc8af51e86d19d2b7452f56",
-    "wallpaper": "https://8698.kstore.space/logo.webp",
+    "wallpaper": "https://8698.kstore.space/BiZhi.webp",
     "logo": "./lib/logo.txt",
     "warningText": "兵哥整理出品，永久免费使用",
     "sites": [
@@ -1549,11 +1549,15 @@
     ],
     "lives": [
         {
-            "name": "兵哥live",
-            "url": "https://www.now61.com/f/b5q4tm/ZB.txt",
+            "name": "兵哥直播",
+            "url": "https://www.now61.com/f/DVnKiq/BG.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "歌曲大全",
+            "url": "https://www.now61.com/f/OLbGID/Music.txt"
         },
         {
             "name": "兵哥ITV",
