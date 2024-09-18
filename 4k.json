@@ -62,7 +62,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "./jar/BinGeShiJie.jar", 
-            "ext": "./tvboxt/tok.txt"
+            "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
         },
         {
             "key": "csp_Duopan",
