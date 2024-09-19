@@ -1,5 +1,6 @@
 [
 {"name":"兵哥直播","url":"https://www.now61.com/f/DVnKiq/BG.txt?ref=master&&&https://8698.kstore.space/logo2.txt?category=meinv&type=302"},
+{"name":"兵哥电视📺","url":"https://www.now61.com/f/lJLAi4/daquan.txt?ref=master&&&https://8698.kstore.space/logo2.txt?category=meinv&type=302"},
 {"name":"兵哥歌曲大全","url":"https://www.now61.com/f/OLbGID/Music.txt?ref=master&&&https://8698.kstore.space/logo.txt?category=meinv&type=302"},
 {"name":"春盈直播","url":"https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2Ffeihu6.txt?ref=master&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"}
 
