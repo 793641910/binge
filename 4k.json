@@ -127,7 +127,7 @@
             "key": "星芽短剧",
             "name": "星芽短剧🌺兵哥视界",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
