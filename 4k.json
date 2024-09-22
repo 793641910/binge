@@ -250,7 +250,7 @@
   "type": 3,
   "searchable": 1,
   "quickSearch": 1,
-  "api": "./js/drpy2.js",
+  "api": "./lib/drpy2.min.js",
   "filterable": 1,
   "ext": "./js/爱看bot.js"
         },
