@@ -20,6 +20,26 @@
       "quickSearch": 0
     },
     {
+  "key": "hipy_js_地瓜视频[密]",
+  "name": "地瓜视频",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "api": "./lib/drpy2.min.js",
+  "filterable": 1,
+  "ext": "./js/地瓜视频[密].js"
+    },
+    {
+  "key": "hipy_js_黑料不打烊-z",
+  "name": "黑料不打烊",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "api": "./lib/drpy2.min.js",
+  "filterable": 1,
+  "ext": "./js/黑料不打烊-z.js"
+    },
+    {
             "key": "优优阁",
             "name": "优优阁",
             "type": 3,
