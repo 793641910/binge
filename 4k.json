@@ -245,6 +245,16 @@
             "ext": "http://api2.rinhome.com"
         },
         {
+  "key": "_爱看bot",
+  "name": "爱看bot🌺兵哥",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "api": "./js/drpy2.js",
+  "filterable": 1,
+  "ext": "./js/爱看bot.js"
+        },
+        {
             "key": "csp_AppRZ",
             "name": "忍者影视🌺兵哥",
             "type": 3,
