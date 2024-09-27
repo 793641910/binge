@@ -58,20 +58,36 @@
             "ext": "./js/kxzb1.txt",
             "jar": "./jar/sdtv.jar"
         },
-        {
-            "key": "玩偶",
-            "name": "兵哥4k专线",
+                {
+            "key": "玩偶弹幕",
+            "name": "玩偶哥哥4K弹幕",
             "type": 3,
-            "api": "csp_WoGG",
+            "api": "csp_Wogg",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
-            "jar": "./jar/binge.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90",
+            "filterable": 1,
             "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto",
-                "siteUrl": "https://www.wogg.net/",
-                "danMu": "弹"
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "wogg": true,
+                "danmu": true
+            }
+        },
+        {
+            "key": "玩偶备用弹幕",
+            "name": "兵哥4K弹幕",
+            "type": 3,
+            "api": "csp_Wogg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://wogg.xxooo.cf",
+                "danmu": true
             }
         },
         {
@@ -985,38 +1001,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "玩偶弹幕",
-            "name": "玩偶哥哥4K弹幕",
-            "type": 3,
-            "api": "csp_Wogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "wogg": true,
-                "danmu": true
-            }
-        },
-        {
-            "key": "玩偶备用弹幕",
-            "name": "玩偶备用4K弹幕",
-            "type": 3,
-            "api": "csp_Wogg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://wogg.xxooo.cf",
                 "danmu": true
             }
         },
