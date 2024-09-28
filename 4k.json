@@ -22,7 +22,7 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "私募港澳",
+            "name": "④木港澳",
             "url": "https://jk.magiclee.cn/down.php/4164be7128f592000eb61eead4723942.json",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
