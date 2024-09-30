@@ -765,6 +765,50 @@
   "by": "current"
         },
         {
+  "key": "hipy_js_巴士动漫",
+  "name": "巴士动漫",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "api": "./lib/drpy2.min.js",
+  "filterable": 1,
+  "ext": "./js/动漫巴士.js",
+  "by": "current"
+        },
+        {
+  "key": "hipy_js_大米动漫",
+  "name": "大米动漫",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "api": "./lib/drpy2.min.js",
+  "filterable": 1,
+  "ext": "./js/大米动漫.js",
+  "by": "current"
+        },
+        {
+  "key": "hipy_js_NT动漫",
+  "name": "NT动漫",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "api": "./lib/drpy2.min.js",
+  "filterable": 1,
+  "ext": "./js/NT动漫.js",
+  "by": "current"
+        },
+        {
+  "key": "hipy_js_瓜子动漫",
+  "name": "瓜子动漫",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "api": "./lib/drpy2.min.js",
+  "filterable": 1,
+  "ext": "./js/花子动漫.js",
+  "by": "current"
+        },
+        {
             "key": "索尼资源",
             "name": "索尼采集",
             "type": 1,
