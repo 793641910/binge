@@ -101,6 +101,17 @@
             "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
         },
         {
+            "key": "Ikanbot",
+            "name": "爱看boot",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/爱看bot.js"
+        },
+        {
             "key": "无忧短剧",
             "name": "无忧短剧",
             "type": 3,
@@ -456,15 +467,6 @@
             "name": "小苹果影视",
             "type": 3,
             "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "机器人",
-            "name": "爱看boot",
-            "type": 3,
-            "api": "csp_Ikanbot",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
