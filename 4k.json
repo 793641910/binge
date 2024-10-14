@@ -5,7 +5,7 @@
     "lives": [
         {
             "name": "兵哥直播",
-            "url": "https://www.now61.com/f/DVnKiq/BG.txt",
+            "url": "https://www.now61.com/f/mzmbuR/BG.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -32,7 +32,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥10月11日整理💋长按主页刷新数据㊗️国庆快乐🇨🇳",             "type": 3,
+            "name": "💥兵哥视界💥10月14日整理💋长按主页刷新数据㊗️国庆快乐🇨🇳",             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
             "quickSearch": 0,
