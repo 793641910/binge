@@ -18,7 +18,7 @@
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
-            "api": "./FL/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "filterable": 1,
             "ext": "./FL/黑料不打烊-z.js"
         },
@@ -37,7 +37,7 @@
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
-            "api": "./FL/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "filterable": 1,
             "ext": "./FL/地瓜视频.js"
         },
