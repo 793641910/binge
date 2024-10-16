@@ -11,15 +11,6 @@
 "wallpaper": "https://gitee.com/shangyunvip/shangyunvipdc/raw/master/tupian/fengjing1.jpg",
   "sites": [
     {
-      "key": "撸铁🏋️",
-      "name": "私下用，分享必删",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
-      "playUrl": "",
-      "categories": [],
-      "quickSearch": 0
-    },
-    {
             "key": "优优阁",
             "name": "优优阁",
             "type": 3,
