@@ -4,8 +4,8 @@
     "logo": "./json/logo.txt",
     "lives": [
         {
-            "name": "IPv6",
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "name": "兵哥歌曲大全",
+            "url": "https://www.now61.com/f/OLbGID/Music.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -28,7 +28,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥10月24日整理💋长按主页刷新数据🌺修复筛选功能🇨🇳",             "type": 3,
+            "name": "💥兵哥视界💥11月2日整理💋长按主页刷新数据🌺修复失效站点🇨🇳",             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
             "quickSearch": 0,
