@@ -28,7 +28,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥11月2日整理💋长按首页刷新数据🌺修复失效站点🇨🇳",             "type": 3,
+            "name": "💥兵哥视界💥11月3日整理💋长按首页刷新数据🌺优化优质站点顺序🇨🇳",             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
             "quickSearch": 0,
@@ -312,15 +312,6 @@
             "ext": "http://z.kzjtv.com/"
         },
         {
-            "key": "大米星球",
-            "name": "大米APP",
-            "type": 3,
-            "api": "csp_AppDaMi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "笙歌影视",
             "name": "笙歌APP",
             "type": 3,
@@ -542,6 +533,15 @@
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/爱奇艺.js"
+        },
+        {
+            "key": "大米星球",
+            "name": "大米APP",
+            "type": 3,
+            "api": "csp_AppDaMi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "三六零",
