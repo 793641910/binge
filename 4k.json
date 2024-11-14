@@ -547,8 +547,12 @@
             "key": "茶杯狐",
             "name": "茶杯狐影视",
             "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/茶杯狐.js"
+            "ext": "./js/茶杯狐.js",
+            "by": "current"
         },
         {
             "key": "在线之家",
