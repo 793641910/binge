@@ -5,7 +5,7 @@
     "lives": [
         {
             "name": "兵哥歌曲大全",
-            "url": "https://www.now61.com/f/OLbGID/Music.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/Music.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
