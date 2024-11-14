@@ -211,6 +211,15 @@
             }
         },
         {
+            "key": "洽洽影视",
+            "name": "洽洽影视",
+            "type": 3,
+            "api": "csp_AppGZ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "星芽短剧",
             "name": "星芽短剧",
             "type": 3,
@@ -1034,21 +1043,6 @@
             }
         },
         {
-            "key": "夸克土豆弹幕",
-            "name": "土豆4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "site": "https://tudou.lvdoui.top",
-                "danmu": true
-            }
-        },
-        {
             "key": "夸克多多弹幕",
             "name": "多多4K弹幕",
             "type": 3,
@@ -1095,22 +1089,6 @@
             }
         },
         {
-            "key": "夸克奥秘弹幕",
-            "name": "奥秘4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://vip.omii.top",
-                "danmu": true
-            }
-        },
-        {
             "key": "夸克云星弹幕",
             "name": "云星4K弹幕",
             "type": 3,
@@ -1123,20 +1101,6 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "site": "https://4k.4u4.cn",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克团长弹幕",
-            "name": "团长4K弹幕",
-            "type": 3,
-            "api": "csp_Tzfile",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
