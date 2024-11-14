@@ -28,7 +28,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥11月15日整理🧧长按首页刷新数据🧧新增六个优质站点🇨🇳",             "type": 3,
+            "name": "💥兵哥视界💥11月15日整理🧧长按首页刷新数据🧧新增九个优质站点🇨🇳",             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
             "quickSearch": 0,
@@ -164,6 +164,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "hjs_瓜子影视",
+            "name": "瓜子影视",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "./lib/drpy2.min.js",
+            "filterable": 1,
+            "ext": "./js/瓜子视频.js"
         },
         {
             "key": "hipy_js_抖短剧APP",
@@ -414,15 +424,6 @@
             "name": "爱看影视",
             "type": 3,
             "api": "csp_Ikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "瓜子影视",
-            "name": "瓜子影视",
-            "type": 3,
-            "api": "csp_Gz360",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
