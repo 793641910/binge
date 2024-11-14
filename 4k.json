@@ -536,7 +536,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },{
+        },
+        {
             "key": "奇优影视",
             "name": "奇优影视",
             "type": 3,
@@ -586,6 +587,7 @@
             "type": 3,
             "api": "csp_AppDaMi",
             "searchable": 1,
+            "jar": "./jar/xiaosa.jar",
             "quickSearch": 1,
             "filterable": 1
         },
