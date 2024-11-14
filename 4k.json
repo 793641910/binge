@@ -444,8 +444,7 @@
             "api": "csp_FreeOK",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.freeok.lol"
+            "filterable": 1
         },
         {
             "key": "兄弟影视",
