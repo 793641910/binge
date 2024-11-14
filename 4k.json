@@ -641,15 +641,6 @@
             "ext": "./json/奇趣影视.json"
         },
         {
-            "key": "蚂蚁资源",
-            "name": "蚂蚁采集",
-            "type": 1,
-            "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
-            "searchable": 1,
-            "changeable": 1,
-            "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="
-        },
-        {
             "key": "红牛资源",
             "name": "红牛采集",
             "type": 1,
@@ -943,18 +934,6 @@
             }
         },
         {
-            "key": "厂长弹幕",
-            "name": "厂长弹幕",
-            "type": 3,
-            "api": "csp_Czzy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
             "key": "天天弹幕",
             "name": "天天弹幕",
             "type": 3,
@@ -1015,28 +994,11 @@
             }
         },
         {
-            "key": "一起看弹幕",
-            "name": "一起看弹幕",
+            "key": "腾讯弹幕",
+            "name": "腾讯弹幕",
             "type": 3,
-            "api": "csp_Yqk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "JOJO弹幕",
-            "name": "JOJO弹幕",
-            "type": 3,
-            "api": "csp_Jiohub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/腾讯弹幕.js"
         },
         {
             "key": "夸克欧歌弹幕",
