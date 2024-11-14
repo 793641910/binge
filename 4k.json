@@ -28,7 +28,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥11月15日整理🧧长按首页刷新数据🧧新增九个优质站点🇨🇳",             "type": 3,
+            "name": "💥兵哥视界💥11月15日整理🧧长按首页刷新数据🧧新增大量优质站点🇨🇳",             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
             "quickSearch": 0,
@@ -91,7 +91,7 @@
             "key": "采集之王",
             "name": "🌺采集之王🌺",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -181,7 +181,7 @@
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "filterable": 1,
             "ext": "./js/抖短剧APP.js",
             "by": "current"
@@ -223,7 +223,7 @@
             "key": "天堂短剧",
             "name": "天堂短剧",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/天堂短剧.js"
         },
         {
@@ -566,98 +566,98 @@
             "key": "三六零",
             "name": "三六零视频",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/三六零.js"
         },
         {
             "key": "剧圈圈",
             "name": "剧圈圈影视",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/剧圈圈.js"
         },
         {
             "key": "追剧迷",
             "name": "追剧迷影视",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/追剧迷.js"
         },
         {
             "key": "看了么",
             "name": "看了么影视",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/看了么.js"
         },
         {
             "key": "茶杯狐",
             "name": "茶杯狐影视",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/茶杯狐.js"
         },
         {
             "key": "在线之家",
             "name": "在线影视",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/在线之家.js"
         },
         {
             "key": "魔力高清",
             "name": "魔力影视",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/魔力高清.js"
         },
         {
             "key": "腾讯视频",
             "name": "腾讯视频",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/腾讯视频.js"
         },
         {
             "key": "优酷视频",
             "name": "优酷视频",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/优酷视频.js"
         },
         {
             "key": "芒果视频",
             "name": "芒果视频",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/芒果视频.js"
         },
         {
             "key": "搜狗视频",
             "name": "搜狗视频",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/搜狗视频.js"
         },
         {
             "key": "碟调影视",
             "name": "碟调影视",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/碟调影视.js"
         },
         {
             "key": "欧帝影院",
             "name": "欧帝影视",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/欧帝影院.js"
         },
         {
             "key": "畅梦影视",
             "name": "畅梦影视",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/畅梦影视.js"
         },
         {
