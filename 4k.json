@@ -156,7 +156,15 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        
+        {
+            "key": "金牌影视",
+            "name": "金牌影视",
+            "type": 3,
+            "api": "csp_WebJP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "hipy_js_抖短剧APP",
             "name": "抖音短剧",
