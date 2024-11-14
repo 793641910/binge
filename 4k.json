@@ -478,36 +478,36 @@
             "key": "完美弹幕",
             "name": "完美｜弹幕",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/完美弹幕.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/完美弹幕.js"
         },
         {
             "key": "悠悠弹幕",
             "name": "悠悠｜弹幕",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/悠悠弹幕.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/悠悠弹幕.js"
         },
         {
             "key": "小熊弹幕",
             "name": "小熊｜弹幕",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/小熊弹幕.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/小熊弹幕.js"
         },
         {
             "key": "巨人弹幕",
             "name": "巨人｜弹幕",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/巨人弹幕.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/巨人弹幕.js"
         },
         {
             "key": "小虎斑弹幕",
             "name": "小虎斑｜弹幕",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/小虎斑弹幕.js"
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/小虎斑弹幕.js"
         },
         {
             "key": "新视觉",
