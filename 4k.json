@@ -220,6 +220,16 @@
             "filterable": 1
         },
         {
+            "key": "酷酷影视",
+            "name": "酷酷APP",
+            "type": 3,
+            "api": "csp_App",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "KhYJ00ye42lr+7UsoxLsfea0p0H5SUkT7Tv/+ACyPvFQ+ozQDB0SI/NCeN59w0RiNzIKjBHQR9I/4GBIAlWmFKcvyM+yqtiPTwaxfs74YG+PHrb7VfKDLVFb0luKJl2gZ5pIVjIwVQNUCt5TAXutZxNBtlKGin+L/4vCsOIjR2r16dqyQwlpOKySq4NGGkKeA48tTxR+emOxn/qGPt5xjInFeLJXMvYxdp47pOKOA4Oj4LJnJ+ezEzScDoT2IASN0Rvl2ZneGEGkqlDU8NquYUP/svq1zScEYCpobKdg0ILB7Hba+5cMwtlnjGiHyCaM9dx+z+cVzD9cSTo/aL5gSoAPT4QzkFxezSARli9nVDmnS0MrY/NhiexS8AE+1et9"
+        },
+        {
             "key": "星芽短剧",
             "name": "星芽短剧",
             "type": 3,
@@ -320,6 +330,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://z.kzjtv.com/"
+        },
+        {
+            "key": "追梦影视",
+            "name": "追梦APP",
+            "type": 3,
+            "api": "csp_App",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "KhYJ00ye42lrgMpNiF+rOvz59ga1R1FQv2eU9xm2Iu1VrOOAQhMKd/5Ef8cogkk0Y3RJ20zdTsh6uytEQhi5H+x3q9ykk86fAlKxZsD4JSOVC5vqBIHXLUdbmRnBIXWxcZBIXFtvDsnRlRrdhe15op6nVQPj3jTftN2v9+IDRS2auZS8W1hoOL2jvcoiUEzLToN7FV14amT6puaPWMkj34WXPOALOvIkDM57pLfeccPg9oZFJOvob2S7NE55hsAbY0y7l63JB0ukoDmLq9q4YRSh/M6i0i8XMVk8bLFggs+R73Ld+p5bipdnmmrRg3qMu5dVCFuyfllyKl0ZJddNw4AFQExqghU1xo0RpCm1FgL+FmBLMdYCxM+fNYaF6blwRnzcfPct0XtmXoB9"
         },
         {
             "key": "1905",
