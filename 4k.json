@@ -57,7 +57,7 @@
         },
                 {
             "key": "玩偶弹幕",
-            "name": "玩偶哥哥4K弹幕",
+            "name": "玩偶哥哥4K",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -87,6 +87,22 @@
                 "danmu": true
             }
         },
+        {
+      "key": "萌萌",
+      "name": "萌萌4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "http://www.mucpan.cc",
+        "danmu": true
+      }
+    },
         {
             "key": "采集之王",
             "name": "🌺采集之王🌺",
