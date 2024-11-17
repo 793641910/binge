@@ -158,7 +158,7 @@ var rule = {
         } else {
             print(input + "暂无片源")
         }
-        VOD.vod_play_from = "兵哥出品";
+        VOD.vod_play_from = "兵哥出品4K";
         VOD.vod_play_url = d.map(function (it) {
             return it.title + "$" + it.url
         }).join("#");
