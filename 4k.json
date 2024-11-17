@@ -28,7 +28,8 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥11月16日整理🧧长按首页刷新数据🧧优化增加优质站点🇨🇳",             "type": 3,
+            "name": "💥兵哥视界💥11月17日整理🧧长按首页刷新数据🧧优化增加4K站点🇨🇳",             
+            "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
             "quickSearch": 0,
@@ -101,8 +102,32 @@
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
         "site": "http://www.mucpan.cc",
         "danmu": true
-      }
-    },
+        }
+        },
+        {
+            "key": "影探",
+            "name": "影探4K",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "./js/影探.js"
+        },
+        {
+            "key": "芒果",
+            "name": "芒果4K",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "./js/芒果TV.js"
+        },
         {
             "key": "采集之王",
             "name": "🌺采集之王🌺",
