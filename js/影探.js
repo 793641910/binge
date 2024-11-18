@@ -5,7 +5,7 @@ globalThis.gethost = 'http://cmsyttv.lyyytv.cn'
 
 let data=JSON.parse(fetch(gethost+'/api.php/app/nav?token',{headers:{'User-Agent':'Dart/2.14 (dart:io)'}}));let dy={"class":"类型","area":"地区","lang":"语言","year":"年份","letter":"字母","by":"排序"};let fyurl='';let result={};let getn=[];let getu=[];let jsonData=data.list;for(let k=0;k<jsonData.length;k++){let hasNonEmptyField=false;getn.push(jsonData[k].type_name);getu.push(jsonData[k].type_id);for(let key in dy){if(key in jsonData[k].type_extend&&jsonData[k].type_extend[key].trim()!==""){hasNonEmptyField=true;break}};if(hasNonEmptyField){result[String(jsonData[k].type_id)]=[];for(let dkey in jsonData[k].type_extend){if(dkey in dy&&jsonData[k].type_extend[dkey].trim()!==""){if(k==0){fyurl+=`&${dkey}={{fl.${dkey}}}`}let values=jsonData[k].type_extend[dkey].split(',');let valueArray=values.map(value=>({"n":value.trim(),"v":value.trim()}));result[String(jsonData[k].type_id)].push({"key":dkey,"name":dy[dkey],"value":valueArray})}}}};globalThis.getname=getn.join("&");globalThis.geturl=getu.join("&");globalThis.getfilter=result;globalThis.getfyurl=fyurl;
 var rule = {
-    author: '嗷呜',
+    author: 'binge',
     title: '[V2]模板',
     host: gethost,
     url: '/api.php/app/video?tid=fyclassfyfilter&limit=20&pg=fypage',
