@@ -619,7 +619,7 @@
             "key": "爱奇艺",
             "name": "爱奇艺视频",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "./apilib/drpy2.min.js",
             "ext": "./js/爱奇艺.js"
         },
         {
@@ -689,28 +689,28 @@
             "key": "腾讯视频",
             "name": "腾讯视频",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "./apilib/drpy2.min.js",
             "ext": "./js/腾讯视频.js"
         },
         {
             "key": "优酷视频",
             "name": "优酷视频",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "./apilib/drpy2.min.js",
             "ext": "./js/优酷视频.js"
         },
         {
             "key": "芒果视频",
             "name": "芒果视频",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "./apilib/drpy2.min.js",
             "ext": "./js/芒果视频.js"
         },
         {
             "key": "搜狗视频",
             "name": "搜狗视频",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "./apilib/drpy2.min.js",
             "ext": "./js/搜狗视频.js"
         },
         {
