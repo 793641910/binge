@@ -1099,6 +1099,23 @@
             }
         },
         {
+      "key": "Bili",
+      "name": "B站",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "jar": "./jar/worong.txt",
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://notabug.org/fantaiying/ext/raw/main/bilibili.json"
+      }
+    },
+        {
             "key": "腾讯弹幕",
             "name": "腾讯弹幕",
             "type": 3,
