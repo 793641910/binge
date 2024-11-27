@@ -1176,7 +1176,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/xiaosa1.jar",
+            "jar": "./jar/xiaosa.jar",
             "changeable": 1,
             "filterable": 1,
             "ext": {
