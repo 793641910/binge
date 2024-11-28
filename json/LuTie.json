@@ -21,13 +21,13 @@
             "ext": "./FL/黑料不打烊-z.js"
         },
         {
-            "key": "撸铁",
+            "key": "pgxdy",
             "name": "撸铁",
-            "type": 1,
-            "api": "https://lbapi9.com/api.php/provide/vod/",
-            "playUrl": "",
-            "categories": [],
-            "quickSearch": 0
+            "type": 0,
+            "api": "https://www.pgxdy.com/api/xml.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "hipy_js_地瓜视频[密]",
