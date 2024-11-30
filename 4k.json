@@ -1,6 +1,6 @@
 {
     "spider": "./jar/辉少.jar",
-    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "wallpaper": "./json/bizi.webp",
     "warningText": "兵哥出品的接口完全免费，切勿付费购买！",
     "logo": "./json/logo.txt",
     "lives": [
