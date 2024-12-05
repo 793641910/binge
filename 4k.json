@@ -110,6 +110,22 @@
             }
         },
         {
+      "key": "肥猫",
+      "name": "肥猫4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "./jar/xiaosa1.jar",     
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "site": "http://feimaouc.cloud:666",
+        "danmu": true
+      }
+    },
+        {
             "key": "夸克土豆",
             "name": "马铃薯4K",
             "type": 3,
