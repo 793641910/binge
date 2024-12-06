@@ -126,6 +126,20 @@
       }
     },
         {
+            "key": "阿狸",
+            "name": "阿狸4K",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "jar": "./jar/七号.jar",
+            "filterable": 0,
+            "changeable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "danmu": true
+            }
+        },
+        {
             "key": "夸克土豆",
             "name": "马铃薯4K",
             "type": 3,
