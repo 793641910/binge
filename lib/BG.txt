@@ -368,6 +368,12 @@ IHOT-爱体育,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000
 
 
 🌺港台IPV6🌺兵哥整理,#genre#
+
+//12月8号
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
 //11月6号云影
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
