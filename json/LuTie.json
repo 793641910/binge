@@ -11,6 +11,124 @@
             "quickSearch": 0
         },
         {
+      "key": "didiz1111",
+      "name": "大全",
+      "type": 1,
+      "api": "http://45.152.67.99:1555/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "didiz12211",
+      "name": "🔞麻豆4K",
+      "type": 1,
+      "api": "http://45.152.67.99:1666/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+
+      "key": "XMVideo",
+      "name": "🔞熊猫视频",
+      "type": 3,
+      "api": "csp_XMVideo",
+      "searchable": 1,
+      "filterable": 1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+    },
+    {
+      "key": "didiz",
+      "name": "💕玫瑰(直连)",
+      "type": 1,
+      "api": "https://rb.huaduys.org/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hipy_js_ss直播",
+      "name": "色色直播",
+      "type": 3,
+      "api": "https://gitee.com/hccxbg/bg/raw/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./色色直播.js"
+    },
+    {
+      "key": "*美少女资源",
+      "name": "*🔞美少女资源",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "*淫水机资源",
+      "name": "*🔞淫水机资源",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "*香奶儿资源",
+      "name": "*🔞香奶儿资源",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "*白嫖资源",
+      "name": "*🔞白嫖资源",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "Cg51",
+      "name": "🔞51吃瓜",
+      "type": 3,
+      "api": "csp_Cg51",
+      "searchable": 1,
+      "filterable": 1,
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+    },
+    {
+      "key": "51黑料福利社",
+      "name": "51黑料福利社",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "发布地址": "https://51heiliaofulishe.com",
+        "主页url": "https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/ko",
+        "数组": "class=\"item-box\">&&</a",
+        "图片": "src=\"&&\"",
+        "副标题": "<!-- <small>&&</small> -->",
+        "简介": "description\" content=\"&&|全站免费",
+        "链接": "https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/v/+href=\"/voddetail/&&/\"+/",
+        "搜索模式": "1",
+        "搜索url": "https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/s/page/{pg}/wd/{wd}/",
+        "分类数组": "<a&&/a",
+        "分类标题": ">&&<",
+        "分类ID": "/t/&&/",
+        "分类url": "https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/t/{cateId}-{catePg}/;;z"
+      }
+    },
+    {
+      "key": "*KK写真资源",
+      "name": "*🔞91高清",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+        {
             "key": "hipy_js_黑料不打烊-z",
             "name": "黑料不打烊",
             "type": 3,
