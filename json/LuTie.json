@@ -34,7 +34,7 @@
       "api": "csp_XMVideo",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+      "jar": "./FL/182.jar"
     },
     {
       "key": "didiz",
@@ -94,7 +94,7 @@
       "api": "csp_Cg51",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+      "jar": "./FL/182.jar"
     },
     {
       "key": "51黑料福利社",
