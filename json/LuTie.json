@@ -53,7 +53,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "./色色直播.js"
+      "ext": "./FL/瑟瑟纸播.js"
     },
     {
       "key": "*美少女资源",
@@ -118,7 +118,8 @@
         "分类标题": ">&&<",
         "分类ID": "/t/&&/",
         "分类url": "https://xn--sew--d22d-or3qf22vs68d.koxueyuan7pk789.xyz/t/{cateId}-{catePg}/;;z"
-      }
+      },
+        "jar": "./FL/fenghe.jar"
     },
     {
       "key": "*KK写真资源",
