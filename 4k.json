@@ -255,7 +255,7 @@
             "quickSearch": 1,
             "api": "./apilib/drpy2.min.js",
             "filterable": 1,
-            "ext": "./js/瓜子视频.js"
+            "ext": "./js/瓜子视频.js",
             "by": "current"
         },
         {
