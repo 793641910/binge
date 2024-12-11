@@ -140,23 +140,6 @@
             }
         },
         {
-            "key": "夸克土豆",
-            "name": "马铃薯4K",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "./jar/xiaosa1.jar",
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://dcyun.cc",
-                "danmu": true
-            }
-        },
-        {
             "key": "影探",
             "name": "影探4K",
             "type": 3,
@@ -1377,6 +1360,23 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "site": "http://wobgg.run-us-west2.goorm.io",
+                "danmu": true
+            }
+        },
+        {
+            "key": "夸克土豆",
+            "name": "马铃薯4K",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "./jar/xiaosa1.jar",
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://dcyun.cc",
                 "danmu": true
             }
         },
