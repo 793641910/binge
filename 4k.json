@@ -253,7 +253,7 @@
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
-            "api": "./applib/drpy2.min.js",
+            "api": "./apilib/drpy2.min.js",
             "filterable": 1,
             "ext": "./js/瓜子视频.js"
         },
