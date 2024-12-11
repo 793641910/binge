@@ -170,7 +170,8 @@
             "api": "./lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
+            "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1",
+            "by": "current"
         },
         {
             "key": "机器人",
@@ -246,6 +247,17 @@
             "jar": "./jar/xiaosa1.jar",
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "hipy_js_人人影视",
+            "name": "人人影视",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "./apilib/drpy2.min.js",
+            "filterable": 1,
+            "ext": "./js/人人影视.js",
+            "by": "current"
         },
         {
             "key": "hjs_瓜子影视",
@@ -771,28 +783,32 @@
             "name": "悠悠｜弹幕",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/悠悠弹幕.js"
+            "ext": "./js/悠悠弹幕.js",
+            "by": "current"
         },
         {
             "key": "小熊弹幕",
             "name": "小熊｜弹幕",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/小熊弹幕.js"
+            "ext": "./js/小熊弹幕.js",
+            "by": "current"
         },
         {
             "key": "巨人弹幕",
             "name": "巨人｜弹幕",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/巨人弹幕.js"
+            "ext": "./js/巨人弹幕.js",
+            "by": "current"
         },
         {
             "key": "小虎斑弹幕",
             "name": "小虎斑｜弹幕",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/小虎斑弹幕.js"
+            "ext": "./js/小虎斑弹幕.js",
+            "by": "current"
         },
         {
             "key": "新视觉",
@@ -859,7 +875,8 @@
             "name": "爱奇艺视频",
             "type": 3,
             "api": "./apilib/drpy2.min.js",
-            "ext": "./js/爱奇艺.js"
+            "ext": "./js/爱奇艺.js",
+            "by": "current"
         },
         {
             "key": "大米星球",
@@ -876,28 +893,32 @@
             "name": "三六零视频",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/三六零.js"
+            "ext": "./js/三六零.js",
+            "by": "current"
         },
         {
             "key": "剧圈圈",
             "name": "剧圈圈影视",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/剧圈圈.js"
+            "ext": "./js/剧圈圈.js",
+            "by": "current"
         },
         {
             "key": "追剧迷",
             "name": "追剧迷影视",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/追剧迷.js"
+            "ext": "./js/追剧迷.js",
+            "by": "current"
         },
         {
             "key": "看了么",
             "name": "看了么影视",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/看了么.js"
+            "ext": "./js/看了么.js",
+            "by": "current"
         },
         {
             "key": "茶杯狐",
@@ -915,56 +936,64 @@
             "name": "在线影视",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/在线之家.js"
+            "ext": "./js/在线之家.js",
+            "by": "current"
         },
         {
             "key": "魔力高清",
             "name": "魔力影视",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/魔力高清.js"
+            "ext": "./js/魔力高清.js",
+            "by": "current"
         },
         {
             "key": "腾讯视频",
             "name": "腾讯视频",
             "type": 3,
             "api": "./apilib/drpy2.min.js",
-            "ext": "./js/腾讯视频.js"
+            "ext": "./js/腾讯视频.js",
+            "by": "current"
         },
         {
             "key": "优酷视频",
             "name": "优酷视频",
             "type": 3,
             "api": "./apilib/drpy2.min.js",
-            "ext": "./js/优酷视频.js"
+            "ext": "./js/优酷视频.js",
+            "by": "current"
         },
         {
             "key": "芒果视频",
             "name": "芒果视频",
             "type": 3,
             "api": "./apilib/drpy2.min.js",
-            "ext": "./js/芒果视频.js"
+            "ext": "./js/芒果视频.js",
+            "by": "current"
         },
         {
             "key": "搜狗视频",
             "name": "搜狗视频",
             "type": 3,
             "api": "./apilib/drpy2.min.js",
-            "ext": "./js/搜狗视频.js"
+            "ext": "./js/搜狗视频.js",
+            "by": "current"
         },
         {
             "key": "碟调影视",
             "name": "碟调影视",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/碟调影视.js"
+            "ext": "./js/碟调影视.js",
+            "by": "current"
         },
         {
             "key": "畅梦影视",
             "name": "畅梦影视",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/畅梦影视.js"
+            "ext": "./js/畅梦影视.js",
+            "by": "current"
         },
         {
             "key": "五五影视",
