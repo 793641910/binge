@@ -248,25 +248,45 @@
             "filterable": 1
         },
         {
-            "key": "金牌影视",
-            "name": "金牌影视",
-            "type": 3,
-            "api": "csp_WebJP",
-            "searchable": 1,
-            "jar": "./jar/xiaosa1.jar",
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "hjs_瓜子影视",
             "name": "瓜子影视",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
-            "api": "./lib/drpy2.min.js",
+            "api": "./applib/drpy2.min.js",
             "filterable": 1,
             "ext": "./js/瓜子视频.js"
         },
+        {
+            "key": "ruka",
+            "name": "金牌影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://www.ruituka.com",
+                "简介": "🌺关注企鹅号“别叫偶兵哥哥”🌺获取最新接口🌺加qq防迷失！🌺兵哥提醒您以下为简介🌺：+</label>&&</div>",
+                "影片类型": "tags\">&&director\">",
+                "影片状态": "bottom\">&&</div>",
+                "二次截取": "videoList\":\\[&&\\]",
+                "数组": "{&&}[不包含:伦理剧]",
+                "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
+                "标题": "vodName\":\"&&\"",
+                "副标题": "vodRemarks\":\"&&\"",
+                "链接": "https://www.ruituka.com/detail/+vodId\":&&,",
+                "导演": "导演:</div>&&主演",
+                "主演": "主演:</div>&&别名",
+                "线路标题": "🌺兵哥视界🌺",
+                "播放数组": "listitem\">&&info\">",
+                "播放列表": "<a&&</a>",
+                "倒序": "否",
+                "搜索url": "https://www.ruituka.com/vod/search/{wd}",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "分类url": "https://www.ruituka.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+            }
+            },
         {
       "key": "黑木耳",
       "name": "黑木耳有广",
