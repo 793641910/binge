@@ -895,9 +895,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "api": "./apilib/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/爱奇艺.js"
         },
         {
@@ -917,8 +915,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/三六零.js"
         },
@@ -929,8 +925,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/剧圈圈.js"
         },
@@ -942,8 +936,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "changeable": 0,
-            "api": "./lib/drpy2.min.js",
             "ext": "./js/追剧迷.js"
         },
         {
@@ -953,8 +945,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/看了么.js"
         },
@@ -965,8 +955,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/茶杯狐.js"
         },
@@ -977,8 +965,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/在线之家.js"
         },
@@ -989,8 +975,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/魔力高清.js"
         },
@@ -1001,9 +985,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "api": "./apilib/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/腾讯视频.js"
         },
         {
@@ -1013,9 +995,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "api": "./apilib/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/优酷视频.js"
         },
         {
@@ -1025,9 +1005,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "api": "./apilib/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/芒果视频.js"
         },
         {
@@ -1037,9 +1015,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "api": "./apilib/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "ext": "./js/搜狗视频.js"
         },
         {
