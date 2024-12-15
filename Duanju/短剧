@@ -31,7 +31,7 @@
             "quickSearch": 1,
             "api": "./lib/drpy2.min.js",
             "filterable": 1,
-            "ext": "./js/%E6%8A%96%E7%9F%AD%E5%89%A7APP.js",
+            "ext": "./js/抖短剧APP.js",
             "by": "current"
         },
         {
@@ -42,7 +42,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/%E6%98%9F%E8%8A%BD%E7%9F%AD%E5%89%A7.js"
+            "ext": "./js/星芽短剧.js"
         },
         {
             "key": "555短剧",
