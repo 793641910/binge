@@ -98,7 +98,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/xiaosa1.jar",
+            "jar": "./jar/xiaosa.jar",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -116,7 +116,7 @@
       "api": "csp_Wobg",
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./jar/xiaosa1.jar",     
+      "jar": "./jar/xiaosa.jar",     
       "filterable": 1,
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
@@ -1432,7 +1432,7 @@
             "api": "csp_Wobg",
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "./jar/xiaosa1.jar",
+            "jar": "./jar/xiaosa.jar",
             "filterable": 1,
             "changeable": 1,
             "ext": {
@@ -1450,7 +1450,7 @@
             "api": "csp_Wobg",
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "./jar/xiaosa1.jar",
+            "jar": "./jar/xiaosa.jar",
             "filterable": 1,
             "changeable": 1,
             "ext": {
@@ -1467,7 +1467,7 @@
             "api": "csp_Wobg",
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/xiaosa1.jar",
+            "jar": "./jar/xiaosa.jar",
             "filterable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
@@ -1485,7 +1485,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/xiaosa1.jar",
+            "jar": "./jar/xiaosa.jar",
             "changeable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
@@ -1517,7 +1517,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/xiaosa1.jar",
+            "jar": "./jar/xiaosa.jar",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -1533,7 +1533,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/xiaosa1.jar",
+            "jar": "./jar/xiaosa.jar",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -1550,7 +1550,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/xiaosa1.jar",
+            "jar": "./jar/xiaosa.jar",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -1567,7 +1567,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/xiaosa1.jar",
+            "jar": "./jar/xiaosa.jar",
             "changeable": 1,
             "filterable": 1,
             "ext": {
