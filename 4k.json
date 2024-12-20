@@ -29,7 +29,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥12月12日整理🧧4K线路需要登录账号🧧新增修复失效4K站点🇨🇳",
+            "name": "💥兵哥视界💥12月21日整理🧧4K线路需要登录账号🧧新增修复失效4K站点🇨🇳",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -98,7 +98,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/xiaosa.jar",
+            "jar": "./jar/七号.jar",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -116,7 +116,7 @@
       "api": "csp_Wobg",
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./jar/xiaosa.jar",     
+      "jar": "./jar/七号.jar",     
       "filterable": 1,
       "ext": {
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
@@ -1432,7 +1432,7 @@
             "api": "csp_Wobg",
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "./jar/xiaosa.jar",
+            "jar": "./jar/七号.jar",
             "filterable": 1,
             "changeable": 1,
             "ext": {
@@ -1450,7 +1450,7 @@
             "api": "csp_Wobg",
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "./jar/xiaosa.jar",
+            "jar": "./jar/七号.jar",
             "filterable": 1,
             "changeable": 1,
             "ext": {
@@ -1467,7 +1467,7 @@
             "api": "csp_Wobg",
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/xiaosa.jar",
+            "jar": "./jar/七号.jar",
             "filterable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
@@ -1485,7 +1485,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/xiaosa.jar",
+            "jar": "./jar/七号.jar",
             "changeable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
@@ -1501,7 +1501,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/xiaosa.jar",
+            "jar": "./jar/七号.jar",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -1517,7 +1517,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/xiaosa.jar",
+            "jar": "./jar/七号.jar",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -1533,7 +1533,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/xiaosa.jar",
+            "jar": "./jar/七号.jar",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -1550,7 +1550,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/xiaosa.jar",
+            "jar": "./jar/七号.jar",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -1567,7 +1567,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/xiaosa.jar",
+            "jar": "./jar/七号.jar",
             "changeable": 1,
             "filterable": 1,
             "ext": {
