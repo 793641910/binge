@@ -982,10 +982,12 @@
             "key": "腾讯视频",
             "name": "腾讯视频",
             "type": 3,
+            "api": "./lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./lib/drpy2.min.js",
+            "order_num": 0,
+            "changeable": 0,
             "ext": "./js/腾讯视频.js"
         },
         {
@@ -996,6 +998,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
             "ext": "./js/优酷视频.js"
         },
         {
@@ -1006,16 +1010,20 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
             "ext": "./js/芒果视频.js"
         },
         {
             "key": "搜狗视频",
             "name": "搜狗视频",
             "type": 3,
+            "api": "./lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./lib/drpy2.min.js",
+            "order_num": 0,
+            "changeable": 0,
             "ext": "./js/搜狗视频.js"
         },
         {
