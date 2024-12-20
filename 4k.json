@@ -153,12 +153,12 @@
             "key": "采集之王",
             "name": "🌺采集之王🌺",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "order_num": 0,
             "changeable": 0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
+            "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
             },
         {
             "key": "机器人",
@@ -250,11 +250,11 @@
             "key": "hjs_瓜子影视",
             "name": "瓜子影视",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
+            "api": "./lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/瓜子视频.js",
+            "ext": "./js/瓜子视频.js",
             "by": "current"
         },
         {
