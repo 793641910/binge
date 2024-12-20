@@ -140,40 +140,25 @@
             }
         },
         {
-            "key": "影探",
-            "name": "影探4K",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": "./js/影探.js"
-        },
-        {
             "key": "芒果",
             "name": "芒果4K",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": "./js/芒果TV.js"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/芒果TV.js"
         },
         {
             "key": "采集之王",
             "name": "🌺采集之王🌺",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "order_num": 0,
             "changeable": 0,
-            
-            "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
             },
         {
             "key": "机器人",
@@ -254,22 +239,22 @@
             "key": "hipy_js_人人影视",
             "name": "人人影视",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/人人影视.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/人人影视.js",
             "by": "current"
         },
         {
             "key": "hjs_瓜子影视",
             "name": "瓜子影视",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./js/瓜子视频.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/瓜子视频.js",
             "by": "current"
         },
         {
@@ -925,18 +910,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/剧圈圈.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/剧圈圈.js"
         },
         {
             "key": "追剧迷",
             "name": "追剧迷影视",
             "type": 3,
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "ext": "./js/追剧迷.js"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/追剧迷.js"
         },
         {
             "key": "看了么",
@@ -945,8 +930,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/看了么.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/看了么.js"
         },
         {
             "key": "茶杯狐",
@@ -955,8 +940,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/茶杯狐.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/茶杯狐.js"
         },
         {
             "key": "在线之家",
@@ -965,8 +950,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/在线之家.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/在线之家.js"
         },
         {
             "key": "魔力高清",
@@ -975,56 +960,48 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/魔力高清.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/魔力高清.js"
         },
         {
             "key": "腾讯视频",
             "name": "腾讯视频",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": "./js/腾讯视频.js"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/腾讯视频.js"
         },
         {
             "key": "优酷视频",
             "name": "优酷视频",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": "./js/优酷视频.js"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/优酷视频.js"
         },
         {
             "key": "芒果视频",
             "name": "芒果视频",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": "./js/芒果视频.js"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/芒果视频.js"
         },
         {
             "key": "搜狗视频",
             "name": "搜狗视频",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "ext": "./js/搜狗视频.js"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/搜狗视频.js"
         },
         {
             "key": "碟调影视",
@@ -1033,10 +1010,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/碟调影视.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/碟调影视.js"
         },
         {
             "key": "畅梦影视",
@@ -1045,10 +1020,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
-            "changeable": 0,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/畅梦影视.js"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/畅梦影视.js"
         },
         {
             "key": "五五影视",
