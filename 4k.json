@@ -641,15 +641,18 @@
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
         {
-            "key": "南瓜影视",
-            "name": "🧧南瓜影视🧧",
-            "type": 3,
-            "api": "csp_Nangua",
-            "searchable": 1,
-            "jar": "./jar/xiaosa1.jar",
-            "quickSearch": 1,
-            "filterable": 1
-        },
+      "key": "南瓜弹幕",
+      "name": "🧧南瓜影视🧧",
+      "type": 3,
+      "api": "csp_Nangua",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
         {
             "key": "天天影视",
             "name": "🧧天天影视🧧",
@@ -1319,19 +1322,6 @@
                 "日韩综艺",
                 "欧美综艺"
             ]
-        },
-        {
-            "key": "南瓜弹幕",
-            "name": "🧧南瓜弹幕🧧",
-            "type": 3,
-            "api": "csp_Nangua",
-            "searchable": 1,
-            "jar": "./jar/xiaosa1.jar",
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
         },
         {
             "key": "天天弹幕",
