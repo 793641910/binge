@@ -12,8 +12,8 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "live",
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+            "name": "兵哥直播",
+            "url": "",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
