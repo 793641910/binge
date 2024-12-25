@@ -13,7 +13,7 @@
         },
         {
             "name": "兵哥直播",
-            "url": "",
+            "url": "./lib/BG.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
