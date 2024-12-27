@@ -19,7 +19,7 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "④木",
+            "name": "这样吧",
             "url": "https://jk.magiclee.cn/down.php/4164be7128f592000eb61eead4723942.json",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -29,7 +29,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥12月21日整理🧧4K线路需要登录账号🧧新增修复失效4K站点🇨🇳",
+            "name": "💥兵哥视界💥12月27日整理🧧4K线路需要登录账号🧧新增修复失效4K站点🇨🇳",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -159,6 +159,16 @@
             "order_num": 0,
             "changeable": 0,
             "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
+        },
+        {
+            "key": "皮皮影视",
+            "name": "🧧皮皮大侠🧧",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://38.55.250.149:1314/api.php/app/"
         },
         {
             "key": "机器人",
@@ -1804,6 +1814,17 @@
                 "header": {
                     "User-Agent": "okhttp/4.9.1"
                 }
+            }
+        },
+        {
+            "name": "皮皮虾",
+            "type": "1",
+            "url": "http://45.207.215.101:5423/index.php?url=",
+            "ext": {
+                "flag": [
+                    "PPXLG",
+                    "皮皮侠4K"
+                ]
             }
         },
         {
