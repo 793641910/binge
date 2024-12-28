@@ -29,7 +29,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥12月28日整理🧧4K线路需要登录账号🧧祝大家观影愉快🇨🇳",
+            "name": "💥兵哥视界💥12月29日整理🧧4K线路需要登录账号🧧祝大家观影愉快🇨🇳",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -1299,24 +1299,6 @@
                 "site": "https://woog.nxog.eu.org",
                 "danmu": true
             }
-        },
-        {
-            "key": "哔哩",
-            "name": "哔哩🧧4K",
-            "type": 3,
-            "api": "csp_Bilimd",
-            "jar": "./jar/七号.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "ext": {
-                "cookie": "http://1.94.221.189:80/tvbox/cookie/bilicookie.php"
-            },
-            "timeout": 10
         },
         {
             "key": "夸克土豆",
