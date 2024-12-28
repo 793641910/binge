@@ -29,7 +29,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥12月27日整理🧧4K线路需要登录账号🧧祝大家观影愉快🇨🇳",
+            "name": "💥兵哥视界💥12月28日整理🧧4K线路需要登录账号🧧祝大家观影愉快🇨🇳",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -38,7 +38,7 @@
         },
         {
             "key": "配置中心",
-            "name": "🧧配置中心🧧",
+            "name": "配置🧧中心",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -52,7 +52,7 @@
         },
         {
             "key": "直播点播",
-            "name": "🧧直播大全🧧",
+            "name": "直播🧧大全",
             "type": 3,
             "api": "./js/sdtv.js",
             "ext": "./js/kxzb1.txt",
@@ -60,7 +60,7 @@
         },
         {
             "key": "玩偶弹幕",
-            "name": "🧧玩偶4K🧧",
+            "name": "玩偶🧧4K",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -77,7 +77,7 @@
         },
         {
             "key": "玩偶备用弹幕",
-            "name": "🧧兵哥4K🧧",
+            "name": "兵哥🧧4K",
             "type": 3,
             "api": "csp_Wogg",
             "quickSearch": 1,
@@ -94,7 +94,7 @@
         },
         {
             "key": "小米",
-            "name": "🧧小米4K🧧",
+            "name": "小米🧧4K",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -111,7 +111,7 @@
         },
         {
             "key": "闪电",
-            "name": "🧧闪电4K🧧",
+            "name": "闪电🧧4K",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -127,7 +127,7 @@
         },
         {
             "key": "阿狸",
-            "name": "🧧阿狸4K🧧",
+            "name": "阿狸🧧4K",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
@@ -141,7 +141,7 @@
         },
         {
             "key": "芒果",
-            "name": "🧧芒果4K🧧",
+            "name": "芒果🧧4K",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
             "searchable": 1,
@@ -151,7 +151,7 @@
         },
         {
             "key": "采集之王",
-            "name": "🧧采集之王🧧",
+            "name": "采集🧧之王",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "searchable": 1,
@@ -162,7 +162,7 @@
         },
         {
             "key": "皮皮影视",
-            "name": "🧧皮皮大侠🧧",
+            "name": "皮皮🧧大侠",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -172,7 +172,7 @@
         },
         {
             "key": "机器人",
-            "name": "🧧爱看boot🧧",
+            "name": "爱看🧧boot",
             "type": 3,
             "api": "csp_Ikanbot",
             "jar": "./jar/xiaosa1.jar",
@@ -182,7 +182,7 @@
         },
         {
             "key": "Ikanbot",
-            "name": "🧧爱看bot🧧",
+            "name": "爱看🧧机器",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "searchable": 1,
@@ -194,7 +194,7 @@
         },
         {
             "key": "荐片弹幕",
-            "name": "🧧荐片弹幕🧧",
+            "name": "荐片🧧弹幕",
             "type": 3,
             "api": "csp_Jianpian",
             "playerType": 1,
@@ -208,7 +208,7 @@
         },
         {
             "key": "立播弹幕",
-            "name": "🧧立播弹幕🧧",
+            "name": "立播🧧弹幕",
             "type": 3,
             "api": "csp_Libvio",
             "searchable": 1,
@@ -224,7 +224,7 @@
         },
         {
             "key": "文才弹幕",
-            "name": "🧧文才弹幕🧧",
+            "name": "文才🧧弹幕",
             "type": 3,
             "api": "csp_Jpys",
             "searchable": 1,
@@ -237,7 +237,7 @@
         },
         {
             "key": "小苹果",
-            "name": "🧧苹果影视🧧",
+            "name": "苹果🧧影视",
             "type": 3,
             "api": "csp_Xpg",
             "searchable": 1,
@@ -247,7 +247,7 @@
         },
         {
             "key": "hipy_js_人人影视",
-            "name": "🧧人人影视🧧",
+            "name": "人人🧧影视",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
             "searchable": 1,
@@ -258,7 +258,7 @@
         },
         {
             "key": "hjs_瓜子影视",
-            "name": "🧧瓜子影视🧧",
+            "name": "瓜子🧧影视",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "searchable": 1,
@@ -269,7 +269,7 @@
         },
         {
             "key": "ruka",
-            "name": "🧧金牌影院🧧",
+            "name": "金牌🧧影院",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -299,7 +299,7 @@
         },
         {
             "key": "黑木耳",
-            "name": "🧧木耳有广🧧",
+            "name": "木耳🧧有广",
             "type": 1,
             "api": "https://json02.heimuer.xyz/api.php/provide/vod",
             "searchable": 1,
@@ -362,7 +362,7 @@
         },
         {
             "key": "兵哥秒播",
-            "name": "🧧秒播影院🧧",
+            "name": "秒播🧧影院",
             "type": 1,
             "api": "http://cj.lziapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -388,7 +388,7 @@
         },
         {
             "key": "雪糕TV",
-            "name": "🧧雪糕TV🧧",
+            "name": "雪糕🧧TV",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
@@ -399,7 +399,7 @@
         },
         {
             "key": "面包网",
-            "name": "🧧面包网影🧧",
+            "name": "面包🧧网影",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
@@ -414,7 +414,7 @@
         },
         {
             "key": "永乐视频",
-            "name": "🧧永乐视频🧧",
+            "name": "永乐🧧视频",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
@@ -428,7 +428,7 @@
         },
         {
             "key": "蚂蚁影库",
-            "name": "🧧蚂蚁影库🧧",
+            "name": "蚂蚁🧧影库",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
@@ -443,7 +443,7 @@
         },
         {
             "key": "青柠影院",
-            "name": "🧧青柠影院🧧",
+            "name": "青柠🧧影院",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
@@ -458,7 +458,7 @@
         },
         {
       "key": "客星",
-      "name": "🧧客星高清🧧",
+      "name": "客星🧧高清",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
@@ -467,7 +467,7 @@
     },
 {
             "key": "腾讯视频",
-            "name": "🧧腾讯视频🧧",
+            "name": "腾讯🧧视频",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
             "searchable": 1,
@@ -477,7 +477,7 @@
         },
         {
             "key": "优酷视频",
-            "name": "🧧优酷视频🧧",
+            "name": "优酷🧧视频",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
             "searchable": 1,
@@ -487,7 +487,7 @@
         },
         {
             "key": "芒果视频",
-            "name": "🧧芒果视频🧧",
+            "name": "芒果🧧视频",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
             "searchable": 1,
@@ -497,7 +497,7 @@
         },
         {
             "key": "搜狗视频",
-            "name": "🧧搜狗视频🧧",
+            "name": "搜狗🧧视频",
             "type": 3,
             "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
             "searchable": 1,
@@ -507,7 +507,7 @@
         },
         {
             "key": "三六零",
-            "name": "🧧360视频🧧",
+            "name": "360🧧视频",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -517,7 +517,7 @@
         },
         {
             "key": "爱奇艺",
-            "name": "🧧爱奇艺🧧",
+            "name": "爱奇🧧艺",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -527,7 +527,7 @@
         },
         {
             "key": "hipy_js_抖短剧APP",
-            "name": "🧧抖音短剧🧧",
+            "name": "抖音🧧短剧",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -538,7 +538,7 @@
         },
         {
             "key": "无忧短剧",
-            "name": "🧧无忧短剧🧧",
+            "name": "无忧🧧短剧",
             "type": 3,
             "api": "csp_Duanj",
             "searchable": 1,
@@ -551,7 +551,7 @@
         },
         {
             "key": "在线短剧",
-            "name": "🧧在线短剧🧧",
+            "name": "在线🧧短剧",
             "type": 3,
             "api": "csp_Duanju",
             "jar": "./jar/xiaosa1.jar",
@@ -564,7 +564,7 @@
         },
         {
             "key": "洽洽影视",
-            "name": "🧧洽洽影视🧧",
+            "name": "洽洽🧧影视",
             "type": 3,
             "api": "csp_AppGZ",
             "searchable": 1,
@@ -574,7 +574,7 @@
         },
         {
             "key": "酷酷影视",
-            "name": "🧧酷酷APP🧧",
+            "name": "酷酷🧧影视",
             "type": 3,
             "api": "csp_App",
             "searchable": 1,
@@ -585,7 +585,7 @@
         },
         {
             "key": "星芽短剧",
-            "name": "🧧星芽短剧🧧",
+            "name": "星芽🧧短剧",
             "type": 3,
             "api": "csp_AppXY",
             "searchable": 1,
