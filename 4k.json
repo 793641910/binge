@@ -526,43 +526,6 @@
             "ext": "./js/爱奇艺.js"
         },
         {
-            "key": "hipy_js_抖短剧APP",
-            "name": "抖音🧧短剧",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "./lib/drpy2.min.js",
-            "filterable": 1,
-            "ext": "./js/抖短剧APP.js",
-            "by": "current"
-        },
-        {
-            "key": "无忧短剧",
-            "name": "无忧🧧短剧",
-            "type": 3,
-            "api": "csp_Duanj",
-            "searchable": 1,
-            "jar": "./jar/xiaosa1.jar",
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            }
-        },
-        {
-            "key": "在线短剧",
-            "name": "在线🧧短剧",
-            "type": 3,
-            "api": "csp_Duanju",
-            "jar": "./jar/xiaosa1.jar",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            }
-        },
-        {
             "key": "洽洽影视",
             "name": "洽洽🧧影视",
             "type": 3,
@@ -582,53 +545,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "KhYJ00ye42lr+7UsoxLsfea0p0H5SUkT7Tv/+ACyPvFQ+ozQDB0SI/NCeN59w0RiNzIKjBHQR9I/4GBIAlWmFKcvyM+yqtiPTwaxfs74YG+PHrb7VfKDLVFb0luKJl2gZ5pIVjIwVQNUCt5TAXutZxNBtlKGin+L/4vCsOIjR2r16dqyQwlpOKySq4NGGkKeA48tTxR+emOxn/qGPt5xjInFeLJXMvYxdp47pOKOA4Oj4LJnJ+ezEzScDoT2IASN0Rvl2ZneGEGkqlDU8NquYUP/svq1zScEYCpobKdg0ILB7Hba+5cMwtlnjGiHyCaM9dx+z+cVzD9cSTo/aL5gSoAPT4QzkFxezSARli9nVDmnS0MrY/NhiexS8AE+1et9"
-        },
-        {
-            "key": "星芽短剧",
-            "name": "星芽🧧短剧",
-            "type": 3,
-            "api": "csp_AppXY",
-            "searchable": 1,
-            "jar": "./jar/xiaosa1.jar",
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
-            "key": "天堂短剧",
-            "name": "天堂🧧短剧",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/天堂短剧.js"
-        },
-        {
-            "key": "爱你短剧",
-            "name": "爱你🧧短剧",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/爱你短剧.json"
-        },
-        {
-            "key": "河马短剧",
-            "name": "河马🧧短剧",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/河马短剧.json"
-        },
-        {
-            "key": "短剧屋",
-            "name": "短剧🧧屋",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/短剧屋.json"
         },
         {
             "key": "韩小圈",
@@ -1355,32 +1271,6 @@
             "jar": "./jar/xiaosa1.jar",
             "filterable": 1,
             "changeable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "机器人弹幕",
-            "name": "爱看boot🧧弹幕",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "./jar/xiaosa1.jar",
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "小苹果弹幕",
-            "name": "苹果🧧弹幕",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "jar": "./jar/xiaosa1.jar",
-            "quickSearch": 1,
-            "filterable": 1,
             "ext": {
                 "danmu": true
             }
