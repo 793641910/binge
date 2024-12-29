@@ -100,6 +100,23 @@
             }
         },
         {
+      "key": "小虎斑",
+      "name": "虎斑🧧4k",
+      "type": 3,
+      "api": "csp_Wobg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "http://43.138.242.105:9696",
+        "danmu": true
+      }
+    },
+        {
             "key": "小米",
             "name": "小米🧧4K",
             "type": 3,
