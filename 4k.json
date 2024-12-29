@@ -104,7 +104,7 @@
       "name": "虎斑🧧4k",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "./jar/huban.jpg",
+      "jar": "./jar/huban.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -123,7 +123,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/huban.jpg",
+            "jar": "./jar/huban.txt",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -141,7 +141,7 @@
             "api": "csp_Wobg",
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/huban.jpg",
+            "jar": "./jar/huban.txt",
             "filterable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
