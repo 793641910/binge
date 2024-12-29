@@ -36,7 +36,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥12月29日整理🧧直播线路添加全球频道🧧祝大家观影愉快🇨🇳",
+            "name": "💥兵哥视界💥12月30日整理🧧直播线路添加全球频道🧧祝大家观影愉快🇨🇳",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -104,6 +104,7 @@
       "name": "虎斑🧧4k",
       "type": 3,
       "api": "csp_Wobg",
+      "jar": "./jar/huban.jpg",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -122,7 +123,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/七号.jar",
+            "jar": "./jar/huban.jpg",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -140,7 +141,7 @@
             "api": "csp_Wobg",
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/七号.jar",
+            "jar": "./jar/huban.jpg",
             "filterable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
