@@ -19,8 +19,8 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "这样吧",
-            "url": "https://jk.magiclee.cn/down.php/4164be7128f592000eb61eead4723942.json",
+            "name": "全球直播",
+            "url": "https://www.mytvsuper.com.mp/m3u/Live.m3u",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -29,7 +29,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥12月29日整理🧧4K线路需要登录账号🧧祝大家观影愉快🇨🇳",
+            "name": "💥兵哥视界💥12月29日整理🧧直播线路添加全球频道🧧祝大家观影愉快🇨🇳",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
