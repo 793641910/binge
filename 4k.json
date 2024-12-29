@@ -24,6 +24,13 @@
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "爱看直播",
+            "url": "https://7286.kstore.space/lizi2024.txt",
+            "playerType": 1,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
         }
     ],
     "sites": [
