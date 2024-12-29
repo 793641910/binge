@@ -1,7 +1,7 @@
 [
-{"name":"爱看直播","url":"https://7286.kstore.space/lizi2024.txt?ref=master&&&https://8698.kstore.space/logo2.txt?category=meinv&type=302"},
-{"name":"兵哥歌曲大全","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/Music.txt?ref=master&&&https://8698.kstore.space/logo.txt?category=meinv&type=302"},
-{"name":"全球直播","url":"https://www.mytvsuper.com.mp/m3u/Live.m3u?ref=master&&&https://8698.kstore.space/logo.txt?category=meinv&type=302"}
+{"name":"爱看直播","url":"https://7286.kstore.space/lizi2024.txt?ref=master&&&https://d.kstore.dev/download/8698.kstore/logo2.txt?category=meinv&type=302"},
+{"name":"兵哥歌曲大全","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/Music.txt?ref=master&&&https://d.kstore.dev/download/8698.kstore/logo.txt?category=meinv&type=302"},
+{"name":"全球直播","url":"https://www.mytvsuper.com.mp/m3u/Live.m3u?ref=master&&&https://d.kstore.dev/download/8698.kstore/logo.txt?category=meinv&type=302"}
 
 
 ]
