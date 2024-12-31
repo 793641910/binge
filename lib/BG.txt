@@ -1,5 +1,5 @@
 
-🌺兵哥12月25日整理🌺,#genre#
+🌺兵哥1月1日整理🌺,#genre#
 
 晴彩广场舞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
 
@@ -260,6 +260,7 @@ IHOT-爱体育,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000
 
 //11月7日野火
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8、
+湖南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226307/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225610/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226430/index.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
