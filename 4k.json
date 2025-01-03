@@ -19,8 +19,8 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "全球直播",
-            "url": "https://www.mytvsuper.com.mp/m3u/Live.m3u",
+            "name": "IPv6直播",
+            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -36,7 +36,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥2025年1月1日整理🧧再见，2024！🧧祝大家元旦节快乐🇨🇳",
+            "name": "💥兵哥视界💥2025年1月4日整理🧧再见，2024！🧧祝大家元旦节快乐🇨🇳",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
