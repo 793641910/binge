@@ -36,7 +36,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥2025年1月4日整理🧧再见，2024！🧧祝大家元旦节快乐🇨🇳",
+            "name": "💥兵哥视界💥2025年1月5日整理🧧再见，2024！🧧祝大家元旦节快乐🇨🇳",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -1308,6 +1308,23 @@
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/腾讯弹幕.js"
         },
         {
+      "key": "下饭",
+      "name": "下饭🧧4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/七号.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "http://txfyyds.top",
+        "danmu": true
+      }
+    },
+        {
             "key": "白嫖",
             "name": "白嫖🧧4K",
             "type": 3,
@@ -1705,7 +1722,7 @@
         {
             "name": "兵哥4K",
             "type": 1,
-            "url": "https://jx.0v.fit/api.php?url=",
+            "url": "http://110.42.53.150:520/api/?key=OpCFwklTk6uXgNw6JZ&url=",
             "ext": {
                 "flag": [
                     "qq",
