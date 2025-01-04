@@ -104,7 +104,7 @@
       "name": "虎斑🧧4k",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "./jar/huban.txt",
+      "jar": "./jar/七号.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -113,7 +113,7 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
         "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "http://43.138.242.105:9696",
+        "site": "http://wp.huban.xyz",
         "danmu": true
       }
     },
@@ -123,7 +123,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/huban.txt",
+            "jar": "./jar/七号.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -141,7 +141,7 @@
             "api": "csp_Wobg",
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/huban.txt",
+            "jar": "./jar/七号.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
             "filterable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
@@ -156,7 +156,7 @@
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
-            "jar": "./jar/七号.jar",
+            "jar": "./jar/七号.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
             "filterable": 0,
             "changeable": 1,
             "ext": {
@@ -1312,7 +1312,7 @@
       "name": "下饭🧧4K",
       "type": 3,
       "api": "csp_Wobg",
-      "jar": "./jar/七号.jar",
+      "jar": "./jar/七号.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -1329,7 +1329,7 @@
             "name": "白嫖🧧4K",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "./jar/七号.jar",
+            "jar": "./jar/七号.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1349,7 +1349,7 @@
             "api": "csp_Wobg",
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "./jar/七号.jar",
+            "jar": "./jar/七号.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
             "filterable": 1,
             "changeable": 1,
             "ext": {
@@ -1367,7 +1367,7 @@
             "api": "csp_Wobg",
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/七号.jar",
+            "jar": "./jar/七号.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
             "filterable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
@@ -1385,7 +1385,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "./jar/七号.jar",
+            "jar": "./jar/七号.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
             "changeable": 1,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
@@ -1401,7 +1401,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/七号.jar",
+            "jar": "./jar/七号.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -1417,7 +1417,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/七号.jar",
+            "jar": "./jar/七号.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -1433,7 +1433,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/七号.jar",
+            "jar": "./jar/七号.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -1450,7 +1450,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/七号.jar",
+            "jar": "./jar/七号.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -1467,7 +1467,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "./jar/七号.jar",
+            "jar": "./jar/七号.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
             "changeable": 1,
             "filterable": 1,
             "ext": {
