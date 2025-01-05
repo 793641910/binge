@@ -117,6 +117,28 @@
             "filterable": 1,
             "ext": ""
         },
+         {
+            "key": "hipy_js_人人影视",
+            "name": "人人🧧影视",
+            "type": 3,
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/人人影视.js",
+            "by": "current"
+        },
+        {
+            "key": "hjs_瓜子影视",
+            "name": "瓜子🧧影视",
+            "type": 3,
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/瓜子视频.js",
+            "by": "current"
+        },
         {
             "key": "浪酷弹幕",
             "name": "浪酷🧧弹幕",
@@ -675,7 +697,7 @@
         },
         {
             "key": "采集之王",
-            "name": "采集🧧合集",
+            "name": "采集🧧之王",
             "type": 3,
             "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
             "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/CJZW.js?type=url&params=https://gitee.com/PizazzXS/four-d/raw/master/movie/json/CJJT.json$1$1"
