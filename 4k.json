@@ -584,16 +584,6 @@
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
         {
-            "key": "HG影视",
-            "name": "HG🧧影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://cs.hgyx.vip/api2/api.php/app/"
-        },
-        {
             "key": "木头",
             "name": "木头🧧影视",
             "type": 3,
@@ -1766,15 +1756,6 @@
             "style": {
                 "type": "list"
             }
-        },
-        {
-            "key": "Alllive",
-            "name": "聚合🧧直播‍",
-            "type": 3,
-            "api": "csp_Wexalllive",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://gitee.com/PizazzXS/four-d/raw/master/wex.txt;md5;c0a0b82a9b66c0a6f8919305ee5c3591"
         },
         {
             "key": "IKTV",
