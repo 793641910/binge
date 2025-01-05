@@ -1872,6 +1872,19 @@
                 }
             }
         },
+           {
+      "name": "HGvip",
+      "type": 1,
+      "url": "http://1.94.221.189:88/algorithm.php?url=",
+      "ext": {
+        "flag": [
+          "hgvip"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
         {
             "name": "4K解析2",
             "type": 0,
