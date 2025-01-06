@@ -23,7 +23,7 @@
         },
         {
             "key": "检查更新",
-            "name": "检查🧧更新",
+            "name": "软件🧧更新",
             "type": 3,
             "api": "csp_Market",
             "jar": "./jar/辉ge.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
