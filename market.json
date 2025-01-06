@@ -1,0 +1,28 @@
+[
+    {
+        "name": "兵哥视界",
+        "list": [
+            {
+                "url": "",
+                "icon": "https://d.kstore.dev/download/8698/logo.txt"
+            }
+        ]
+    },
+    {
+        "name": "软件更新",
+        "list": [
+            {
+                "name": "手机版",
+                "url": "https://ipv4wp.axzzz.top:9503/f/OJqZu7/%E5%85%B5%E5%93%A5%E8%A7%86%E7%95%8C%E6%89%8B%E6%9C%BA%E5%A4%9A%E4%BB%93%E7%89%88_2.6.9_clone.apk",
+                "icon": "",
+                "version": "20250107"
+            },
+            {
+                "name": "电视版",
+                "url": "https://ipv4wp.axzzz.top:9503/f/lJXdS5/%E5%85%B5%E5%93%A5%E8%A7%86%E7%95%8CTV-4.6.9G.apk",
+                "icon": "",
+                "version": "20250107"
+            }
+        ]
+    }
+]
