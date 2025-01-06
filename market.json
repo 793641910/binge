@@ -1,0 +1,29 @@
+[
+    {
+        "name": "教程",
+        "list": [
+            {
+                "name": "更新操作教程",
+                "url": "https://ipv4wp.axzzz.top:9503/f/RBvQsn/lv_0_20250107033449.mp4",
+                "icon": ""
+            }
+        ]
+    },
+    {
+        "name": "软件更新",
+        "list": [
+            {
+                "name": "兵哥视界手机版",
+                "icon": "",
+                "url": "https://ipv4wp.axzzz.top:9503/f/XejAI4/%E5%85%B5%E5%93%A5%E8%A7%86%E7%95%8C%E6%89%8B%E6%9C%BA2.6.9.apk",
+                "version": "20250107"
+            },
+            {
+                "name": "兵哥视界电视版",
+                "icon": "",
+                "url": "https://ipv4wp.axzzz.top:9503/f/lJXdS5/%E5%85%B5%E5%93%A5%E8%A7%86%E7%95%8CTV-4.6.9G.apk",
+                "version": "20250107"
+            }
+        ]
+    }
+]
