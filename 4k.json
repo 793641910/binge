@@ -65,7 +65,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitee.com/hccxbg/py/raw/master/py/guazi.js",
+            "ext": "./js/瓜子视频.js",
             "by": "current"
         },
         {
