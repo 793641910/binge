@@ -6,7 +6,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥2025年1月5日整理🧧站点大更新配置更全面🧧祝大家观影愉快🇨🇳",
+            "name": "💥兵哥视界💥2025年1月6日整理🧧站点大更新配置全面优化🧧祝大家观影愉快🇨🇳",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -701,7 +701,7 @@
             "name": "采集🧧之王",
             "type": 3,
             "api": "https://gitee.com/hccxbg/py/raw/master/js/drpy2.min.js",
-            "ext": "./xs/js/CJZW.js?type=url&params=./xs/json/CJJT.json$1$1"
+            "ext": "./xs/js/CJZW.js?type=url&params=./xs/js/CJJT.json$1$1"
         },
         {
             "key": "低端影视",
