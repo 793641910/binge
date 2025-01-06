@@ -22,6 +22,15 @@
             "searchable": 0
         },
         {
+            "key": "检查更新",
+            "name": "检查🧧更新",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/793641910/binge/refs/heads/main/market.json"
+        },
+        {
             "key": "配置中心",
             "name": "配置🧧中心",
             "type": 3,
