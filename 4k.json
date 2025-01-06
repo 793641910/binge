@@ -81,6 +81,16 @@
             }
         },
         {
+            "key": "hjs_瓜子视频",
+            "name": "瓜子🧧视频",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "https://gitee.com/hccxbg/bg/raw/master/lib/drpy2.min.js",
+            "filterable": 1,
+            "ext": "https://gitee.com/hccxbg/bg/raw/master/js/瓜子视频.js"
+        },
+        {
             "key": "皮皮",
             "name": "皮皮🧧侠客",
             "type": 3,
@@ -149,17 +159,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/人人影视.js",
-            "by": "current"
-        },
-        {
-            "key": "hjs_瓜子影视",
-            "name": "瓜子🧧影视",
-            "type": 3,
-            "api": "https://gitee.com/hccxbg/py/raw/master/js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/瓜子视频.js",
             "by": "current"
         },
         {
