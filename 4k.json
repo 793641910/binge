@@ -58,19 +58,8 @@
             "jar": "./jar/sdtv.jar"
         },
         {
-            "key": "hjs_瓜子影视",
-            "name": "瓜子🧧影视",
-            "type": 3,
-            "api": "https://gitee.com/hccxbg/py/raw/master/js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/瓜子视频.js",
-            "by": "current"
-        },
-        {
             "key": "小苹果弹幕",
-            "name": "苹果🧧弹幕",
+            "name": "苹果🧧影视",
             "type": 3,
             "api": "csp_Xpg",
             "jar": "./jar/辉ge.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
@@ -83,7 +72,7 @@
         },
         {
             "key": "皮皮",
-            "name": "皮皮🧧大侠",
+            "name": "皮皮🧧侠客",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -150,6 +139,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/人人影视.js",
+            "by": "current"
+        },
+        {
+            "key": "hjs_瓜子影视",
+            "name": "瓜子🧧影视",
+            "type": 3,
+            "api": "https://gitee.com/hccxbg/py/raw/master/js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/瓜子视频.js",
             "by": "current"
         },
         {
