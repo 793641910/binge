@@ -202,6 +202,17 @@
             }
         },
         {
+      "key": "xtd直连",
+      "name": "快看🧧直连",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "http://kkwk123.top/api.php/app/"
+    },
+        {
             "key": "立播弹幕",
             "name": "立播🧧弹幕",
             "type": 3,
@@ -1860,6 +1871,35 @@
             "name": "高清解析",
             "type": 1,
             "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
+            "name": "优选",
+            "type": 1,
+            "url": "http://1.94.221.189:88/algorithm.php?url=",
             "ext": {
                 "flag": [
                     "qq",
