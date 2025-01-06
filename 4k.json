@@ -65,7 +65,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/瓜子视频.js",
+            "ext": "https://gitee.com/hccxbg/py/raw/master/py/guazi.js",
             "by": "current"
         },
         {
@@ -701,7 +701,7 @@
             "name": "采集🧧之王",
             "type": 3,
             "api": "https://gitee.com/hccxbg/py/raw/master/js/drpy2.min.js",
-            "ext": "./xs/js/CJZW.js?type=url&params=./xs/js/CJJT.json$1$1"
+            "ext": "https://gitee.com/hccxbg/py/raw/master/py/CJZW.js?type=url&params=https://gitee.com/hccxbg/py/raw/master/py/CJJT.json$1$1"
         },
         {
             "key": "低端影视",
