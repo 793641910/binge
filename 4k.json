@@ -1,6 +1,6 @@
 {
     "spider": "./jar/辉少.jar",
-    "wallpaper": "./json/DC.webp",
+    "wallpaper": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/json/DC.webp",
     "warningText": "兵哥接口，完全免费，切勿付费购买！",
     "logo": "./json/logo.txt",
     "sites": [
