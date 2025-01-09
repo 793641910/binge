@@ -6,7 +6,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥2025年1月7日整理🧧软件更新操作优化🧧祝大家观影愉快🇨🇳",
+            "name": "💥兵哥视界💥2025年1月9日整理🧧软件更新操作优化🧧祝大家观影愉快🇨🇳",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -91,14 +91,17 @@
             "ext": "https://gitee.com/hccxbg/bg/raw/master/js/瓜子视频.js"
         },
         {
-            "key": "皮皮",
+            "key": "皮皮虾",
             "name": "皮皮🧧侠客",
             "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://38.55.250.149:1314/api.php/app/"
+            "api": "csp_XBPQ",
+            "jar": "./jar/辉ge.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
+            "ext": {
+                "首页": "0",
+                "线路标题": "module-tab-value\">&&</span>",
+                "分类url": "http://www.ppxys.vip/s/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+                "分类": "剧集$1#电影$2#动漫番剧$3"
+            }
         },
         {
             "key": "天天弹幕",
@@ -1534,7 +1537,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://smdyo.top",
+                "site": "http://失眠的夜.top",
                 "danmu": true
             }
         },
@@ -1551,7 +1554,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://wp.huban.xyz",
+                "site": "http://wp.huban.xyz",
                 "danmu": true
             }
         },
