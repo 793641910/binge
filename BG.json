@@ -1,12 +1,12 @@
 {
     "spider": "./jar/辉少.jar",
-    "wallpaper": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/json/DC.webp",
+    "wallpaper": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/793641910/binge/main/json/DC.webp",
     "warningText": "兵哥接口，完全免费，切勿付费购买！",
     "logo": "./json/logo.txt",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥2025年1月9日整理🧧软件更新操作优化🧧祝大家观影愉快🇨🇳",
+            "name": "💥兵哥视界💥1月26日整理🧧祥龙辞岁金蛇迎春🧧祝大家蛇年大吉🇨🇳",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -125,7 +125,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/芒果TV.js"
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/793641910/binge/main/js/芒果TV.js"
         },
         {
             "key": "热播弹幕",
@@ -161,7 +161,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/人人影视.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/793641910/binge/main/js/人人影视.js",
             "by": "current"
         },
         {
@@ -1855,7 +1855,7 @@
         {
             "name": "兵哥4K",
             "type": 1,
-            "url": "http://110.42.53.150:520/api/?key=OpCFwklTk6uXgNw6JZ&url=",
+            "url": "http://isp.wki8.com/jx.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -2254,21 +2254,21 @@
     "lives": [
         {
             "name": "兵哥歌曲大全",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/793641910/binge/main/js/Music.txt",
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/793641910/binge/main/js/Music.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
             "name": "兵哥直播",
-            "url": "./lib/BG.txt",
+            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
             "name": "IPv6直播",
-            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
