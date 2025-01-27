@@ -36,6 +36,7 @@
       "name": "肥羊🧧配置",
       "type": 3,
       "api": "csp_Market",
+      "jar": "./jar/七号.jar",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
@@ -2263,11 +2264,13 @@
     ],
     "lives": [
         {
-            "name": "兵哥歌曲大全",
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/793641910/binge/main/js/Music.txt",
-            "playerType": 1,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
+            "name": "快速直播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "jar": "./jar/七号.jar",
+            "url": "tv.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
         },
         {
             "name": "兵哥直播",
