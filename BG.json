@@ -30,7 +30,7 @@
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
-      "ext": "http://38.165.20.168/js/肥羊.json"
+      "ext": "./js/肥羊.json"
         },
         {
             "key": "配置中心",
