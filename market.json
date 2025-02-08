@@ -1,0 +1,71 @@
+[
+    {
+        "name": "推荐",
+        "list": [
+            {
+                "name": "欢视助手",
+                "url": "https://ipv4wp.axzzz.top:9503/f/Q8QBC4/%E6%AC%A2%E8%A7%86%E5%8A%A9%E6%89%8B.apk",
+                "icon": "https://ipv4wp.axzzz.top:9503/f/3n7duk/%E6%AC%A2%E8%A7%86.png",
+                "version": "1.23(电视版)"
+            },
+            {
+                "name": "当贝桌面",
+                "url": "https://ipv4wp.axzzz.top:9503/f/Y560i4/%E5%BD%93%E8%B4%9D%E7%94%B5%E8%A7%86%E6%A1%8C%E9%9D%A2.apk",
+                "icon": "https://ipv4wp.axzzz.top:9503/f/xMklHE/%E5%BD%93%E8%B4%9D.png",
+                "version": "1.23(电视版)"
+            },
+            {
+                "name": "小白文件管理",
+                "url": "https://ipv4wp.axzzz.top:9503/f/GZ24TN/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8.apk",
+                "icon": "https://ipv4wp.axzzz.top:9503/f/aYoVc4/%E5%B0%8F%E7%99%BD.png",
+                "version": "1.23(电视版)"
+            },
+            {
+                "name": "甲壳虫ADB助手",
+                "url": "https://ipv4wp.axzzz.top:9503/f/Noywig/%E7%94%B2%E5%A3%B3%E8%99%ABADB.apk",
+                "icon": "https://ipv4wp.axzzz.top:9503/f/59j8hV/%E7%94%B2%E5%A3%B3%E8%99%AB.png",
+                "version": "1.23(手机版)"
+            }
+        ]
+    },
+    {
+        "name": "检查更新",
+        "list": [
+            {
+                "name": "手机版",
+                "url": "https://ipv4wp.axzzz.top:9503/f/x8dMiE/%E5%85%B5%E5%93%A5%E8%A7%86%E7%95%8C_2.7.3G.apk",
+                "icon": "https://gitee.com/hccxbg/py/raw/master/py/app_banner.png",
+                "version": "1.26"
+            },
+            {
+                "name": "电视版",
+                "url": "https://ipv4wp.axzzz.top:9503/f/GQWmhN/%E5%85%B5%E5%93%A5%E8%A7%86%E7%95%8C_4.7.3G.apk",
+                "icon": "https://gitee.com/hccxbg/py/raw/master/py/app_banner.png",
+                "version": "1.26"
+            },
+            {
+                "name": "数据包",
+                "url": "https://gitee.com/hccxbg/py/raw/master/ShuJuBao.zip",
+                "icon": "https://gitee.com/hccxbg/py/raw/master/py/ShuJuBao.png",
+                "version": "2月9日-1"
+            }
+        ]
+    },
+    {
+        "name": "直播源",
+        "list": [
+            {
+                "name": "32位电视源",
+                "url": "https://ipv4wp.axzzz.top:9503/f/lR36f5/allinone.zip",
+                "icon": "https://ipv4wp.axzzz.top:9503/f/Xe9Zu4/%E7%BD%AE%E5%89%A5.png",
+                "version": "大年初八-1"
+            },
+            {
+                "name": "64位手机源",
+                "url": "https://ipv4wp.axzzz.top:9503/f/QoXkt4/allinone64.zip",
+                "icon": "https://ipv4wp.axzzz.top:9503/f/Xe9Zu4/%E7%BD%AE%E5%89%A5.png",
+                "version": "大年初八"
+            }
+        ]
+    }
+]
