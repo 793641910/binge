@@ -184,7 +184,76 @@ CCTV17 农业农村,http://iptv.916899380.xyz:222/1000000006000268004/ystenlive/
 CCTV17 农业农村,http://iptv.916899380.xyz:222/1000000005000265015/ystenlive/index.m3u8
 CCTV17 农业农村,http://iptv.916899380.xyz:222/1000000005000056836/ystenlive/index.m3u8
 
+🌺卫视IPV6🌺兵哥整理,#genre#
 
+湖南卫视,http://iptv.916899380.xyz:222/5000000004000006692/bestzb/index.m3u8
+湖南卫视,http://iptv.916899380.xyz:222/6000000001000018044/wasusyt/index.m3u8
+湖南卫视,http://iptv.916899380.xyz:222/1000000001000032695/ystenlive/index.m3u8
+湖南卫视,http://iptv.916899380.xyz:222/1000000005000265024/ystenlive/index.m3u8
+湖南卫视,http://iptv.916899380.xyz:222/5000000010000030452/bestzb/index.m3u8
+湖南卫视,http://iptv.916899380.xyz:222/1000000001000009115/ystenlive/index.m3u8
+安徽卫视,http://iptv.916899380.xyz:222/6000000001000009954/wasusyt/index.m3u8
+安徽卫视,http://iptv.916899380.xyz:222/1000000001000030159/ystenlive/index.m3u8
+安徽卫视,http://iptv.916899380.xyz:222/5000000004000023002/bestzb/index.m3u8
+安徽卫视,http://iptv.916899380.xyz:222/1000000005000265025/ystenlive/index.m3u8
+安徽卫视,http://iptv.916899380.xyz:222/5000000001000027288/bestzb/index.m3u8
+安徽卫视,http://iptv.916899380.xyz:222/1000000001000020780/ystenlive/index.m3u8
+北京纪实科教,http://iptv.916899380.xyz:222/1000000001000001910/ystenlive/index.m3u8
+北京纪实科教,http://iptv.916899380.xyz:222/5000000011000031204/bestzb/index.m3u8
+北京纪实科教,http://iptv.916899380.xyz:222/2000000002000000065/hnbblive/index.m3u8
+北京纪实科教,http://iptv.916899380.xyz:222/1000000005000265020/ystenlive/index.m3u8
+北京纪实科教,http://iptv.916899380.xyz:222/2000000003000000026/hnbblive/index.m3u8
+北京纪实科教,http://iptv.916899380.xyz:222/1000000001000028380/ystenlive/index.m3u8
+北京卡酷少儿,http://iptv.916899380.xyz:222/7851974109718180595/bestzb/index.m3u8
+北京卡酷少儿,http://iptv.916899380.xyz:222/1000000002000002413/ystenlive/index.m3u8
+北京卡酷少儿,http://iptv.916899380.xyz:222/6000000003000002709/wasusyt/index.m3u8
+北京卫视,http://iptv.916899380.xyz:222/6000000001000020451/wasusyt/index.m3u8
+,http://iptv.916899380.xyz:222/1000000001000021288/ystenlive/index.m3u8
+北京卫视,http://iptv.916899380.xyz:222/5000000004000031556/bestzb/index.m3u8
+北京卫视,http://iptv.916899380.xyz:222/1000000005000265027/ystenlive/index.m3u8
+北京卫视,http://iptv.916899380.xyz:222/5000000010000011502/bestzb/index.m3u8
+北京卫视,http://iptv.916899380.xyz:222/1000000001000017156/ystenlive/index.m3u8
+兵团卫视,http://iptv.916899380.xyz:222/1000000005000266005/ystenlive/index.m3u8
+兵团卫视,http://iptv.916899380.xyz:222/5000000006000040020/bestzb/index.m3u8
+东南卫视,http://iptv.916899380.xyz:222/5000000004000010584/bestzb/index.m3u8
+东南卫视,http://iptv.916899380.xyz:222/1000000005000265033/ystenlive/index.m3u8
+东南卫视,http://iptv.916899380.xyz:222/5000000001000005829/bestzb/index.m3u8
+东南卫视,http://iptv.916899380.xyz:222/1000000002000009263/ystenlive/index.m3u8
+甘肃卫视,http://iptv.916899380.xyz:222/5000000011000031121/bestzb/index.m3u8
+甘肃卫视,http://iptv.916899380.xyz:222/1000000002000017827/ystenlive/index.m3u8
+甘肃卫视,http://iptv.916899380.xyz:222/5000000006000040021/bestzb/index.m3u8
+大湾区卫视,http://iptv.916899380.xyz:222/2000000003000000045/hnbblive/index.m3u8
+大湾区卫视,http://iptv.916899380.xyz:222/1000000002000011619/ystenlive/index.m3u8
+广东嘉佳卡通,http://iptv.916899380.xyz:222/1000000002000025964/ystenlive/index.m3u8
+广东嘉佳卡通,http://iptv.916899380.xyz:222/6000000003000025508/wasusyt/index.m3u8
+广东卫视,http://iptv.916899380.xyz:222/5000000004000014694/bestzb/index.m3u8
+广东卫视,http://iptv.916899380.xyz:222/6000000001000031076/wasusyt/index.m3u8
+广东卫视,http://iptv.916899380.xyz:222/1000000001000014176/ystenlive/index.m3u8
+广东卫视,http://iptv.916899380.xyz:222/1000000005000265034/ystenlive/index.m3u8
+广东卫视,http://iptv.916899380.xyz:222/5000000010000030417/bestzb/index.m3u8
+广东卫视,http://iptv.916899380.xyz:222/1000000001000028357/ystenlive/index.m3u8
+广东珠江,http://iptv.916899380.xyz:222/2000000003000000033/hnbblive/index.m3u8
+广东珠江,http://iptv.916899380.xyz:222/1000000004000011655/ystenlive/index.m3u8
+广西卫视,http://iptv.916899380.xyz:222/5000000011000031118/bestzb/index.m3u8
+广西卫视,http://iptv.916899380.xyz:222/1000000002000019837/ystenlive/index.m3u8
+广西卫视,http://iptv.916899380.xyz:222/5000000006000040014/bestzb/index.m3u8
+贵州卫视,http://iptv.916899380.xyz:222/5000000004000025843/bestzb/index.m3u8
+贵州卫视,http://iptv.916899380.xyz:222/1000000002000003169/ystenlive/index.m3u8
+海南卫视,http://iptv.916899380.xyz:222/5000000004000006211/bestzb/index.m3u8
+海南卫视,http://iptv.916899380.xyz:222/1000000002000023773/ystenlive/index.m3u8
+河北卫视,http://iptv.916899380.xyz:222/5000000006000040016/bestzb/index.m3u8
+河北卫视,http://iptv.916899380.xyz:222/1000000002000017118/ystenlive/index.m3u8
+河南卫视,http://iptv.916899380.xyz:222/5000000011000031119/bestzb/index.m3u8
+河南卫视,http://iptv.916899380.xyz:222/1000000002000027731/ystenlive/index.m3u8
+河南卫视,http://iptv.916899380.xyz:222/5000000005000017925/bestzb/index.m3u8
+黑龙江卫视,http://iptv.916899380.xyz:222/6000000001000016510/wasusyt/index.m3u8
+黑龙江卫视,http://iptv.916899380.xyz:222/1000000001000001925/ystenlive/index.m3u8
+黑龙江卫视,http://iptv.916899380.xyz:222/5000000004000025203/bestzb/index.m3u8
+黑龙江卫视,http://iptv.916899380.xyz:222/1000000005000265029/ystenlive/index.m3u8
+黑龙江卫视,http://iptv.916899380.xyz:222/5000000010000031107/bestzb/index.m3u8
+黑龙江卫视,http://iptv.916899380.xyz:222/1000000001000009082/ystenlive/index.m3u8
+湖北卫视,http://iptv.916899380.xyz:222/6000000001000015436/wasusyt/index.m3u8
+湖北卫视,http://iptv.916899380.xyz:222/1000000001000024621/ystenlive/index.m3u8
 
 
 
@@ -236,38 +305,8 @@ iHOT爱体育,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 
 
 
-🌺卫视IPV6🌺兵哥整理,#genre#
 
-湖南卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228336/smil/index.m3u8?fmt=ts2hls
-黑龙江卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228302/smil/index.m3u8?fmt=ts2hls
-山东卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228308/smil/index.m3u8?fmt=ts2hls
-深圳卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228314/smil/index.m3u8?fmt=ts2hls
-天津卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228320/smil/index.m3u8?fmt=ts2hls
-北京卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/smil/index.m3u8?fmt=ts2hls
-浙江卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/smil/index.m3u8?fmt=ts2hls
-广东卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228329/smil/index.m3u8?fmt=ts2hls
-安徽卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228332/smil/index.m3u8?fmt=ts2hls
 
-江苏卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228351/smil/index.m3u8?fmt=ts2hls
-东方卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228354/smil/index.m3u8?fmt=ts2hls
-湖北卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228357/smil/index.m3u8?fmt=ts2hls
-江西卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230667/smil/index.m3u8?fmt=ts2hls
-辽宁卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230692/smil/index.m3u8?fmt=ts2hls
-东南卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231261/smil/index.m3u8?fmt=ts2hls
-河南卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231264/smil/index.m3u8?fmt=ts2hls
-贵州卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231267/smil/index.m3u8?fmt=ts2hls
-河北卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231270/smil/index.m3u8?fmt=ts2hls
-吉林卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231289/smil/index.m3u8?fmt=ts2hls
-广西卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231292/smil/index.m3u8?fmt=ts2hls
-四川卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231298/smil/index.m3u8?fmt=ts2hls
-重庆卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232642/smil/index.m3u8?fmt=ts2hls
-海南卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232687/smil/index.m3u8?fmt=ts2hls
-甘肃卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236201/index.m3u8
-云南卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236234/index.m3u8
-青海卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236252/index.m3u8
-浙江卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236237/index.m3u8
-陕西卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236370/index.m3u8
-海峡卫视,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236416/index.m3u8
 
 
 
