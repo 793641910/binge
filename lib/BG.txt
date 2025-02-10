@@ -93,26 +93,34 @@
 
 🌺央视IPV6🌺兵哥整理,#genre#
 
-CCTV1,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/smil/index.m3u8?fmt=ts2hls
-CCTV2,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/smil/index.m3u8?fmt=ts2hls
-CCTV3,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232596/smil/index.m3u8?fmt=ts2hls
-CCTV4,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/smil/index.m3u8?fmt=ts2hls
-CCTV4美洲,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335/index.m3u8
-CCTV4欧洲,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236378/index.m3u8
-CCTV5,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229687/smil/index.m3u8?fmt=ts2hls
-CCTV6,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232599/smil/index.m3u8?fmt=ts2hls
-CCTV7,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228330/smil/index.m3u8?fmt=ts2hls
-CCTV8,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232645/smil/index.m3u8?fmt=ts2hls
-CCTV9,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228342/smil/index.m3u8?fmt=ts2hls
-CCTV10,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228327/smil/index.m3u8?fmt=ts2hls
-CCTV11,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232449/smil/index.m3u8?fmt=ts2hls
-CCTV12,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228312/smil/index.m3u8?fmt=ts2hls
-CCTV13,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231193/smil/index.m3u8?fmt=ts2hls
-CCTV14,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228335/smil/index.m3u8?fmt=ts2hls
-CCTV15,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232504/smil/index.m3u8?fmt=ts2hls
-CCTV16,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232705/smil/index.m3u8?fmt=ts2hls
-CCTV17,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index.m3u8
-CCTV5+,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229684/smil/index.m3u8?fmt=ts2hls
+CCTV1 综合,http://iptv.916899380.xyz:222/6000000001000029752/wasusyt/index.m3u8
+CCTV1 综合,http://iptv.916899380.xyz:222/1000000001000018602/ystenlive/index.m3u8
+CCTV1 综合,http://iptv.916899380.xyz:222/5000000004000002226/bestzb/index.m3u8
+CCTV1 综合,http://iptv.916899380.xyz:222/1000000005000265001/ystenlive/index.m3u8
+CCTV1 综合,http://iptv.916899380.xyz:222/5000000010000030810/bestzb/index.m3u8
+CCTV1 综合,http://iptv.916899380.xyz:222/1000000001000021973/ystenlive/index.m3u8
+CCTV2 财经,http://iptv.916899380.xyz:222/6000000001000014161/wasusyt/index.m3u8
+CCTV2 财经,http://iptv.916899380.xyz:222/1000000001000023315/ystenlive/index.m3u8
+CCTV2 财经,http://iptv.916899380.xyz:222/5000000011000031101/bestzb/index.m3u8
+CCTV2 财经,http://iptv.916899380.xyz:222/1000000005000265002/ystenlive/index.m3u8
+CCTV2 财经,http://iptv.916899380.xyz:222/1000000001000012442/ystenlive/index.m3u8
+CCTV3 综艺,http://iptv.916899380.xyz:222/6000000001000022313/wasusyt/index.m3u8
+CCTV3 综艺,http://iptv.916899380.xyz:222/1000000001000013682/ystenlive/index.m3u8
+CCTV3 综艺,http://iptv.916899380.xyz:222/5000000004000008883/bestzb/index.m3u8
+CCTV3 综艺,http://iptv.916899380.xyz:222/1000000005000265003/ystenlive/index.m3u8
+CCTV3 综艺,http://iptv.916899380.xyz:222/5000000002000020548/bestzb/index.m3u8
+CCTV3 综艺,http://iptv.916899380.xyz:222/1000000001000011218/ystenlive/index.m3u8
+CCTV4 中文国际,http://iptv.916899380.xyz:222/5000000011000031102/bestzb/index.m3u8
+CCTV4 中文国际,http://iptv.916899380.xyz:222/1000000005000265004/ystenlive/index.m3u8
+CCTV4 中文国际,http://iptv.916899380.xyz:222/1000000002000031664/ystenlive/index.m3u8
+CCTV4 中文国际,http://iptv.916899380.xyz:222/5000000005000030093/bestzb/index.m3u8
+CCTV5 体育,http://iptv.916899380.xyz:222/1000000005000025222/ystenlive/index.m3u8
+CCTV5 体育,http://iptv.916899380.xyz:222/6000000001000016431/wasusyt/index.m3u8
+CCTV5 体育,http://iptv.916899380.xyz:222/1000000003000030177/ystenlive/index.m3u8
+CCTV5 体育,http://iptv.916899380.xyz:222/5000000004000008885/bestzb/index.m3u8
+CCTV5 体育,http://iptv.916899380.xyz:222/1000000005000265005/ystenlive/index.m3u8
+CCTV5 体育,http://iptv.916899380.xyz:222/5000000010000016619/bestzb/index.m3u8
+CCTV5 体育,http://iptv.916899380.xyz:222/1000000001000004794/ystenlive/index.m3u8
 
 
 
