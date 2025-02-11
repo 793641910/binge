@@ -2266,7 +2266,7 @@
         {
             "name": "兵哥直播",
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/793641910/binge/refs/heads/main/lib/BG.txt",
-            "playerType": 1,
+            "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
