@@ -3,7 +3,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥2月18日整理🧧更新优化直播源🧧祝大家开工大吉🇨🇳",
+            "name": "💥兵哥视界💥2月18日整理🧧长按缓存刷新数据🧧祝大家观影愉快🇨🇳",
             "type": 3,
             "api": "csp_Douban",
             "indexs": 1,
@@ -320,6 +320,24 @@
             "playerType": 2
         },
         {
+            "key": "二三",
+            "name": "二三🧧App",
+            "type": 3,
+            "api": "csp_Muou",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/py/Bge.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
+            "playerType": 2,
+            "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+        },
+        {
+            "key": "移动",
+            "name": "移动🧧APP",
+            "type": 3,
+            "api": "csp_YD",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/py/Bge.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "mi尘落",
             "name": "尘落🧧APP",
             "type": 3,
@@ -327,13 +345,13 @@
             "api": "csp_Wetv"
         },
         {
-            "key": "mi虎虎",
-            "name": "虎虎🧧APP",
+            "key": "小米麻花",
+            "name": "麻花🧧APP",
             "type": 3,
-            "api": "csp_AppHuhu",
-            "jar": "https://gitee.com/hccxbg/py/raw/master/py/Bge.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "jar": "https://gitee.com/hccxbg/py/raw/master/py/Bge.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
+            "api": "csp_MaHuaApp"
         },
         {
             "key": "mi眼镜",
@@ -363,13 +381,22 @@
             "quickSearch": 1
         },
         {
-            "key": "mi玉米",
-            "name": "玉米🧧APP",
+            "key": "小米小猫",
+            "name": "猫猫🧧APP",
             "type": 3,
-            "api": "csp_YuMiApp",
-            "jar": "https://gitee.com/hccxbg/py/raw/master/py/Bge.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "jar": "https://gitee.com/hccxbg/py/raw/master/py/Bge.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
+            "api": "csp_XiaoMaoApp"
+        },
+        {
+            "key": "巧技",
+            "name": "巧技🧧App",
+            "type": 3,
+            "api": "csp_qiao2",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/py/Bge.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
+            "playerType": 2,
+            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739517660808/cksp.txt"
         },
         {
             "key": "站长影视",
