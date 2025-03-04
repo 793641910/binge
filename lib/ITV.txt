@@ -532,15 +532,6 @@ iHOT爱玩具,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Conte
 iHOT爱玩具,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=yu&mode=1
 iHOT爱幼教,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=yu&mode=1
 iHOT爱幼教,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=yu&mode=1
-CGTN频道,#genre#
-CGTN,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=yu&mode=1
-CGTN,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=yu&mode=1
-CGTN俄语,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=yu&mode=1
-CGTN法语,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=yu&mode=1
-CGTN纪录,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=yu&mode=1
-CGTN阿拉伯语,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=yu&mode=1
-CGTN西班牙语,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=yu&mode=1
-
 
 🌺BesTV频道🌺兵哥整理,#genre#
 BesTV星光影院,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288013&livemode=1&stbId=yu&mode=1
