@@ -12,26 +12,10 @@
             "quickSearch": 0
         },
         {
-      "key": "didiz1111",
-      "name": "大全",
-      "type": 1,
-      "api": "http://45.152.67.99:1555/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-        {
       "key": "玩偶资源",
       "name": "玩偶资源",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 0
-    },
-    {
-      "key": "玩偶兄弟",
-      "name": "玩偶兄弟",
-      "type": 1,
-      "api": "https://api.sexnguon.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 0
     },
