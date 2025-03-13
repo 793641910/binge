@@ -19,6 +19,84 @@
       "searchable": 1,
       "filterable": 1
     },
+        {
+      "key": "玩偶资源",
+      "name": "玩偶资源",
+      "type": 1,
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "玩偶兄弟",
+      "name": "玩偶兄弟",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
+      "key": "无敌",
+      "name": "无敌",
+      "type": 3,
+      "api": "csp_XMVideo",
+      "jar": "./刺刺.jar",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "水偶视频",
+      "name": "👽水偶视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./xyqxbpq.jar",
+      "style": {
+        "ratio": 1.7
+      },
+      "ext": {
+        "主页url": "https://hsck123.26img.com",
+        "数组": "class=\"stui-vodlist__box&&</div>",
+        "标题": "title=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "链接": "href=\"&&\"",
+        "直接播放": "1",
+        "播放数组": "\"*-pannel-bd&&</div>",
+        "线路数组": "<h3&&</h3>",
+        "播放标题": ">&&</a>",
+        "分类": "国产$gc#无码$wz#有码$yz#欧美$om#动画$dm",
+        "分类url": "https://hsck123.26img.com/?type={cateId}&p={catePg}"
+      }
+    },
+    {
+      "key": "剑偶视频",
+      "name": "👽剑偶视频",
+      "type": 3,
+      "api": "./色播聚合.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "drpyS_七偶视频[密]",
+      "name": "👽七偶视频",
+      "type": 4,
+      "api": "http://drpy.mxlgsl.cn/api/七度空间[密]",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "ext": ""
+    },
+    {
+      "key": "drpyS_草偶视频[密]",
+      "name": "👽草偶视频",
+      "type": 4,
+      "api": "http://drpy.mxlgsl.cn/api/草榴社区[密]",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 0,
+      "ext": ""
+    },
     {
       "key": "didiz12211",
       "name": "🔞麻豆4K",
