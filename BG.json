@@ -3,10 +3,9 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "💥兵哥视界💥3月4日更新🧧记得经常更新数据包🧧祝大家观影愉快🇨🇳",
+            "name": "💥兵哥视界💥3月22日更新🧧记得经常更新数据包🧧祝大家观影愉快🇨🇳",
             "type": 3,
             "api": "csp_Douban",
-            "indexs": 1,
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -51,6 +50,30 @@
                 "type": "rect",
                 "ratio": 1.597
             }
+        },
+        {
+            "key": "mss1",
+            "name": "兵哥🧧搜索",
+            "type": 3,
+            "api": "csp_AI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "playerType": 2,
+            "ext": "faHR0cDovLzE3NS4xNzguODAuMjA5L21iL2FwaS5waHAvcHJvdmlkZS92b2QvfE1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTkuMC4wLjAgU2FmYXJpLzUzNy4zM3xxaWFvamk=",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/py/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
+        },
+        {
+            "key": "mss2",
+            "name": "兵哥🧧二搜",
+            "type": 3,
+            "api": "csp_AI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "playerType": 2,
+            "ext": "haHR0cDovLzE3NS4xNzguODAuMjA5L21iL3N4eXMvYXBpLnBocC9wcm92aWRlL3ZvZC98b2todHRwLzQuOS4xfHFpYW9qaQ==",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/py/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
         },
         {
             "key": "荐片",
