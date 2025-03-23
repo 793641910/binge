@@ -55,7 +55,7 @@
       "key": "剑偶视频",
       "name": "色播视频",
       "type": 3,
-      "api": "./FL/色播聚合.py",
+      "api": "./FL/a聚合.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
