@@ -24,7 +24,7 @@
       "name": "无敌",
       "type": 3,
       "api": "csp_XMVideo",
-      "jar": "./刺刺.jar",
+      "jar": "./FL/刺刺.jar",
       "searchable": 1,
       "filterable": 1
     },
@@ -33,7 +33,7 @@
       "name": "👽水偶视频",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./xyqxbpq.jar",
+      "jar": "./FL/fenghe.jar",
       "style": {
         "ratio": 1.7
       },
