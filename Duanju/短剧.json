@@ -3,12 +3,14 @@
     "logo": "./lib/logo.txt",
     "warningText": "兵哥出品的接口完全免费，切勿付费购买！",
     "lives": [
-        {
-            "name": "兵哥直播",
+                {
+            "name": "万部电影",
             "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "url": "./lib/DYDQ.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+            "timeout": 3,
+            "playerType": 2
         }
     ],
     "sites": [
