@@ -151,6 +151,16 @@
             "ext": "./json/纽约短剧.json"
         },
         {
+            "key": "短剧合集",
+            "name": "🌺短剧合集🌺兵哥视界",
+            "type": 3,
+            "api": "https://gitee.com/hccxbg/py/raw/master/js/quark.min.js",
+            "ext": "./json/短剧合集.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "量子影视",
             "name": "🌺量子短剧🌺兵哥视界",
             "type": 3,
