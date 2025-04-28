@@ -651,6 +651,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/短剧大全.json"
+        },
+        {
+            "key": "push_agent",
+            "name": "手机🧧推送",
+            "type": 3,
+            "api": "csp_Push",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/py/xiaosa.jar",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0
         }
     ],
     "rules": [
