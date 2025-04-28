@@ -14,7 +14,7 @@
     "sites": [
         {
             "key": "🌺cctv短剧🌺",
-            "name": "🌺兵哥短剧专线🌺4月14日整理🌺祝大家愉快观看短剧🍁",
+            "name": "🌺兵哥短剧专线🌺4月28日整理🌺祝大家愉快观看短剧🍁",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": 2,
@@ -22,6 +22,20 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/cctv短剧.json"
+        },
+{
+            "key": "配置中心",
+            "name": "配置🧧中心",
+            "type": 3,
+            "api": "csp_Config",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/py/xiaosa.jar",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
         },
         {
             "key": "🌺抖短剧APP",
