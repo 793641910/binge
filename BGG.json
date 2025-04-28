@@ -18,17 +18,6 @@
             "searchable": 0
         },
         {
-            "key": "检查更新",
-            "name": "检查🧧更新",
-            "type": 3,
-            "api": "csp_Market",
-            "jar": "https://gitee.com/hccxbg/py/raw/master/py/笙.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "ext": "https://8698.kstore.space/market.json"
-        },
-        {
             "key": "config",
             "name": "4K🧧配置",
             "type": 3,
