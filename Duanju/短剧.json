@@ -659,8 +659,11 @@
             "api": "csp_Push",
             "jar": "https://gitee.com/hccxbg/py/raw/master/py/fan.jar",
             "searchable": 0,
-            "filterable": 0,
-            "changeable": 0
+            "quickSearch": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
         }
     ],
     "rules": [
