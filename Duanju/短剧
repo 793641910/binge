@@ -655,12 +655,12 @@
             "name": "手机🧧推送",
             "type": 3,
             "api": "csp_Push",
-            "jar": "https://gitee.com/hccxbg/py/raw/master/py/xiaosa.jar",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/py/jar/fan.jar",
             "searchable": 0,
             "filterable": 0,
-            "changeable": 0
-        }
-    ],
+            "changeable": 0,
+            "timeout": 5
+        }    ],
     "rules": [
         {
             "host": "dyxs20.com",
