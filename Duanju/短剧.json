@@ -16,7 +16,7 @@
     "sites": [
         {
             "key": "🌺cctv短剧🌺",
-            "name": "🌺兵哥短剧专线🌺4月30日整理🌺祝大家愉快观看短剧🍁",
+            "name": "🌺兵哥短剧专线🌺5月5日整理🌺祝大家愉快观看短剧🍁",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": 2,
@@ -50,41 +50,45 @@
             "ext": "./js/抖短剧APP.js",
             "by": "current"
         },
-{
-            "key": "雨滴",
-            "name": "🌺雨滴短剧🌺兵哥视界",
-            "type": 3,
-            "api": "csp_Xdai",
-            "jar": "https://gitee.com/hccxbg/py/raw/master/py/xiaosa.jar",
-            "playerType": 1,
-            "ext": "jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
-        },
-{
+        {
             "key": "优质",
             "name": "🌺优质短剧🌺兵哥视界",
             "type": 3,
-            "api": "csp_Xdai",
-            "jar": "https://gitee.com/hccxbg/py/raw/master/py/xiaosa.jar",
-            "playerType": 1,
-            "ext": "jaHR0cHM6Ly9sYnlzYXBpZHR5bWd4LjY4Lmd5OjE2Nzg5L2xieXNhcGlkdHltL2FwcC50eHR8YXBpYXBwbGJ5c2tleTE2OHxhcGlhcHBsYnlza2V5MTY4fDEwNw=="
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar": "https://8698.kstore.space/xiaosa.jar",
+            "ext": {
+                "url": "https://apiapplbys.lbys.cc:5678",
+                "dataKey": "apiapplbyskey168",
+                "dataIv": "apiapplbyskey168",
+                "deviceId": "",
+                "version": "107"
+            }
         },
         {
-            "key": "电影",
-            "name": "🌺电影短剧🌺兵哥视界",
+            "key": "雨滴",
+            "name": "🌺雨滴短剧🌺兵哥视界",
             "type": 3,
-            "api": "csp_Xdai",
-            "jar": "https://gitee.com/hccxbg/py/raw/master/py/xiaosa.jar",
-            "playerType": 1,
-            "ext": "jaHR0cHM6Ly9jOHcyb3Y3dTV3ZzJ6MW84cDIxYy5hbGl5dW5jcy5jbGljazoyNzg5OXxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar": "https://8698.kstore.space/xiaosa.jar",
+            "ext": {
+                "url": "https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
+                "dataKey": "k9o3p2c8b7m3z0o8",
+                "dataIv": "k9o3p2c8b7m3z0o8",
+                "deviceId": "",
+                "version": "100"
+            }
         },
-{
-            "key": "云端",
-            "name": "🌺云端短剧🌺兵哥视界",
+        {
+            "key": "巧技",
+            "name": "🌺巧技搜索🌺兵哥视界",
             "type": 3,
-            "api": "csp_Xdai",
-            "jar": "https://gitee.com/hccxbg/py/raw/master/py/xiaosa.jar",
+            "api": "csp_qiao2",
+            "quickSearch": 1,
             "playerType": 2,
-            "ext": "jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9",
+            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743396867051/cksp.txt"
         },
         {
             "key": "星芽",
