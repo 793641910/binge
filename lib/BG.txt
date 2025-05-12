@@ -1,7 +1,13 @@
 
 🌺5月12日整理🌺,#genre#
-兵哥直播,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
-兵哥直播,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+
+睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=yu&mode=1
+睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=yu&mode=1
+睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000062&livemode=1&stbId=yu&mode=1
+睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000064&livemode=1&stbId=yu&mode=1
+睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270003&livemode=1&stbId=yu&mode=1
+睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270005&livemode=1&stbId=yu&mode=1
+
 睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=yu&mode=1
 睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=yu&mode=1
 睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=yu&mode=1
@@ -16,12 +22,6 @@
 睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000065&livemode=1&stbId=yu&mode=1
 睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270002&livemode=1&stbId=yu&mode=1
 睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270006&livemode=1&stbId=yu&mode=1
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=yu&mode=1
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=yu&mode=1
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000062&livemode=1&stbId=yu&mode=1
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000064&livemode=1&stbId=yu&mode=1
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270003&livemode=1&stbId=yu&mode=1
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270005&livemode=1&stbId=yu&mode=1
 
 
 
@@ -265,15 +265,53 @@ CHC家庭影院 6,http://211.97.63.3:801/hls/525/index.m3u8
 
 🌺港台IPV6🌺兵哥整理,#genre#
 
-凤凰资讯,http://113.64.146.6:2024/hls/10/index.m3u8
-凤凰中文,http://113.64.146.6:2024/hls/11/index.m3u8
 本港台,http://113.64.146.6:2024/hls/12/index.m3u8
 龍翔時代,http://113.64.146.6:2024/hls/14/index.m3u8
 重温经典,http://113.64.146.6:2024/hls/15/index.m3u8
+翡翠台,https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+PopC,https://mysupertv.pendy.dpdns.org/PopC/popc.m3u8
+美亚电影台,https://mysupertv.pendy.dpdns.org/CMAM/cmam.m3u8
+天映频道(印尼),https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
+Animax,https://live.tvfix.org/live/animax/index.m3u8
+华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+明珠台,https://live.tvfix.org/live/pearl/index.m3u8
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVB Plus,https://live.tvfix.org/live/tvbplus/index.m3u8
+TVBS,https://live.tvfix.org/live/tvbs/index.m3u8
+TVBS新闻台,https://live.tvfix.org/live/tvbsnews/index.m3u8
+TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+亚洲新闻台,https://live.tvfix.org/live/newsasia/index.m3u8
+娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
+TVB娱乐新闻台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
+Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
+Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
+爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 
 
 
-
+凤凰资讯,http://113.64.146.6:2024/hls/10/index.m3u8
+凤凰中文,http://113.64.146.6:2024/hls/11/index.m3u8
 
 
 
