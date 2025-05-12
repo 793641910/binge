@@ -27,24 +27,6 @@
 
 🌺兵哥出品🌺必属精品,#genre#
 邵氏电影,http://120.76.248.139/live/lunbo/ssdy.m3u8
-邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
-邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
-邵氏影院,http://159.75.85.63:35455/douyu/4246519
-邵氏影院,http://www.goodiptv.club/douyu/4246519
-欧美影院,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000005&livemode=1&stbId=yu&mode=1
-欧美影院,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=yu&mode=1
-热播精选,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=yu&mode=1
-热播精选,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=yu&mode=1
-少儿动漫,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000003&livemode=1&stbId=yu&mode=1
-少儿动漫,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=yu&mode=1
-探索纪录,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000007&livemode=1&stbId=yu&mode=1
-探索纪录,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=yu&mode=1
-电子竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000015&livemode=1&stbId=yu&mode=1
-电子竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000003000011654&livemode=1&stbId=yu&mode=1
-亚洲影院,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=yu&mode=1
-亚洲影院,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=yu&mode=1
-精彩影视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000063&livemode=1&stbId=yu&mode=1
-精彩影视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=yu&mode=1
 睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=yu&mode=1
 睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=yu&mode=1
 睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=yu&mode=1
