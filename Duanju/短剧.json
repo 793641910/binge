@@ -75,7 +75,6 @@
             "type": 3,
             "api": "./js/偷乐短剧.py",
             "searchable": 1,
-            "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 2
@@ -89,16 +88,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/一起看短剧.json"
-        },
-        {
-            "key": "短剧合集",
-            "name": "🌺短剧合集🌺兵哥视界",
-            "type": 3,
-            "api": "https://gitee.com/hccxbg/py/raw/master/js/quark.min.js",
-            "ext": "./json/短剧合集.js",
-            "style": {
-                "type": "list"
-            }
         },
         {
             "key": "🌺安迪短剧🌺",
@@ -496,6 +485,16 @@
                 "简介": "🌺别叫偶兵哥哥为您介绍剧情🌺+vod_content\">&&</span>",
                 "分类url": "https://wo.ikan4k.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
                 "分类": "女频恋爱$32#反转爽剧$33#脑洞悬疑$34#年代穿越$35#古装仙侠$36#现代都市$37"
+            }
+        },
+        {
+            "key": "短剧合集",
+            "name": "🌺短剧合集🌺兵哥视界",
+            "type": 3,
+            "api": "https://gitee.com/hccxbg/py/raw/master/js/quark.min.js",
+            "ext": "./json/短剧合集.js",
+            "style": {
+                "type": "list"
             }
         },
         {
