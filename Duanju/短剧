@@ -75,7 +75,6 @@
             "type": 3,
             "api": "./js/偷乐短剧.py",
             "searchable": 1,
-            "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 2
@@ -89,16 +88,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/一起看短剧.json"
-        },
-        {
-            "key": "短剧合集",
-            "name": "🌺短剧合集🌺兵哥视界",
-            "type": 3,
-            "api": "https://gitee.com/hccxbg/py/raw/master/js/quark.min.js",
-            "ext": "./json/短剧合集.js",
-            "style": {
-                "type": "list"
-            }
         },
         {
             "key": "🌺安迪短剧🌺",
@@ -524,6 +513,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/影梦短剧.json"
+        },
+        {
+            "key": "短剧合集",
+            "name": "🌺短剧合集🌺兵哥视界",
+            "type": 3,
+            "api": "https://gitee.com/hccxbg/py/raw/master/js/quark.min.js",
+            "ext": "./json/短剧合集.js",
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "🌺猎手🌺",
