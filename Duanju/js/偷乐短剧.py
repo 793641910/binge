@@ -61,7 +61,7 @@ class Spider(Spider):
         self.cache_timeout = {}
     
     def getName(self):
-        return "兵哥爱短剧"
+        return "偷乐短剧"
     
     def init(self, extend=""):
         # 初始化方法，可以留空
@@ -472,7 +472,7 @@ class Spider(Spider):
                         tags.append(tag_text)
             
             # 提取播放列表
-            play_from = "偷乐短剧"
+            play_from = "兵哥爱短剧"
             play_list = []
             
             # 查找播放列表区域
