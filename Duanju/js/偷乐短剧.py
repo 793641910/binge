@@ -61,7 +61,7 @@ class Spider(Spider):
         self.cache_timeout = {}
     
     def getName(self):
-        return "偷乐短剧"
+        return "兵哥爱短剧"
     
     def init(self, extend=""):
         # 初始化方法，可以留空
