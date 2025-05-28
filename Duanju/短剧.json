@@ -25,7 +25,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/短剧大全.json"
+            "ext": "./json/飞飞短剧.json"
         },
         {
             "key": "Notice",
