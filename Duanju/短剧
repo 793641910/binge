@@ -1,6 +1,7 @@
 {
     "spider": "https://8698.kstore.space/Bshao.jar",
     "logo": "./lib/logo.txt",
+    "notice": "欢迎使用兵哥视界",
     "warningText": "兵哥出品的接口完全免费，切勿付费购买！",
     "lives": [
         {
@@ -19,7 +20,7 @@
             "name": "🌺兵哥短剧专线🌺5月20日整理🌺祝大家愉快观看短剧🍁",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://8698.kstore.space/xiaosa.jar",
+            "jar": "https://8698.kstore.space/xiaosa1.jar",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
