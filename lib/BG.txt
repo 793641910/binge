@@ -1,5 +1,11 @@
 
 🌺6月1日整理🌺,#genre#
+CHC动作电影,http://175.22.226.131:888/hls/106/index.m3u8
+CHC动作电影,http://119.32.12.17:2901/udp/224.1.100.131:11111
+CHC家庭影院,http://175.22.226.131:888/hls/108/index.m3u8
+CHC影迷电影,http://175.22.226.131:888/hls/107/index.m3u8
+CHC动作电影 6,http://211.97.63.3:801/hls/523/index.m3u8
+CHC家庭影院 6,http://211.97.63.3:801/hls/525/index.m3u8
 
 睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=yu&mode=1
 睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=yu&mode=1
@@ -271,8 +277,6 @@ CETV-2教育,http://zqh2333.top:2222/rtp/239.93.24.113:5140
 黑莓动画,http://39.135.133.157:80/wh7f454c46tw2027352089_870394665/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电影,http://39.135.133.156:80/wh7f454c46tw2087250815_476903406/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 重温经典频道,http://113.64.146.6:2024/hls/15/index.m3u8
-CHC动作电影 6,http://211.97.63.3:801/hls/523/index.m3u8
-CHC家庭影院 6,http://211.97.63.3:801/hls/525/index.m3u8
 睛彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 睛彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226124/index.m3u8
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
