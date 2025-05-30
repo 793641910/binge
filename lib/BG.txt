@@ -4,8 +4,8 @@ CHC动作电影,http://175.22.226.131:888/hls/106/index.m3u8
 CHC动作电影,http://119.32.12.17:2901/udp/224.1.100.131:11111
 CHC家庭影院,http://175.22.226.131:888/hls/108/index.m3u8
 CHC影迷电影,http://175.22.226.131:888/hls/107/index.m3u8
-CHC动作电影 6,http://211.97.63.3:801/hls/523/index.m3u8
-CHC家庭影院 6,http://211.97.63.3:801/hls/525/index.m3u8
+CHC动作电影,http://211.97.63.3:801/hls/523/index.m3u8
+CHC家庭影院,http://211.97.63.3:801/hls/525/index.m3u8
 
 睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=yu&mode=1
 睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=yu&mode=1
