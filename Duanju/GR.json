@@ -10,6 +10,14 @@
             "filterable": 1
         },
         {
+            "key": "Notice",
+            "name": "免费分享，请勿受骗",
+            "type": 3,
+            "api": "csp_Notice",
+            "jar": "./lib/FLPY/notice.jar",
+            "ext": "私享即可，禁止传播，否则删库"
+        },
+        {
             "key": "绿色仓库",
             "name": "绿色🧧仓库",
             "type": 3,
@@ -1225,6 +1233,7 @@
         "renrenmi"
     ],
     "spider": "./lib/FLPY/999.jar",
+    "notice": "禁止传播，否则禁用此软件",
     "logo": "./lib/FLPY/18logo.txt",
     "lives": [
         {
