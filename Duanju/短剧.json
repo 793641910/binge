@@ -14,12 +14,13 @@
             "playerType": 2
         }
     ],
-    "sites": [        {
+    "sites": [        
+        {
             "key": "hipy_js_星芽短剧",
             "name": "🌺兵哥短剧专线🌺6月4日整理🌺祝大家愉快观看短剧🍁",
             "type": 3,           
             "searchable": 0,
-            "changeable": 1
+            "changeable": 1,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/星芽短剧.js"
         },
