@@ -17,7 +17,7 @@
     "sites": [        
         {
             "key": "hipy_js_星芽短剧",
-            "name": "🌺兵哥短剧专线🌺6月4日整理🌺祝大家愉快观看短剧🍁",
+            "name": "🌺兵哥短剧专线🌺6月13日整理🌺祝大家愉快观看短剧🍁",
             "type": 3,           
             "searchable": 0,
             "changeable": 1,
@@ -857,10 +857,10 @@
         },
         {
             "key": "push_agent",
-            "name": "手机推送",
+            "name": "手机🧧推送",
             "type": 3,
             "api": "csp_Push",
-            "jar": "https://8698.kstore.space/xiaosa1.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
             "searchable": 0,
             "filterable": 0,
             "changeable": 0
