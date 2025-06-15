@@ -1,0 +1,1440 @@
+{
+    "spider": "https://gitee.com/hccxbg/py/raw/master/favorite/notice.jar",
+    "logo": "./lib/logo.txt",
+    "warningText": "兵哥出品的接口完全免费，切勿付费购买！",
+    "notice": "欢迎加入兵哥视界官方交流群",
+    "lives": [
+        {
+            "name": "万部电影",
+            "type": 0,
+            "url": "./lib/DYDQ.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+            "timeout": 3,
+            "playerType": 2
+        }
+    ],
+    "sites": [        
+        {
+            "key": "hipy_js_星芽短剧",
+            "name": "🌺兵哥短剧专线🌺6月16日整理🌺祝大家愉快观看短剧🍁",
+            "type": 3,           
+            "searchable": 0,
+            "changeable": 1,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/星芽短剧.js"
+        },
+        {
+            "key": "🌺短大全🌺",
+            "name": "短剧专线",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/短剧大全.json"
+        },
+        {
+            "key": "Notice",
+            "name": "免费分享，请勿受骗",
+            "type": 3,
+            "api": "csp_Notice",
+            "ext": "💦兵哥视界💦追剧神器，不进群者，这个我都删库不给用了！"
+        },
+        {
+            "key": "配置中心",
+            "name": "🌺配置中心🌺兵哥视界",
+            "type": 3,
+            "api": "csp_Config",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "星芽",
+            "name": "🌺星芽短剧🌺兵哥视界",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/星芽短剧.js"
+        },
+        {
+            "key": "红果短剧",
+            "name": "🌺红果短剧🌺兵哥视界",
+            "type": 3,
+            "api": "./js/红果网页.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "🌺飞飞短剧🌺",
+            "name": "🌺飞飞短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/飞飞短剧.json"
+        },
+        {
+            "key": "纽约短剧",
+            "name": "🌺纽约短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/纽约短剧.json"
+        },
+        {
+            "key": "偷乐短剧",
+            "name": "🌺偷乐短剧🌺兵哥视界",
+            "type": 3,
+            "api": "./js/偷乐短剧.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "🌺一起看🌺",
+            "name": "🌺一起看短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/一起看短剧.json"
+        },
+        {
+            "key": "🌺安迪短剧🌺",
+            "name": "🌺安迪短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/安迪短剧.json"
+        },
+        {
+            "key": "🌺理理短剧🌺",
+            "name": "🌺理理短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/理理短剧.json"
+        },
+        {
+            "key": "🌺PTT短剧🌺",
+            "name": "🌺PTT短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/PTT短剧.json"
+        },
+        {
+            "key": "🌺老王影院🌺",
+            "name": "🌺老王短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/老王短剧.json"
+        },
+        {
+            "key": "🌺短剧网🌺",
+            "name": "🌺短剧网🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/短剧网.json"
+        },
+        {
+            "key": "🌺天龙影院🌺",
+            "name": "🌺天龙短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/天龙短剧.json"
+        },
+        {
+            "key": "🌺奇优影院🌺",
+            "name": "🌺奇优短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/奇优短剧.json"
+        },
+        {
+            "key": "量子影视",
+            "name": "🌺量子短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/量子短剧.json"
+        },
+        {
+            "key": "🌺河马短剧",
+            "name": "🌺河马短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/河马短剧.json"
+        },
+        {
+            "key": "夜猫短剧",
+            "name": "🌺夜猫短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_YMduanju",
+            "jar": "./jar/ymz_0509.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "短剧吧",
+            "name": "🌺短剧看吧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "ext": {
+                "简介": "兵哥祝您🧧观影愉快",
+                "分类": "恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
+                "分类url": "https://duanju8.cc/type/{cateId}/page/{catePg}.html"
+            }
+        },
+        {
+            "key": "QuarkShare1",
+            "name": "🌺东风短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_QuarkShare",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$./lib/quarkshare_TZ.txt",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            },
+            "jar": "./jar/pg0512.jar"
+        },
+        {
+            "key": "csp_HK_91短剧",
+            "name": "🌺91短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/91duanju.json"
+        },
+        {
+            "key": "drpy_短剧",
+            "name": "🌺热门短剧🌺兵哥视界",
+            "type": 3,
+            "playerType": 1,
+            "api": "./js/apiv510zbzdb.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./json/duanju520.json"
+        },
+        {
+            "key": "rarbt1",
+            "name": "🌺rarbt🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "ext": {
+                "简介": "兵哥祝您观影愉快",
+                "线路数组": "\"module-tab-itemtab-item\"&&</div>",
+                "分类": "短剧$duanju",
+                "分类url": "https://www.rarbt.fun/vod/show/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html"
+            }
+        },
+        {
+            "key": "毒舌影视",
+            "name": "🌺毒舌影视🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "简介": "class=\"detail-desc\">&&</p>",
+                "数组": "module-item&&</a>",
+                "副标题": "v-item-bottom\">&&</div>",
+                "图片": "https+://vres.a357899.cn+data-original=\"&&\"",
+                "导演": "导演:&&",
+                "演员": "演员:</div>&&</div>[替换:/>>空#更新>>更新]",
+                "影片年代": "首映:</div>&&</div>",
+                "线路数组": "source-item\">&&</a>[排序:蓝光>超清]",
+                "线路标题": "<spanclass=\"source-item-label\">&&</span>+-+source-item-num\">&&</i>[替换:线路>>空]",
+                "搜索url": "https://www.dushe7.app/search?k={wd}&page={pg}",
+                "地区": "[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
+                "剧情": "[替换:伦理>>NETFLIX]",
+                "排序": "综合$1#最新$2#最热$3#评分$4",
+                "分类": "短剧$6",
+                "分类url": "https://www.dushe7.app/show/{cateId}-{class}-{area}--{year}-{by}-{catePg}.html"
+            }
+        },
+        {
+            "key": "555zxdy",
+            "name": "🌺555短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "ext": {
+                "简介": "兵哥🧧祝您观影愉快",
+                "分类": "短剧$45",
+                "分类url": "https://www.555zxdy.com/vod/show/by/{by}/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+            }
+        },
+        {
+            "key": "csp_XBPQ_vstv",
+            "name": "🌺VS短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "简介": "兵哥🧧祝您观影愉快",
+                "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "短剧$5"
+            }
+        },
+        {
+            "key": "护航短剧",
+            "name": "🌺护航短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.qdhuhang.com/qdhyl/48.html",
+                "数组": "part-2by3\"&&/a><span",
+                "标题": "html\">&&<",
+                "副标题": "+center\">&&<",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "线路数组": "ico_play.png&&/span>",
+                "线路标题": "🌺兵哥+>&&<",
+                "播放数组": "clearfix list&&</ul>",
+                "播放列表": "<a&&a>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": "+>&&</",
+                "跳转播放链接": "var now=\"&&\"",
+                "简介": "🌺兵哥为您介绍剧情+讲述了:&&\">[替换:style type=\"text/css>>空]",
+                "分类url": "https://www.qdhuhang.com/qdhyl/{cateId}-{catePg}.html",
+                "分类": "女频剧$49#反转剧$50#穿越剧$51#古装剧$52#都市剧$53#脑洞剧$54#爽文剧$55"
+            }
+        },
+        {
+            "key": "稀饭短剧",
+            "name": "🌺稀饭短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/稀饭短剧.json"
+        },
+        {
+            "key": "🌺短剧屋🌺",
+            "name": "🌺短剧屋🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/短剧屋.json"
+        },
+        {
+            "key": "🌺毒舌短剧🌺",
+            "name": "🌺毒舌短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/毒舌短剧.json"
+        },
+        {
+            "key": "🌺微云影视🌺",
+            "name": "🌺微云短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/微云短剧.json"
+        },
+        {
+            "key": "优影视",
+            "name": "🌺优影短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/优短剧.json"
+        },
+        {
+            "key": "短剧大全",
+            "name": "🌺短剧大全🌺兵哥视界",
+            "type": 3,
+            "api": "https://gitee.com/hccxbg/py/raw/master/favorite/libjs/drpy2.min.js",
+            "ext": "./js/短剧大全.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "懒盘",
+            "name": "🌺懒盘短剧🌺兵哥视界",
+            "type": 3,
+            "api": "https://gitee.com/hccxbg/py/raw/master/favorite/libjs/drpy2.min.js",
+            "ext": "./js/懒盘.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "盘库",
+            "name": "🌺盘库短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_PanWebKuBa",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://panku8.com,https://yipanso.com"
+            }
+        },
+        {
+            "key": "111影视",
+            "name": "🌺111短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/111短剧.json"
+        },
+        {
+            "key": "米兔影视",
+            "name": "🌺米兔短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/米兔短剧.json"
+        },
+        {
+            "key": "影趣",
+            "name": "🌺影趣短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/影趣短剧.json"
+        },
+        {
+            "key": "映播短剧",
+            "name": "🌺映播短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/映播短剧.json"
+        },
+        {
+            "key": "映迷影视",
+            "name": "🌺映迷短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/映迷短剧.json"
+        },
+        {
+            "key": "好帅短剧",
+            "name": "🌺好帅短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "作者": "🌺兵哥20041011",
+                "站名": "你好帅影院",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://nhsyy.com",
+                "二次截取": "module-items\"&&id=\"page[替换:module-footer>>module-item]",
+                "数组": "module-item-pic&&module-item\"",
+                "标题": "title=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "副标题": "+item-text\">&&</",
+                "链接": "href=\"&&\"",
+                "线路数组": "data-dropdown&&</div>",
+                "线路标题": "🌺兵哥+<span>&&</+【共+<small>&&<+集】",
+                "播放数组": "-blocklist\">&&</div>",
+                "播放列表": "<a&&a>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": "+<span>&&</",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "搜索模式": "1",
+                "搜索url": "https://nhsyy.com/vodsearch/{wd}----------{pg}---.html",
+                "分类url": "https://nhsyy.com/vodshwo/{cateId}--------{catePg}---.html",
+                "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#玄幻$xuanhuan#言情$yanqing"
+            }
+        },
+        {
+            "key": "爱看4K",
+            "name": "🌺爱看4k🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://wo.ikan4k.com/index.php/vod/show/id/31.html",
+                "二次截取": "module-items\"&&id=\"page[替换:module-footer>>module-item]",
+                "数组": "module-item-pic&&module-item\"",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "🌺+item-text\">&&<",
+                "线路数组": "dropdown&&</div>",
+                "线路标题": "🌺+<span>&&</+【共+<small>&&<+集】",
+                "播放数组": "id=\"sort-item&&</div>",
+                "播放列表": "<a&&a>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": "🌺+<span>&&</",
+                "搜索模式": "1",
+                "搜索url": "https://wo.ikan4k.com/index.php/vod/search/page/{pg}/wd/{wd}.html",
+                "简介": "🌺别叫偶兵哥哥为您介绍剧情🌺+vod_content\">&&</span>",
+                "分类url": "https://wo.ikan4k.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+                "分类": "女频恋爱$32#反转爽剧$33#脑洞悬疑$34#年代穿越$35#古装仙侠$36#现代都市$37"
+            }
+        },
+        {
+            "key": "短剧合集",
+            "name": "🌺短剧合集🌺兵哥视界",
+            "type": 3,
+            "api": "https://gitee.com/hccxbg/py/raw/master/js/quark.min.js",
+            "ext": "./json/短剧合集.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "🌺天堂短剧",
+            "name": "🌺天堂短剧🌺兵哥视界",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/%E5%A4%A9%E5%A0%82%E7%9F%AD%E5%89%A7.js"
+        },
+        {
+            "key": "🌺爱你短剧",
+            "name": "🌺爱你短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/爱你短剧.json"
+        },
+        {
+            "key": "🌺影梦短剧🌺",
+            "name": "🌺影梦短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/影梦短剧.json"
+        },
+        {
+            "key": "🌺猎手🌺",
+            "name": "🌺猎手短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/猎手短剧.json"
+        },
+        {
+            "key": "🌺妖狐短剧🌺",
+            "name": "🌺妖狐短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/妖狐短剧.json"
+        },
+        {
+            "key": "🌺免费电影网🌺",
+            "name": "🌺免费短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/免费短剧.json"
+        },
+        {
+            "key": "🌺蚂蚁影库🌺",
+            "name": "🌺蚂蚁短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/蚂蚁短剧.json"
+        },
+        {
+            "key": "🌺荔枝TV🌺",
+            "name": "🌺荔枝短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/荔枝短剧.json"
+        },
+        {
+            "key": "🌺首播站🌺",
+            "name": "🌺首播短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/首播短剧.json"
+        },
+        {
+            "key": "csp_XBPQ_红果短剧",
+            "name": "🌺红果短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.jinyanw.com/type/{cateId}-{catePg}.html",
+                "分类": "有声动漫$youshengdongman#女频恋爱$nvpinlianai#翻转爽剧$fanzhuanshuangju#古装仙侠$guzhuangxianxia#年代穿越$niandaichuanyue#脑洞悬疑$naodongxuanyi#现代都市$xiandaidushi"
+            }
+        },
+        {
+            "key": "🌺爱上电影🌺",
+            "name": "🌺爱上短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/爱上短剧.json"
+        },
+        {
+            "key": "🌺PPTV🌺",
+            "name": "🌺PP短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/PP短剧.json"
+        },
+        {
+            "key": "🌺blifun影院🌺",
+            "name": "🌺blifun短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/blifun短剧.json"
+        },
+        {
+            "key": "🌺cms短剧🌺",
+            "name": "🌺cms短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/cms短剧.json"
+        },
+        {
+            "key": "🌺freeOK短剧🌺",
+            "name": "🌺freeOK短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/freeOK短剧.json"
+        },
+        {
+            "key": "🌺七味短剧🌺",
+            "name": "🌺七味短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/七味短剧.json"
+        },
+        {
+            "key": "🌺白嫖者联盟🌺",
+            "name": "🌺白嫖短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/白嫖者.json"
+        },
+        {
+            "key": "🌺电视剧网🌺",
+            "name": "🌺电视剧网🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/电视剧网.json"
+        },
+        {
+            "key": "🌺胖虎影院🌺",
+            "name": "🌺胖虎短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/胖虎短剧.json"
+        },
+        {
+            "key": "🌺大熊短剧🌺",
+            "name": "🌺大熊短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/大熊短剧.json"
+        },
+        {
+            "key": "雨滴",
+            "name": "🌺雨滴短剧🌺兵哥视界",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "ext": {
+                "url": "https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
+                "dataKey": "k9o3p2c8b7m3z0o8",
+                "dataIv": "k9o3p2c8b7m3z0o8",
+                "deviceId": "",
+                "version": "100"
+            }
+        },
+        {
+            "key": "冬瓜",
+            "name": "冬瓜🧧搜索",
+            "type": 3,
+            "api": "csp_qiao2",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/fix250524.jar",
+            "playerType": 2,
+            "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+        },
+        {
+            "key": "🌺一个短剧🌺",
+            "name": "🌺一个短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/一个短剧.json"
+        },
+        {
+            "key": "🌺掌心视界🌺",
+            "name": "🌺掌心短剧🌺兵哥视界",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/掌心短剧.json"
+        },
+        {
+            "key": "push_agent",
+            "name": "手机🧧推送",
+            "type": 3,
+            "api": "csp_Push",
+            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0
+        }
+    ],
+    "rules": [
+        {
+            "host": "dyxs20.com",
+            "rule": [
+                ".m3u8"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "default.365yg.com"
+            ]
+        },
+        {
+            "host": "www.djuu.com",
+            "rule": [
+                "mp4.djuu.com",
+                "m4a"
+            ]
+        },
+        {
+            "host": "www.sharenice.net",
+            "rule": [
+                "huoshan.com",
+                "/item/video/"
+            ],
+            "filter": [
+                "影视"
+            ]
+        },
+        {
+            "host": "www.sharenice.net",
+            "rule": [
+                "sovv.qianpailive.com",
+                "vid="
+            ],
+            "filter": [
+                "影视"
+            ]
+        },
+        {
+            "host": "www.sharenice.net",
+            "rule": [
+                "douyin.com",
+                "/play/"
+            ]
+        },
+        {
+            "host": "m.ysxs8.vip",
+            "rule": [
+                "ysting.ysxs8.vip:81",
+                "xmcdn.com"
+            ],
+            "filter": [
+                "影视"
+            ]
+        },
+        {
+            "host": "hdmoli.com",
+            "rule": [
+                ".m3u8"
+            ]
+        },
+        {
+            "host": "https://api.live.bilibili.com",
+            "rule": [
+                "bilivideo.com",
+                "/index.m3u8"
+            ],
+            "filter": [
+                "data.bilibili.com/log/web",
+                "i0.hdslb.com/bfs/live/"
+            ]
+        },
+        {
+            "host": "www.fun4k.com",
+            "rule": [
+                "https://hd.ijycnd.com/play",
+                "index.m3u8"
+            ]
+        },
+        {
+            "host": "www.iesdouyin.com",
+            "rule": [
+                "playwm/?video_id="
+            ]
+        },
+        {
+            "host": "www.ysgc.vip",
+            "rule": [
+                "getm3u8?url=http"
+            ]
+        },
+        {
+            "host": "v.douyin.com",
+            "rule": [
+                "playwm/?video_id="
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "douyin.com/aweme",
+                "video_id="
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "huoshan.com",
+                "/item/video/"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
+            ]
+        },
+        {
+            "host": "www.agemys.cc",
+            "rule": [
+                "cdn-tos",
+                "obj/tos-cn"
+            ]
+        },
+        {
+            "host": "www.sharenice.net",
+            "rule": [
+                "http.*?/play.{0,3}\\?[^url]{2,8}=.*",
+                "qianpailive.com",
+                "vid="
+            ]
+        },
+        {
+            "host": "www.sharenice.net",
+            "rule": [
+                "qianpailive.com",
+                "vid="
+            ]
+        },
+        {
+            "name": "星星",
+            "hosts": [
+                "aws.ulivetv.net"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "海外看",
+            "hosts": [
+                "haiwaikan"
+            ],
+            "regex": [
+                "8.1748",
+                "10.0099",
+                "10.3333"
+            ]
+        },
+        {
+            "name": "暴风广告",
+            "hosts": [
+                "bfzy",
+                "s5.bfzycdn"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "蜗牛直连去广",
+            "hosts": [
+                "vip.123pan.cn",
+                "rescdn.wuxivlog.cn"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "量子广告",
+            "hosts": [
+                "vip.lz",
+                "hd.lz",
+                "v.cdnlz"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "非凡广告",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "暴风广告",
+            "hosts": [
+                "bfzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "索尼广告",
+            "hosts": [
+                "suonizy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "采集站广告",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy",
+                "vip.lz",
+                "hd.lz",
+                ".cdnlz",
+                "suonizy",
+                "bfzy"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
+                "#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+",
+                "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "磁力广告",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "更多",
+                "社區",
+                "xuu",
+                "最新",
+                "直播",
+                "更新",
+                "社区",
+                "有趣",
+                "新片首发",
+                "UUE29"
+            ]
+        },
+        {
+            "name": "火山嗅探",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "抖音嗅探",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "农民嗅探",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "proxy",
+            "hosts": [
+                "raw.githubusercontent.com",
+                "googlevideo.com",
+                "cdn.v82u1l.com",
+                "cdn.iz8qkg.com",
+                "cdn.kin6c1.com",
+                "c.biggggg.com",
+                "c.olddddd.com",
+                "haiwaikan.com",
+                "www.histar.tv",
+                "youtube.com",
+                "uhibo.com",
+                ".*boku.*",
+                ".*nivod.*",
+                ".*ulivetv.*"
+            ]
+        },
+        {
+            "host": "zjmiao.com",
+            "rule": [
+                "play.videomiao.vip/API.php",
+                "time=",
+                "key=",
+                "path="
+            ]
+        }
+    ],
+    "parses": [
+        {
+            "name": "解析聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "Web聚合",
+            "type": 3,
+            "url": "Web"
+        },
+        {
+            "name": "Json轮询",
+            "type": 2,
+            "url": "Sequence"
+        },
+        {
+            "name": "Json并发",
+            "type": 2,
+            "url": "Parallel"
+        }
+    ],
+    "ijk": [
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "ads": [
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "iqiyi.hbuioo.com",
+        "vip.ffzyad.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "stj.v1vo.top",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "so.toutiao.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisangao.cn",
+        "z7.cnzz.com",
+        "xg.huataisangao.cn",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com"
+    ],
+    "wallpaper": "http://74.120.175.78/JK/api/bg/"
+}
