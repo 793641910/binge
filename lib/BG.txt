@@ -76,104 +76,72 @@ Astro
 🌺防失联🌺,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
 🌺获取最新源址🌺,https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
 
-🌺肥羊二进🌺兵哥整理,#genre#
-
-
-CHC影迷电影,https://www.freetv.top/migu/952383261.m3u8?migutoken=0f03f8a6f21f3e880b2ed92692fbe91d8dfce085abaada08b765403bb02ba21efe24ac5dfc6309d458109e6269008dda7a81bf1db4a96cdd7f6a515525d70c5c0bd48cff6a5c04883f4bb888b7
-CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=781a047a25b03b3efb5eadb27e905cd7fb866fbe4821ac3ec3ac0cc7e6c16cfca86ff567f212d6bf4263987e8de24a6421e5198959f32709d78a00cba967ee12e0819791072a0d30f531787a23
-
-CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=571dc311fc83511dc0126e97e983b04794a2b02b54eb64ac4f436dbd075eba6b27b583ca4584624bac092e818ed33365ff0f3394a100fe2ddd90d6dbf65231cef435c6d012ea2b30623f9eed5a
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-
-CCTV1综合,https://www.freetv.top/migu/608807420.m3u8?migutoken=62cc412b9ed80aedbbfbfa6a55531ee8b985d61113ed0b3a1eeca8b89d22ad1421fa10735503c61f31e2f2ce0a171251aeef21c117c85c7402fad2ac072d34433a2894846daa562bba18718b94
-CCTV2财经,https://www.freetv.top/migu/631780532.m3u8?migutoken=5396c865eb8aa1dd8ded083170dabb95304b9bc2386131e8f59a7a5a1ed2bba57d7d4b178565e984cbbad8b52c5f27c3eb5f3a1376edf3e8bee111cefc92f392cd5cfaa8ca32f08c62b000a778
-CCTV3综艺,https://www.freetv.top/migu/624878271.m3u8?migutoken=378e88bb1cdf6fc60162029782704adf22e6233c4fecc2c86beef238fb4fda6218a6c0b4c842834a98efc2336720321c056ceab81c3e0f4e354c0da5dd2e3e557d7ddbb0a71c2cebc5801adda7
-CCTV4中文国际,https://www.freetv.top/migu/631780421.m3u8?migutoken=b13ef72dab17f01562c3a24e9cf7cdd236cb377d526c66696b7ca4cdc8dd4274de7e285aef1e960102a47d9f2d1b08c8f54020ebb489a3ccc0296cb7ae2a2ff5437e969431ed0267dfd82cc326
-CCTV5体育,https://www.freetv.top/migu/641886683.m3u8?migutoken=0ddaf285505e7b1a48bdac6ba93383b982d5cac6e170d2351072ecf3757d89db85689c849d662bfee2b5d38bab9c4cfa230d4c80dd124f50d6cca72dd3d81f444d5e128152c15da12cb2ecfbec
-CCTV5+体育赛事,https://www.freetv.top/migu/641886773.m3u8?migutoken=af558a693614440a59bfd6a33cf11cf3e38380498ad276f208f43ca52ac6d732087302060efe1b5f21cd8ccc89c417e7bdddd9c1d3e6233a834e1f149818024731e56f97b1489c88735ef75551
-CCTV6电影,https://www.freetv.top/migu/624878396.m3u8?migutoken=0dbbc32c19150dcab91829c86403826573a64e669aae727bbcf7531d9d53e77b93b0e70f2a87ced7b967b719336d82554fb4fcf4b5b37759c78d3aaba2c417a32ee19fbf0f9d6bddc5cf2388f0
-CCTV7国防军事,https://www.freetv.top/migu/673168121.m3u8?migutoken=ba30d96bcdc67b00db045120cd35b5184d352f580c598809c9310e86b44b6b631ce0486517def3ee55f62d8aa42befc79d2786e0f4d40438136180845ddaabdc1a63ee0a374b09b13e2e4a5714
-CCTV8电视剧,https://www.freetv.top/migu/624878356.m3u8?migutoken=e815d6cc32cc5f0ae9da06fb64d85fab326d2d92e6fc57103cb16e2bfa24304a1c6d91c31c03be593d8fca694a69996347f8448eed2141af2fb8204dca211864b5668cd259afd5af894cbe63fc
-CCTV9纪录,https://www.freetv.top/migu/673168140.m3u8?migutoken=bb1033f6eec6afc5278ea2529fa459f55db8515cd1bf3064529a887ac9e181c7c625023043f95a6d1d745fcb3a127bcc245c47b485c8a3e8dc33fdd880b224f99b6809765e645d7283c70b49af
-CCTV10科教,https://www.freetv.top/migu/624878405.m3u8?migutoken=127ff97ef1578f2621c00fb96f43af59ce9ccd5e1f1031df04c5f6e3c0d01aabd582e137fa96b65204ba487c59fca395391d5b337d66dd28857f3b32842d732a538efcb89293ab46f1d3ead376
-CCTV11戏曲,https://www.freetv.top/migu/667987558.m3u8?migutoken=ae91ae97c60d43335f774a1b708100df445db34134cb37f728f833e8ea0059efa097ec768c9c997aeab29a8e94493ddb5665dec63f7b804c6e520708ac952dac4f5b16cabec373b2e20a369449
-CCTV12社会与法,https://www.freetv.top/migu/673168185.m3u8?migutoken=6cc37069099a15aea9bae3e6e2e38448a179e37494590332d5a633c2314fd48de8e96a8b7b41d22863708a06be7433b4f72f7ce9d30c090d5db4c733d074b635cdff52d12326cefddeeca8244c
-CCTV13新闻,https://www.freetv.top/migu/608807423.m3u8?migutoken=6cf1ac193c23c7b5657ed381e61e438485d3012e2bc49d8c95ba10897e91f3a837c9a7efd030a52749eaf551dbc505905fcdfec511990dd26209dbc21314b439459726378bd7b6347d3b9f921c
-CCTV14少儿,https://www.freetv.top/migu/624878440.m3u8?migutoken=51dfaf63ac4f055d0f0a65915301a61705c9e14e2507a93a643f49393d8cec588faaad8075ac65f2ac1cead286c7bcee998a18e739e6d27eb42773e48bbd9ae8d30a846049f8f30fe35e7e3a19
-CCTV15音乐,https://www.freetv.top/migu/673168223.m3u8?migutoken=bc6e7c4f76a37c0e4d5b678674c7dec620255af1f51181c2e422c0684b3dc442493da0dc5ea00385f79702dda93792fcb7b25ff92f82d49dbd34f022fc2a11d3b3cc300c293cbaed8a59b419e4
-CCTV16,https://nptv.freetv.top/nptv/cctv16.m3u8
-CCTV17农业农村,https://www.freetv.top/migu/673168256.m3u8?migutoken=6601b6da2d928bca7f0b4b90868569f4bb6e0130bc42367a0a54f8ddba638b0f72aa21e85471c9382c02128e3b7c9f7c07638bf6b927c1d0e2d2f0412b60e6ac6f2a2ac223b1b51afa7fd7642c
-CCTV欧洲,https://www.freetv.top/migu/608807419.m3u8?migutoken=da2bebaf4733da74b351c9da1aff5ae6f2bddc5dfe106f07afdf8b3fe2c9f8b79ff9a536c062d0d9cf20441a8974dee6424704cce328271d659b9f52f3c21fb4654a0ead9a7d75bbd1fedb1752
-CCTV美洲,https://www.freetv.top/migu/608807416.m3u8?migutoken=f8021878f57d5e1d12978bc60dff5cfd6edff248962eb4cc940b27d679485a56ca27af4d70fd20445ed5487d7343cd537edba58668f7b53266277be9f6ba4f3601afe11104de0ad1bd16cb5178
-CCTV4k,https://nptv.freetv.top/nptv/cctv4k.m3u8
-CCTV8k,https://nptv.freetv.top/nptv/cctv8k.m3u8
-CCTV老故事,https://www.freetv.top/migu/884121956.m3u8?migutoken=328000bda37b007e7f281925f97e92e4c8c6e09d8559f71a564f0b8d5cd1260080685aa28e779ffe8a4bb848f6564178988f4970df2e95cdf0245d1efa8035876d35f5ba3814957f24a4a020e2
-CCTV发现之旅,https://www.freetv.top/migu/624878970.m3u8?migutoken=96340be0ccf6bc216133a35848a8cc27665fd447b5fa5d50b979d67dfad1148a5cf68348f8db16f309da2682c0716243cbad3e9127942e6054d703cf85d8e31bb39605d6f6d3f52605011b92ec
-CCTV中学生,https://www.freetv.top/migu/708869532.m3u8?migutoken=dea7c3de79bdcb0285aa12f8cacbe6fa922994d9acfd628ebd0557dacf02d8288a3e673769bba375732f9c2ddef171c7d59a01bf96592c1758e0a717041c9d034a941dde3a6e0ad2de82f98399
-CCTV第一剧场,https://nptv.freetv.top/nptv/dyjc.m3u8
-CCTV风云剧场,https://nptv.freetv.top/nptv/fyjc.m3u8
-CCTV怀旧剧场,https://nptv.freetv.top/nptv/hjjc.m3u8
-
-
-北京卫视,https://nptv.freetv.top/nptv/beijing.m3u8
-东方卫视,https://www.freetv.top/migu/651632648.m3u8?migutoken=fea03586147486830f10198d1357ddbdb1f90d8a4fabed7f599b91df7cd173b82859573313e2a64bdbd02e7d5423e90cdb9bcc45339795dde8be4befbdbab16b89d440fa21688efa23203758b0
-江苏卫视,https://nptv.freetv.top/nptv/jiangsu.m3u8
-浙江卫视,https://nptv.freetv.top/nptv/zhejiang.m3u8
-湖南卫视,https://nptv.freetv.top/nptv/hunan.m3u8
-湖北卫视,https://www.freetv.top/migu/947472496.m3u8?migutoken=c11ab37089b08b36b901c4a2b424fdc56b62cf85ce22799954221dfb115dc4aa5e75fe6d38966f51998989eda40a5cd26c2f0dcf4d9c3feac17664585c7cb85e992bfd1a7209ee633417590889
-广东卫视,https://nptv.freetv.top/nptv/guangdong.m3u8
-广西卫视,https://nptv.freetv.top/nptv/guangxi.m3u8
-黑龙江卫视,https://nptv.freetv.top/nptv/heilongjiang.m3u8
-海南卫视,https://nptv.freetv.top/nptv/hainan.m3u8
-重庆卫视,https://nptv.freetv.top/nptv/chongqing.m3u8
-深圳卫视,https://nptv.freetv.top/nptv/shenzheng.m3u8
-四川卫视,https://nptv.freetv.top/nptv/sichuan.m3u8
-河南卫视,https://nptv.freetv.top/nptv/henan.m3u8
-东南卫视,https://nptv.freetv.top/nptv/dongnan.m3u8
-贵州卫视,https://nptv.freetv.top/nptv/guizhou.m3u8
-江西卫视,https://www.freetv.top/migu/783847495.m3u8?migutoken=5003be072445e8d0bbf2ccd7e25d7c5901f1d99d2e736a1c305396c75d17395d3798f1084e8734f5599b24ed51e241be5e1b6824a684372f9ca0ee76e6d6cac231da65564f885da5fb7897d222
-辽宁卫视,https://nptv.freetv.top/nptv/liaoning.m3u8
-安徽卫视,https://nptv.freetv.top/nptv/anhui.m3u8
-河北卫视,https://nptv.freetv.top/nptv/hebei.m3u8
-山东卫视,https://nptv.freetv.top/nptv/shandong.m3u8
-天津卫视,https://nptv.freetv.top/nptv/tianjing.m3u8
-吉林卫视,https://nptv.freetv.top/nptv/jiling.m3u8
-陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=25ab7db9c8d8b355cb9de7d0624865d4f827d7b8bba8d1bb6ec8e3840f056dfc766ab8c16f1f34f1dcee0be941b49d3bbea828020ed464ce1b4eb3d0f9249f17518f894d02bc8352881d2a4249
-甘肃卫视,https://nptv.freetv.top/nptv/gansu.m3u8
-宁夏卫视,https://nptv.freetv.top/nptv/ningxia.m3u8
-内蒙古卫视,https://nptv.freetv.top/nptv/neimenggu.m3u8
-云南卫视,https://nptv.freetv.top/nptv/yunnan.m3u8
-山西卫视,https://nptv.freetv.top/nptv/shanxi.m3u8
-青海卫视,https://nptv.freetv.top/nptv/qinghai.m3u8
-新疆卫视,https://nptv.freetv.top/nptv/xinjiang.m3u8
-西藏卫视,https://nptv.freetv.top/nptv/xizang.m3u8
-大湾区卫视,https://www.freetv.top/migu/608917627.m3u8?migutoken=7674242feca82e04b47644dfd2d1305d88bea9914356cd5fed2240d549133aef35c795f749704da9bbddade2697d2ecd3eba4ea6f58e46ca419146a8666ee8a14d6f7654f28b494c946acea7d6
-北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-
-
-优漫卡通频道,https://www.freetv.top/migu/626064703.m3u8?migutoken=2b9fe60463f5373c1afe59cdbb9e91946e80a03be25a0b642ec435a5d61dcc627605983b825b0a4ebae8e1529580f88c4bdc8514403ca370ceeff51221642fdb45d8627f6cb9fba67f42cfe335
-中国航天“逆袭”之路,https://www.freetv.top/migu/617432318.m3u8?migutoken=c1a0036777cf49319b3539ecf7252f43e36c12b5550a137b2471546d623d383d53aa776e93ae32f586e5c8ac55cfbea82dc6bd93bbfcc51345b0ebbc9fd1f2b5cd3081988f8dd0d7dd057828e2
-和美乡途轮播台,https://www.freetv.top/migu/713591450.m3u8?migutoken=b41387179ba0076f86b91915c0bd70d735db29100d9cc7021e76696260e40a3c02568cfd140839926fcfb97634ab4c40b5ce40ff38455b91b2948f4cfb70fc65dbed367413962dd921603777c7
-高清大片,https://www.freetv.top/migu/629943678.m3u8?migutoken=d0330d482356a730dfd3dec9e902f966084da9c5ae56cb2f8be33750d282f115e715cf076b59a6bfd6a5b932dff190d0a7c5cac51075ceb5e54a229dfcbd3ed60c75e49d11b1aeb77db7aed17f
-南方影视,https://www.freetv.top/migu/614961829.m3u8?migutoken=9c3221cc9735d5f4ba8308730f28fb4e1301cd325cd13f2a227ae2d9ca3ab0e3a18804190ee3374c513f20d3ee432db01d731599f92d3b540c1a6744bcf29aa4094fcfedaea88c2aaaaf47612b
-红色轮播台,https://www.freetv.top/migu/713600957.m3u8?migutoken=075bf1989281115dfaf51683f0a468242dbf0bfb6e10d7cb88602203ee5fc55ebd53608d98c9af8c5547cb7918c225eed3449d365de3d96d4408719d3bd2253d21780bf1685c20421e63b234b5
-深度对话,https://www.freetv.top/migu/625703337.m3u8?migutoken=a83f312f981f8d495a2e9cbda363bdf9b93dcb109abc1e987e2514ddf62a543e7b6153b3e7cefcf37078659672b548bb68eba8e9b05a8e983d96e34fb453286ac1a8c461ad33bcc98db28c8f8b
-熊猫频道1,https://www.freetv.top/migu/608933610.m3u8?migutoken=5e2e4a09dc2630a822e7e4d123b933c45d2c5f863b6dbaf3c302d5a22011a9f2a616029eb104780c50b85b19818234adb72aadbd48535a3a4bff1dade36a5632199f24dd76ae30cbb20f96c2d8
-熊猫频道2,https://www.freetv.top/migu/608933640.m3u8?migutoken=62398237c6a338b6bd698910c9fdb2904e5d97a9a9105ed0d22f93b21c731f5579b4cbe376ed3684015f50122b62453087f5c7e169bf215fd89909035ebaa35a42fb6a8ba4e6c572775c672726
-熊猫频道3,https://www.freetv.top/migu/608934619.m3u8?migutoken=70e512dd780cdbf3a86a4495cfecb46e851e00a87c8e7a8716c9ccc525cffcbd70cf98dd85bc430a33f7086d94b618d9a4c17ac79eb536e39dcdb042e26fa1d75a1900a6573f116f27fca0a07c
-熊猫频道4,https://www.freetv.top/migu/608934721.m3u8?migutoken=be8d5a5e6a524690d6f89a3072878d9fc5cf364d7f6949eef77225d5b24e40db0ab0c2599ebe6576a68d582b029a4f4091312d0e2770a40fafe05e0175f1fc3f6a633cedb85e338da0e47bc165
-熊猫频道5,https://www.freetv.top/migu/608935104.m3u8?migutoken=624205b77bc6dade51170d56fa99ce74b9321737cac9e267ea7621ef7d67f8b23e1e7907380c4e42d364339ceb5bc3ab1e14eb8952b1f792ff930006fdd262afab3cd535e4054fdda6d3031924
-熊猫频道6,https://www.freetv.top/migu/608935797.m3u8?migutoken=931bcf40d9c1961c69d99c51370dd4be4799e9c62dfd17611771f6c0521936f4e56ffe88b019b56d6f329627fe0934daa3489da0640db55fde334c87fec23abaa6e11d4c629e5c17f94a1e2fe2
-熊猫频道7,https://www.freetv.top/migu/609169286.m3u8?migutoken=fa69eed3d2b5f5f1b3087fe3cb1abe4fb9efb9cb0aa6b53c456e4b89d4ffeeb726aa004a9bd13a1d3ecf1cca1daf4c740369ddd21afde3975b7ed6c4e4a224ce69be59ebd19ce346639eb1c981
-熊猫频道8,https://www.freetv.top/migu/609169287.m3u8?migutoken=0043684abf94b278b3872d1b36e4c2025b2c38f01dce59ea3b056cce6d5e7cfe0eb28dc0d6e59a88b92733c306da055411467e8d9541b90decffed5f2444c0cbc0254244253015b9864c4c4658
-熊猫频道9,https://www.freetv.top/migu/609169226.m3u8?migutoken=ec2b44faeb110a3266027e4ce64d2c122b94dc40e4da848a6923c6e711f5bf3480188111a1e8942d75b9ace9a63377cf23990a6164aafe5220ad888b197d581338eb18e98a581ab917bc59067e
-熊猫频道10,https://www.freetv.top/migu/609169285.m3u8?migutoken=e8ae06bb83316d8f7477013f65f4d26332c1875e593bcc8f070a1acad0781bfeca90051eee21bc9e4055e8c4f29782e7578eb5a0cdd882270ec342b0a0acd4dcfc3bd2ceaedab7809c9de66b4e
-华语乐坛最强音,https://www.freetv.top/migu/707671890.m3u8?migutoken=cdf8cc0d67f4d3193531177af58833d884bb0df896ebac411947a2a724301de781fc587c059e19386aeb0805e6a9884172e6c59c35085ae8eadd2412c8e3e719be8ee02e8ed22278f98c140640
-周杰伦现场,https://www.freetv.top/migu/625133682.m3u8?migutoken=ac3433ca30055176d104525e5752d935df04ee51430f9bb4543542be9625329ebe6002be5bb513139d4f9ab7af77e4526a28b61397a06ab60d1b789979adbbe6a7fad46983ab8eeb6b60ce888d
-最强综艺趴,https://www.freetv.top/migu/629942228.m3u8?migutoken=0a053487298e5871a96d34e267813fff04e7f9119f9274e65b40eda3f8383a17773ee948af124035d8d7f98473dd6c150cf62bb8fc05c84e26f4805f568b9fe6a81c82127eb025cbe07f9714a0
 
 
 🌺央视IPV6🌺兵哥整理,#genre#
+
+//6.22
+CCTV1,http://ali.hlspull.yximgs.com/live/fdd1cc97a335299be745086cd3c363ce.flv 
+CCTV1,http://ali.hlspull.yximgs.com/live/91cf5daafe573f2d1472701395aeb606.flv 
+CCTV2,http://ali.hlspull.yximgs.com/live/aeeeb073a4b64a4c5ee84f2bfb9d0661.flv 
+CCTV2,http://ali.hlspull.yximgs.com/live/6ea6dc2da2570e4661cfcdbcc4d36b63.flv 
+CCTV3,http://ali.hlspull.yximgs.com/live/628b13084c6960210d32375d661dd5d4.flv 
+CCTV3,http://ali.hlspull.yximgs.com/live/79ac85076760b1fd72807576762d2dcb.flv 
+CCTV4,http://ali.hlspull.yximgs.com/live/ca6135e1eb7e22a8e39d1dfb43e7a328.flv 
+CCTV4,http://ali.hlspull.yximgs.com/live/88a65d82193ac99b5640164cbc714504.flv 
+CCTV5,http://ali.hlspull.yximgs.com/live/b82719e60a0d35562bfc458e1286ceb0.flv 
+CCTV5,http://ali.hlspull.yximgs.com/live/b960753ccc1523338f25e75eaa7c032e.flv 
+CCTV5p,http://ali.hlspull.yximgs.com/live/830248683b194d00deafbb22f53de910.flv 
+CCTV5p,http://ali.hlspull.yximgs.com/live/397628c7c439a495640239cd6ca58ccd.flv 
+CCTV6,http://ali.hlspull.yximgs.com/live/84722babc6c0d26b3502e4629d3e6527.flv 
+CCTV6,http://ali.hlspull.yximgs.com/live/f81ad38a2ef32f50f75e6abd4cc3c495.flv 
+CCTV7,http://ali.hlspull.yximgs.com/live/341597c94619033f888bee211fdfbd60.flv 
+CCTV7,http://ali.hlspull.yximgs.com/live/1d7c596df27a35202a912662c269b193.flv 
+CCTV8,http://ali.hlspull.yximgs.com/live/2c4c9f0e5b313e18cd957d530df92573.flv 
+CCTV8,http://ali.hlspull.yximgs.com/live/2af8de58f3eaf93d3d1e5e586b214c05.flv 
+CCTV9,http://ali.hlspull.yximgs.com/live/0ad7af86b309075f12bc42f0e8de4a11.flv 
+CCTV9,http://ali.hlspull.yximgs.com/live/a25cee199bf92cf33c10a8ba5a057fe5.flv 
+CCTV10,http://ali.hlspull.yximgs.com/live/d56ba6bb45b33499f4bfc7cf76301ba1.flv 
+CCTV10,http://ali.hlspull.yximgs.com/live/53b306a6e3b29ad82e0d42ca9950240f.flv 
+CCTV11,http://ali.hlspull.yximgs.com/live/154b4eb1625ae80ae65db02fa077ca53.flv 
+CCTV11,http://ali.hlspull.yximgs.com/live/f1c478a0f776e07ada10d39e82f68cf7.flv 
+CCTV12,http://ali.hlspull.yximgs.com/live/a51eab5c0709f89180370a14276e08e0.flv 
+CCTV12,http://ali.hlspull.yximgs.com/live/92251da9b0dc570cc90a99d824463907.flv 
+CCTV13,http://ali.hlspull.yximgs.com/live/bd2923e4d4e028794f80545f1f86aea7.flv 
+CCTV13,http://ali.hlspull.yximgs.com/live/cfb3efc4065ee6fb2a273055de866057.flv 
+CCTV14,http://ali.hlspull.yximgs.com/live/00cd4a03d987744fb486b7eb0f66c80a.flv 
+CCTV14,http://ali.hlspull.yximgs.com/live/911a7a3aee5aaddc89a77abf628e7003.flv 
+CCTV15,http://ali.hlspull.yximgs.com/live/a294c32d4ec655f78d9553fe7e732258.flv 
+CCTV15,http://ali.hlspull.yximgs.com/live/85697aab44f2d40d08ff1a83719d61b7.flv 
+CCTV16,http://ali.hlspull.yximgs.com/live/5c3f6bf2c8f6ba665423153516af7b12.flv 
+CCTV16,http://ali.hlspull.yximgs.com/live/75d2283d935ff5fc7b2f60411e0dc3da.flv 
+CCTV17,http://ali.hlspull.yximgs.com/live/ef6dc33e3a048557e34ef20c67552085.flv 
+CCTV17,http://ali.hlspull.yximgs.com/live/8e8c94094f37a63077b65f605cf74808.flv 
+CGTN英语,http://english-livetx.
+CGTN.com/hls/yypdyyctzb_hd.m3u8 
+CGTN英语,https://0472.org/hls/
+CGTN.m3u8 
+CGTN记录,https://english-livetx.
+CGTN.com/hls/yypdjlctzb_hd.m3u8 
+CGTN记录,https://0472.org/hls/
+CGTNd.m3u8 
+CGTN西语,http://espanol-liveali.
+CGTN.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8 
+CGTN西语,https://0472.org/hls/
+CGTNx.m3u8 
+CGTN法语,http://francais-livews.
+CGTN.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd.m3u8 
+CGTN法语,https://0472.org/hls/
+CGTNf.m3u8 
+CGTN阿语,http://arabic-livews.
+CGTN.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd.m3u8 
+CGTN阿语,https://0472.org/hls/
+CGTNa.m3u8 
+CGTN俄语,http://russian-livews.
+CGTN.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8 
+CGTN俄语,https://0472.org/hls/
+CGTNe.m3u8 
+
 
 
 
@@ -294,6 +262,42 @@ CETV-2教育,http://zqh2333.top:2222/rtp/239.93.24.113:5140
 
 2025央视春晚,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 🌺卫视IPV6🌺兵哥整理,#genre#
+
+//6.22推流
+
+北京卫视,http://ali.hlspull.yximgs.com/live/d02a852e8013b6b9c323321e3b0c7f74.flv
+ 湖南卫视,http://ali.hlspull.yximgs.com/live/113daad2af5f1b8841aefceea316ac56.flv
+ 浙江卫视,http://ali.hlspull.yximgs.com/live/988c5cc781291fabdb587df4eae85170.flv
+ 江苏卫视,http://ali.hlspull.yximgs.com/live/ad2b9e08cdad56a651f72ea2721b0055.flv
+ 广东卫视,http://ali.hlspull.yximgs.com/live/19c5b090d955686c0318a23026dbcc8e.flv
+ 大湾区卫视,http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv
+ 东方卫视,http://ali.hlspull.yximgs.com/live/5aa39501dfbad17a261e5c35996a873f.flv
+ 东南卫视,http://ali.hlspull.yximgs.com/live/9d2f9b6a640ced826b55e5cd97630915.flv
+ 辽宁卫视,http://ali.hlspull.yximgs.com/live/41744a70b670b07035174d76bcfd404b.flv
+ 深圳卫视,http://ali.hlspull.yximgs.com/live/b98e0375ea1a1846488e4a5bf0cecc6d.flv
+ 天津卫视,http://ali.hlspull.yximgs.com/live/19b4518ec1173ab3759a2289c9abe256.flv
+ 安徽卫视,http://ali.hlspull.yximgs.com/live/d781d29c9e5873a0d280a033b4330776.flv
+ 河北卫视,http://ali.hlspull.yximgs.com/live/3a647da80e38abbf315a20492fce0781.flv
+ 重庆卫视,http://ali.hlspull.yximgs.com/live/a412950ec51a47e8fa69898332ecc2fc.flv
+ 吉林卫视,http://ali.hlspull.yximgs.com/live/e9d0232d20865081a94a86606ef15091.flv
+ 黑龙江卫视,http://ali.hlspull.yximgs.com/live/56261dda871c513098710e7533384ad7.flv
+ 山东卫视,http://ali.hlspull.yximgs.com/live/da6170e52d714316e40bba7453f3552a.flv
+ 海南卫视,http://ali.hlspull.yximgs.com/live/45b968a97ceb39994b7229dfab7100a3.flv
+ 贵州卫视,http://ali.hlspull.yximgs.com/live/b69cfcbf7a731dcc0effde7bd09d444d.flv
+ 湖北卫视,http://ali.hlspull.yximgs.com/live/9336080df6fbfe8c0505b5d37575841b.flv
+ 河南卫视,http://ali.hlspull.yximgs.com/live/0ae7d492ae891b8c0230e7a914c61421.flv
+ 广西卫视,http://ali.hlspull.yximgs.com/live/7b18be2836bcf039851f5eb151928c42.flv
+ 江西卫视,http://ali.hlspull.yximgs.com/live/8413c30ee0a7346a2dc5e761c921dd68.flv
+ 陕西卫视,http://ali.hlspull.yximgs.com/live/4e33469cf3f5599fa61d62ee804a3aaf.flv
+ 宁夏卫视,http://ali.hlspull.yximgs.com/live/44b48605a43d6bce1f024023b5943a2e.flv
+ 内蒙古卫视,http://ali.hlspull.yximgs.com/live/4e76233d58eb9115de1886146e4bde31.flv
+ 四川卫视,http://ali.hlspull.yximgs.com/live/6497d3947e233dbc506a561f2caf753e.flv
+ 山西卫视,http://ali.hlspull.yximgs.com/live/a84e8687dae6560c8c981b0da7da8e26.flv
+ 甘肃卫视,http://ali.hlspull.yximgs.com/live/eefd62e1ea84cbafaf43ca234ccbe91b.flv
+ 新疆卫视,http://ali.hlspull.yximgs.com/live/9a3230d660ee37376bcffd73338038b5.flv
+ 青海卫视,http://ali.hlspull.yximgs.com/live/eaa91664fdec9faf23edfda856384428.flv
+
+//6.22之前
 
 
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -516,6 +520,230 @@ CETV-2教育,http://zqh2333.top:2222/rtp/239.93.24.113:5140
 
 🌺港台IPV6🌺兵哥整理,#genre#
 
+
+//6.22推流
+凤凰中文台,http://ali.hlspull.yximgs.com/live/cdac2f3b2d05e89ecb1556655931c7cd.flv
+ 凤凰资讯台,http://ali.hlspull.yximgs.com/live/932a25bfba22b1530a41ebb8be00a195.flv
+ 凤凰香港台,http://ali.hlspull.yximgs.com/live/358f2f7050873fa43eba835dbc9de26c.flv
+ 翡翠台,http://ali.hlspull.yximgs.com/live/b857323668e09895268512b7d224e8da.flv
+ TVBPlus,http://ali.hlspull.yximgs.com/live/d895ff1c59f185451628ef53a2d91e2f.flv
+ TVB无线新闻台,http://ali.hlspull.yximgs.com/live/9e176c892a3638df54458a24c5168f8c.flv
+ TVB明珠台,http://ali.hlspull.yximgs.com/live/9f706d4ed8411c2a4e8f540401d9be44.flv
+ TVB生活台,http://ali.hlspull.yximgs.com/live/2b2d47dc3f2b2c60c20de52c74069998.flv
+ TVB星河频道(粤),http://ali.hlspull.yximgs.com/live/cce231ae6e16264c21b5bfe9b85cf5e3.flv
+ TVB星河频道(国),http://ali.hlspull.yximgs.com/live/cb005af80de2fe556939c9c14aa29b82.flv
+ 星空卫视,http://ali.hlspull.yximgs.com/live/92986e5f6f956540a98c1a6e5e958056.flv
+ TVB1,http://ali.hlspull.yximgs.com/live/c65f81f73ef39e629617baac2ff2d4e3.flv
+ TVBJ1,http://qwttv.iptv1688.top:2015/play/forward/4?tvid=TVBJ1West#forward&token=85fc88ba8b34ea1d6237e8b6b62c1358 TVBDrama翡翠劇集台,http://qwttv.iptv1688.top:2015/play/forward/4?tvid=TVBDramaWest#forward&token=85fc88ba8b34ea1d6237e8b6b62c1358 TVBPearlDrama明珠劇集台,http://ali.hlspull.yximgs.com/live/46a849ef7ee619f08361d6dac73660d9.flv
+ TVB娱乐新闻,http://ali.hlspull.yximgs.com/live/b6bd599c5215777c99b6b42b12ec1dd8.flv
+ TVBE翡翠娛樂台,http://qwttv.iptv1688.top:2015/play/forward/4?tvid=TVBEWest#forward&token=85fc88ba8b34ea1d6237e8b6b62c1358 TVB千禧经典,http://ali.hlspull.yximgs.com/live/59e3ac0ae8d80a84d5a8f66a80ae7701.flv
+ 天映频道(国),http://ali.hlspull.yximgs.com/live/5e17f98b5632bc001d0d364777fb323f.flv
+ 天映频道(粤),http://ali.hlspull.yximgs.com/live/4f554b89dd2cd309bd924c1849a7a9e5.flv
+ 天映经典,http://ali.hlspull.yximgs.com/live/80ca1c89754ea5638ac5ec8fe649d49a.flv
+ TVB功夫台(国),http://ali.hlspull.yximgs.com/live/5b0cad0f4e07d3bbb37694867d1e0aad.flv
+ TVB功夫台(粤),http://ali.hlspull.yximgs.com/live/f9431bf76a27ec1fd738777aa6cae9a2.flv
+ 美亚电影(国),http://ali.hlspull.yximgs.com/live/e47b0b8cc6868e64bdb21a39d440b08e.flv
+ 美亚电影(粤),http://ali.hlspull.yximgs.com/live/038c31f715d1b42c96a78ea9bfcc2c97.flv
+ 龙祥电影,http://ali.hlspull.yximgs.com/live/83cd8695a0b590ca97191e8b1fb8a03c.flv
+ 中国电影频道,http://ali.hlspull.yximgs.com/live/74bd67356389b542f769733cf262c08d.flv
+ POPC,http://ali.hlspull.yximgs.com/live/2d962652b9fa089b0bd491fcdec3f26f.flv
+ 黃金華劇台,http://ali.hlspull.yximgs.com/live/9dde49058beaa02f5cb74d40038907ac.flv
+ Now新闻台,http://ali.hlspull.yximgs.com/live/83875a2a8f84ac3dfb5547f6decd64da.flv
+ Now直播台,http://ali.hlspull.yximgs.com/live/984c6f64dadf5439b5df8ea774eefc26.flv
+ Now财经台,http://ali.hlspull.yximgs.com/live/9e89defd500f08d931c124677469e988.flv
+ Now爆谷台,https://ali.hlspull.yximgs.com/live/3693c9a9a82bfe4df5a3f5ee3206e385.flv
+ Now星影台,https://ali.hlspull.yximgs.com/live/032c4235f9bd366936a237bab7f9588f.flv
+ Now華劇台,https://ali.hlspull.yximgs.com/live/a8c495fe2dad2a02060cfc01c928a066.flv
+ Now劇集台,https://ali.hlspull.yximgs.com/live/e050cfb3d2cdc8b2287c33ff96a3beb6.flv
+ NowJelli紫金国际,https://ali.hlspull.yximgs.com/live/406ed49b9870a56c3d7aff9f8147f560.flv
+ HOY76,http://qwttv.iptv1688.top:2015/play/forward/4?tvid=HOYChannel76#forward&token=85fc88ba8b34ea1d6237e8b6b62c1358 HOY77,http://qwttv.iptv1688.top:2015/play/forward/4?tvid=HOYChannel77#forward&token=85fc88ba8b34ea1d6237e8b6b62c1358 HOY78,http://qwttv.iptv1688.top:2015/play/forward/4?tvid=HOYChannel78#forward&token=85fc88ba8b34ea1d6237e8b6b62c1358 ViuTV,http://ali.hlspull.yximgs.com/live/65cdc2a86dd7564234f47f2b9b502705.flv
+ ViuTV6,http://ali.hlspull.yximgs.com/live/778e2df5d1ea87ad30943f79ef511a68.flv
+ RTHK31,http://ali.hlspull.yximgs.com/live/507747bb516383ca804359e289c9704d.flv
+ RTHK32,http://ali.hlspull.yximgs.com/live/c15db8973cd5cf43df3b67ceaa8375db.flv
+ HKC18台,http://ali.hlspull.yximgs.com/live/097440e967eae9ffe6b1aa7263269542.flv
+ 亚洲剧台,http://ali.hlspull.yximgs.com/live/7829a0524e78eb777db8b038809def20.flv
+ 华语剧台,http://ali.hlspull.yximgs.com/live/6848c8a0c51ef0c33b0f386040b97d31.flv
+ 黄金翡翠台,http://ali.hlspull.yximgs.com/live/6c1aef2bb6b02892b06ef68330d105fa.flv
+ MyTV千禧经典台,http://ali.hlspull.yximgs.com/live/8c4093cc4688a9567797dc13bc65ea7e.flv
+ TVBSuperFree,http://ali.hlspull.yximgs.com/live/d471db13460aed014967ca925db44c29.flv
+ HandsUP,http://ali.hlspull.yximgs.com/live/8f9b641116f0c6e1ea95da417f081e3f.flv
+ 戏曲台,http://ali.hlspull.yximgs.com/live/b4fe10e5fea13eca9647cb036f4c82f4.flv
+ 粤语片台,http://ali.hlspull.yximgs.com/live/1e71325eaaaa615372f0308a2bba2fa0.flv
+ 亚洲综合娱乐台,https://ali.hlspull.yximgs.com/live/PnD0XfGV7MMRBoxOZVJlWsHK7yurwbX4.flv
+ 28AI智慧赛马,http://ali.hlspull.yximgs.com/live/b5f9d775e4a41d76793b2ed176c916f1.flv
+中视,http://ali.hlspull.yximgs.com/live/907c50a42c376260a3d2eb9f75b14643.flv
+ 中视,http://ali.hlspull.yximgs.com/live/52a530a4e86744622cb9bfeb0c162eb1.flv
+ 中视,https://ali.hlspull.yximgs.com/live/3y7YFTKRW8jz9WSGnzm2pvabEpWovdXO.flv
+ 中视新闻,http://ali.hlspull.yximgs.com/live/5d8f332f98140ea4e751599095f61527.flv
+ 中视新闻,http://ali.hlspull.yximgs.com/live/bec1bf7504bb6396d4a08150e01ba535.flv
+ 中视新闻,http://103.225.9.173:1977/live/video/no_signal.mp4 中视新闻,https://ali.hlspull.yximgs.com/live/Y2XaBpEb6YlqcXztjfSeaINKCSMgvPXi.flv
+ 中视经典,http://ali.hlspull.yximgs.com/live/cfd399d3ddf752377e9e2f83cb987ece.flv
+ 公视,http://ali.hlspull.yximgs.com/live/96234f15ba6aabedf4d492514618e5e0.flv
+ 公视,http://103.225.9.173:1977/live/video/no_signal.mp4 公视,http://ali.hlspull.yximgs.com/live/3eb6a4a63af85d12bd9c6cb0496f3690.flv
+ 公视,https://ali.hlspull.yximgs.com/live/45262f4d15e69e2303496914e9ee600d.flv
+ 公视,http://103.225.9.173:1977/live/video/no_signal.mp4 小公视,https://ali.hlspull.yximgs.com/live/bff51e80cd0c4019d644ab62b3282d7c.flv
+ 公视戏剧,http://ali.hlspull.yximgs.com/live/1345e3f826596dcfea5e9186b65cfa9f.flv
+ 公视台语台,https://ali.hlspull.yximgs.com/live/09af2c4c2e2dd77471303c179b3e8577.flv
+ 公视新闻网,http://ali.hlspull.yximgs.com/live/6ee71059028a01a130f0c553e944aaae.flv
+ 民视,http://ali.hlspull.yximgs.com/live/502e3089238b2464f8e67a85ec66b91a.flv
+ 民视,https://ali.hlspull.yximgs.com/live/qK2U2vAohGew5rg77YFUwXYYrYfDpP9r.flv
+ 民视第一台,http://ali.hlspull.yximgs.com/live/c20c2d49235ffaec75b0b53d3a2336cf.flv
+ 民视第一台,https://ali.hlspull.yximgs.com/live/MpVQhXU1v5Yjj29pWmsXUvKiPnc6avo5.flv
+ 民视台湾台,http://ali.hlspull.yximgs.com/live/a44de37373a9dfe71fb829cd18849f3f.flv
+ 民视台湾台,https://ali.hlspull.yximgs.com/live/KNYJKurGXpQgD57ParWUmJq2KO3kmOQt.flv
+ 民视新闻台,http://ali.hlspull.yximgs.com/live/df089a922f7ba6761247ebcc9127f02a.flv
+ 民视影剧台,http://ali.hlspull.yximgs.com/live/79e1c5ebd21889647458aac9a0be87de.flv
+ 民视旅游台,http://ali.hlspull.yximgs.com/live/f02001a3d7c052796e06773cb4ab7f5b.flv
+ 民视综艺台,http://ali.hlspull.yximgs.com/live/6151cdc6084e2667add185d544eaeccc.flv
+ 台视,http://ali.hlspull.yximgs.com/live/4e0d83f90d71ad1d5c46c92924464df1.flv
+ 台视,http://ali.hlspull.yximgs.com/live/0c0128ceb2a52b3421a4f698e3367731.flv
+ 台视,http://ali.hlspull.yximgs.com/live/905fe0eb47ccea756dc6aa780a8a7927.flv
+ 台视,https://ali.hlspull.yximgs.com/live/dbdea7b86916fb2a67018d38e16afdec.flv
+ 台视新闻HD,http://ali.hlspull.yximgs.com/live/6e40a3df1e0ca71762030ad08a54a9ca.flv
+ 台视新闻HD,http://ali.hlspull.yximgs.com/live/63d7b524a1b70a7c0f4678cf1ac0087c.flv
+ 台视新闻HD,https://ali.hlspull.yximgs.com/live/564228fb6bd7da8640d64a487d0e9912.flv
+ 台视新闻HD,https://ali.hlspull.yximgs.com/live/rd1BvKsKYlvsXsNSKxJr2BwrcAWMdeXn.flv
+ 台视综合,https://ali.hlspull.yximgs.com/live/933aafecbe513a48edfdc4c55d84604e.flv
+ 台视财经,http://ali.hlspull.yximgs.com/live/5c9ffeeb0b2e8673fd70ae92921ecd74.flv
+ 台视财经,https://ali.hlspull.yximgs.com/live/cf2084b13149a0d22ac8048ad4f969c9.flv
+ 台湾戏剧,http://ali.hlspull.yximgs.com/live/70b1bfb3f8d35870f7b960a6ff0b55ac.flv
+ 台湾戏剧,https://ali.hlspull.yximgs.com/live/1675579233e0b1bf314210572b304d01.flv
+ 华视,http://ali.hlspull.yximgs.com/live/b0a63283f24559c55bb04727c77dc81c.flv
+ 华视,https://ali.hlspull.yximgs.com/live/UgSbIPCa2bgSW8rRLmBeWUwy1iC7MLAU.flv
+ CTS华视新闻资讯,http://ali.hlspull.yximgs.com/live/ab3acac7a2ccb4df2b42cb50d4400023.flv
+ CTS华视新闻资讯,http://ali.hlspull.yximgs.com/live/49ca2975335fe1d8020977e4b3321bb1.flv
+ 霹雳台湾台,https://ali.hlspull.yximgs.com/live/47c789aeabd9ae975c35eeb1d491dd46.flv
+ 壹新闻,http://ali.hlspull.yximgs.com/live/5be6abdaf4948e125189dfa8cfd60eb7.flv
+ 壹新闻,https://ali.hlspull.yximgs.com/live/pAvIYUCqI7hPsdNmIK4ewUjm6BVNqIJW.flv
+ 壹新闻,https://ali.hlspull.yximgs.com/live/48160fe42cd5186cab50015780eb0c71.flv
+ 壹电影,http://ali.hlspull.yximgs.com/live/204f3b5b7d15e350edb8fe06614881b7.flv
+ JET综合台,https://ali.hlspull.yximgs.com/live/18a45be5eafd50893fd2050d594307ed.flv
+ 年代新闻,http://ali.hlspull.yximgs.com/live/ea2b63ebcd729bf90a19e35a2dd2571d.flv
+ 年代新闻,https://ali.hlspull.yximgs.com/live/fWqlVCrDGsJlQP9mor6162bNrJhm1yGM.flv
+ 年代Much,http://ali.hlspull.yximgs.com/live/b271558820b86f1c50b26fdec5421ea3.flv
+ 非凡新闻,http://ali.hlspull.yximgs.com/live/745938e59ae7a97438ae6860ea67888f.flv
+ 非凡新闻,http://ali.hlspull.yximgs.com/live/335d8b77328044d19f1b78ea97b3d1d5.flv
+ 非凡新闻,https://ali.hlspull.yximgs.com/live/18a87a0f2e783153d3b46b4f8bca362e.flv
+ 非凡新闻,https://ali.hlspull.yximgs.com/live/sYnCt6aEgzBH1QOMxJCBPaLdkgWFO4eF.flv
+ 非凡商业,http://ali.hlspull.yximgs.com/live/a0affd919a8a5b0f733ae31fd7337066.flv
+ 寰宇新闻,http://ali.hlspull.yximgs.com/live/b65b1954387eedcdb9948e072c414e1b.flv
+ 寰宇新闻,http://ali.hlspull.yximgs.com/live/102c21e597fe733fdcb670b116c9f6d5.flv
+ 寰宇新闻,https://ali.hlspull.yximgs.com/live/7idaz4BgkNaeTnCkwHTLmfkT76LFUjsu.flv
+ 寰宇新闻,https://ali.hlspull.yximgs.com/live/BdD8rfAIuoV0IgR7LE9E1dMmPvV4c4KS.flv
+ 寰宇新闻台湾,http://ali.hlspull.yximgs.com/live/cab3e5913f47e96d025b94567862d664.flv
+ 寰宇财经,http://ali.hlspull.yximgs.com/live/51c4b464bc09a28a876bc2ba0daca1a1.flv
+ 鏡新闻,http://ali.hlspull.yximgs.com/live/0239b3e9659f7c7e5f666245c1aa8d36.flv
+ 鏡新闻,http://ali.hlspull.yximgs.com/live/216c850fa2a8391d567b38466dd8c8fb.flv
+ 鏡新闻,https://ali.hlspull.yximgs.com/live/OA8YLlb82CHe6AviMv5aZ99vLKwt8JKp.flv
+ 东森超视美洲,http://ali.hlspull.yximgs.com/live/eede94eaea6042cd72b087758260827c.flv
+ 东森超视美洲,https://ali.hlspull.yximgs.com/live/9513235ce8f23ad12ff905ff651489ec.flv
+ 东森美洲,http://ali.hlspull.yximgs.com/live/1280fc81f6a8dfb6d917a20247bca2ec.flv
+ 东森美洲,https://ali.hlspull.yximgs.com/live/c1176282f1b9a5f9f849ed16b79d4b56.flv
+ 东森美洲卫视,http://ali.hlspull.yximgs.com/live/c09ad4bee94e1bb1f7f191b100f16645.flv
+ 东森美洲卫视,http://103.225.9.173:1977/live/video/no_signal.mp4 东森中国台,http://ali.hlspull.yximgs.com/live/223ef33886eda4c989d7dfbdcc0d405c.flv
+ 东森中国台,https://ali.hlspull.yximgs.com/live/f485d65c4732104d1447c75b9d89837e.flv
+ 东森超视,http://ali.hlspull.yximgs.com/live/391a0abff7b964615ed9b5c2f64f203e.flv
+ 东森超视,https://ali.hlspull.yximgs.com/live/cb60689926800e7103cdf48ba9a2e172.flv
+ 东森幼幼,http://ali.hlspull.yximgs.com/live/69d8f841f6aaddec1b6668d81b95152f.flv
+ 东森幼幼,https://ali.hlspull.yximgs.com/live/oBKFjKS8ho9xgvFBaBnTt5YGaI91DOXG.flv
+ 东森幼幼,https://ali.hlspull.yximgs.com/live/e725fd150e17fe6cac62921a96ab302c.flv
+ MOMO亲子台,http://ali.hlspull.yximgs.com/live/fd64bdd21f67ec9a71e7c26b20c6205a.flv
+ MOMO亲子台,https://ali.hlspull.yximgs.com/live/1ed7eedd47f45ce66c9618f42ae0cb4b.flv
+ 国兴卫视,https://ali.hlspull.yximgs.com/live/221c457635c0f75dafb12eda0474b638.flv
+ 龙华偶像,http://ali.hlspull.yximgs.com/live/d12e2eda4a149248b084add009cecce3.flv
+ 龙华偶像,http://ali.hlspull.yximgs.com/live/a8de86a5df2a7d50998a9af178fd8fd4.flv
+ 龙华偶像,https://ali.hlspull.yximgs.com/live/MN5w0Myzq5xq8EiWS2HoRSV2QtwnKa37.flv
+ 龙华戏剧,http://ali.hlspull.yximgs.com/live/b7dd3d03b5949e7dc0c240aba9fb5391.flv
+ 龙华戏剧,http://103.225.9.173:1977/live/video/no_signal.mp4 龙华戏剧,http://ali.hlspull.yximgs.com/live/7fe21d0f6f3b07475b27cdd5ca3ff49c.flv
+ 龙华戏剧,https://ali.hlspull.yximgs.com/live/SpLTYiqZdmATe1HCWhxI2XxR3Ley0uUp.flv
+ 龙华日韩,http://ali.hlspull.yximgs.com/live/51cb89b0e44ca1fccde8ba03b13dcfdb.flv
+ 龙华电影,http://ali.hlspull.yximgs.com/live/c38570e6a19961ec48504db46a671cd7.flv
+ 龙华影剧,http://ali.hlspull.yximgs.com/live/d434e8b7974fbf5e669be00a691f6240.flv
+ 龙华影剧,http://ali.hlspull.yximgs.com/live/d434e8b7974fbf5e669be00a691f6240.flv
+ 龙华洋片,http://ali.hlspull.yximgs.com/live/e3e51cd43965ec4dce71680d774fd101.flv
+ 龙华洋片,http://ali.hlspull.yximgs.com/live/f4d20c8f953c3b98c5f4cea6a7dcd13b.flv
+ 龙华洋片,http://ali.hlspull.yximgs.com/live/0df42a9922ec65649bfe24c9999314ff.flv
+ 龙华卡通,http://ali.hlspull.yximgs.com/live/60d6eeaf3aa7dd513c61401d080ff709.flv
+ 龙华经典,http://ali.hlspull.yximgs.com/live/c59d48f0a7ec24a5f7b644ae835074f0.flv
+ 三立都会台,http://ali.hlspull.yximgs.com/live/b997a43499112819387f9e46ba8d9b51.flv
+ 三立都会台,http://ali.hlspull.yximgs.com/live/c2838fee489238e136524882afb701a3.flv
+ 三立都会台,http://ali.hlspull.yximgs.com/live/951961c7fa89559db45d7168bd59f445.flv
+ 三立综合台,http://ali.hlspull.yximgs.com/live/1854d7bfb3dbc742ca016af97acd40a3.flv
+ 三立综合台,http://ali.hlspull.yximgs.com/live/f628af99d8a084c1a8076cb1df109e6b.flv
+ 三立综合台,https://ali.hlspull.yximgs.com/live/6FmC0YTqEVzyvbDKt1HBEdbEJ4ZKOXd2.flv
+ 三立台湾台,http://ali.hlspull.yximgs.com/live/812ec4185f636a0b9b68c612defe640a.flv
+ 三立台湾台,http://ali.hlspull.yximgs.com/live/9f9302d9f0c118a4686503a49170a8d6.flv
+ 三立台湾台,https://ali.hlspull.yximgs.com/live/0ec68a8c3072082f44c105d51afbdabb.flv
+ 三立台湾台,http://ali.hlspull.yximgs.com/live/3f872e4d1cefc0548ed384a565499f0d.flv
+ 三立戏剧台,https://ali.hlspull.yximgs.com/live/KbI9X1RJV3fxUuCSySbn89wn1Xwx8mnX.flv
+ 三立戏剧台,http://ali.hlspull.yximgs.com/live/21882c468fe0dda470cf826634794e58.flv
+ 三立戏剧台,https://ali.hlspull.yximgs.com/live/4062d48d2d80a483f83a466d6586a557.flv
+ 三立戏剧台,http://ali.hlspull.yximgs.com/live/9801a578879589a6abf8dd9192d6df89.flv
+ 三立新闻台,http://ali.hlspull.yximgs.com/live/00c23d05bb6226d21004303d746cf12b.flv
+ 三立新闻台,https://ali.hlspull.yximgs.com/live/0de5c2ee2dcc122040fcfc27d29afee0.flv
+ 三立iNEWS,http://ali.hlspull.yximgs.com/live/930eb9e852d7528a6cfe6b4235fcbe7c.flv
+ 三立iNEWS,http://ali.hlspull.yximgs.com/live/efa150398b982b0294e03e7e4bcdf2a4.flv
+ 三立国际台,https://ali.hlspull.yximgs.com/live/84de9a8cc7c16b12cf16f2fae14bc342.flv
+ LIVE三立,http://ali.hlspull.yximgs.com/live/144c7cc1b16bcdc66bf9265ff7a1f55b.flv
+ 中天新闻,http://ali.hlspull.yximgs.com/live/52e7e3c2900559b2e82abc70fe7921f2.flv
+ 中天新闻,http://103.225.9.173:1977/live/video/no_signal.mp4 中天新闻,http://103.225.9.173:1977/live/video/no_signal.mp4 CTI+中天2台,http://ali.hlspull.yximgs.com/live/202ee07b1329bd9814ffb4fcc632920e.flv
+ 中天综合,http://ali.hlspull.yximgs.com/live/b3f511b7b1a06a58206d575a31b9660e.flv
+ 中天综合,https://ali.hlspull.yximgs.com/live/8a4eb9ec6a12a4e632b8beffffcaf241.flv
+ 中天娱乐,http://103.225.9.173:1977/live/video/no_signal.mp4 纬来日本,http://ali.hlspull.yximgs.com/live/9ec20918c531fd72bdac48c6e90762f9.flv
+ 纬来育乐,http://ali.hlspull.yximgs.com/live/d914ecbfd26d6e74e6132d7c818d751f.flv
+ 八大第一台,http://ali.hlspull.yximgs.com/live/c2ce3519264577caaf54104b90e8d7e6.flv
+ 八大戏剧台,http://ali.hlspull.yximgs.com/live/7579c930e909bdcce0abb64de3f5de48.flv
+ 八大综合台,http://ali.hlspull.yximgs.com/live/8c9b6877ee47f8ec938fbd7e9083bc1f.flv
+ 八大精彩台,http://ali.hlspull.yximgs.com/live/f269119babe05fd62db9f6a81d418326.flv
+ 八大娱乐台,http://ali.hlspull.yximgs.com/live/e0ddd8626bc948fa479b03e3c665023f.flv
+ TVBS新闻台,http://ali.hlspull.yximgs.com/live/dc013981eac87cace59f23b87fd49fe4.flv
+ TVBS精采台,http://ali.hlspull.yximgs.com/live/881677834234e0e6740f23b2020e540b.flv
+ TVBS欢乐台,http://ali.hlspull.yximgs.com/live/ac788e0e81f2194ec8897424ece78074.flv
+ TVBSHD,http://ali.hlspull.yximgs.com/live/781b7e1db46621c0ff9f1ba4c261b5c5.flv
+ TVBSNEWS,http://103.225.9.173:1977/live/video/no_signal.mp4 靖天综合台,http://ali.hlspull.yximgs.com/live/5b194faf56c3a554e061d0dcd7f0d758.flv
+ 靖天日本台,http://ali.hlspull.yximgs.com/live/53280e7f24c554b4f027d8a38bfb08e5.flv
+ 靖天卡通台,http://ali.hlspull.yximgs.com/live/81f4adf2c1f758cc755aacba551587c9.flv
+ 靖洋卡通台,http://ali.hlspull.yximgs.com/live/74441bd5cf5f4bf50b5840e35ac0aeab.flv
+ 靖天国际台,http://ali.hlspull.yximgs.com/live/069650e8dc74c2ec2e5710da6585b315.flv
+ 靖天育乐台,http://ali.hlspull.yximgs.com/live/5d7b5591929758910bab610e277097f2.flv
+ 靖天映画台,http://ali.hlspull.yximgs.com/live/7f659396ba617f19ecf26d613fa87a7c.flv
+ 靖天欢乐台,http://103.225.9.173:1977/live/video/no_signal.mp4 華藝MBC綜合台,http://ali.hlspull.yximgs.com/live/a5d8b0639314371ddeac82b6975d8523.flv
+ LUXETV,http://ali.hlspull.yximgs.com/live/438de6cc080cf90e2849727554f450bf.flv
+ 亚洲旅游台,http://ali.hlspull.yximgs.com/live/8668f98f4c71834f192a32af20f15877.flv
+ 台湾Plus,http://ali.hlspull.yximgs.com/live/bb4cabc1c448dad07ad67aa16ddb0d4c.flv
+ EYETV旅游,http://ali.hlspull.yximgs.com/live/7e9b7e0c8f532119d2ff051aeab4b106.flv
+ EYETV戏剧,http://ali.hlspull.yximgs.com/live/7cbd9bcc8932aa1fab2715f3c2a4c6b0.flv
+ ELTA日韩,http://ali.hlspull.yximgs.com/live/4e99a6c93dd0dca4f2c93b1723de8bce.flv
+ ELTA影剧,http://ali.hlspull.yximgs.com/live/77aac2c3d0b1eb30ab8f8debdf304cf7.flv
+ ELTA综合,http://ali.hlspull.yximgs.com/live/9170d5024e69e385121bf498fed401cc.flv
+ ELTA娱乐,http://ali.hlspull.yximgs.com/live/3fe05cd413596bcdb7f651a097de2063.flv
+ ELTA生活旅游,http://ali.hlspull.yximgs.com/live/86a8b852ac89972d4ca18edfb617447e.flv
+ i-Fun動漫台,http://ali.hlspull.yximgs.com/live/2fabbe1de1e949837b7de3f950305ef4.flv
+ Z频道,https://ali.hlspull.yximgs.com/live/2e3282a796f0b5a2ef45632c3af17def.flv
+ 美亚电影台,http://ali.hlspull.yximgs.com/live/7bc4dfe409d81b70d9fdd28534b0bad3.flv
+ Thrill惊悚,https://ali.hlspull.yximgs.com/live/eiBOZHqhpJat5a4d1tIkeRV69aGg5WhU.flv
+ AXN頻道,http://ali.hlspull.yximgs.com/live/9fe6bc5a4250850a91b3ec6022d008b1.flv
+ 华纳电影,http://ali.hlspull.yximgs.com/live/09139198444ef04f919b05ced5ff5556.flv
+ tVN,http://ali.hlspull.yximgs.com/live/35bcc3700d5db6c70efa9e3e2cac7dbc.flv
+ CINEMAX,http://ali.hlspull.yximgs.com/live/ff693986116d4c43ff38195cd77772b0.flv
+ HBO,http://ali.hlspull.yximgs.com/live/4984d86b1437b572f194c9e4543735b3.flv
+ HBOHD,https://ali.hlspull.yximgs.com/live/af510fabb23dabd046ece68fda45b875.flv
+ HBO原创,http://ali.hlspull.yximgs.com/live/24f88cf8ad97b6ca30b479266b7b84c7.flv
+ HBO强档,http://ali.hlspull.yximgs.com/live/3dc98d24e162f09380b8433490d91c16.flv
+ HBO家庭,http://ali.hlspull.yximgs.com/live/e8b2b25a40080b507b5747c8ff11d8c8.flv
+ 好莱坞电影,http://ali.hlspull.yximgs.com/live/1d9d36cee363cf994e047e2694bc0b85.flv
+ amc最爱电影,http://ali.hlspull.yximgs.com/live/7b690d1fcb9a20b5a6452da4040916fe.flv
+ 采昌影剧台,http://ali.hlspull.yximgs.com/live/abb16afeb0b80235ac930e567fd9b594.flv
+ 高点综合,http://ali.hlspull.yximgs.com/live/29684aaeb1bf46e85acb1abbfd30945b.flv
+ 东风卫视,http://ali.hlspull.yximgs.com/live/660501161d31ab47e2667b81286101de.flv
+ Smart知识台,http://ali.hlspull.yximgs.com/live/2dafea8abd207069ca6d8bd40fedb74a.flv
+ 客家电视台,http://ali.hlspull.yximgs.com/live/61ece41ef81b612a32533143f74dcc04.flv
+ 原住民频道,http://ali.hlspull.yximgs.com/live/9dcdebd7428351b2690842b52d07d787.flv
+ MTV音乐频道,http://ali.hlspull.yximgs.com/live/96d41305dd1cc2a8977b0ef4b15e9eff.flv
+ 韩国娱乐台,http://ali.hlspull.yximgs.com/live/14a4b67ced6b5071c3d61da954ab1f56.flv
+ 猪哥亮歌厅秀,http://ali.hlspull.yximgs.com/live/7bb2da643e7dc7eb9f29f8a7ee24515e.flv
+
+
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
@@ -581,7 +809,32 @@ Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 凤凰资讯,http://113.64.146.6:2024/hls/10/index.m3u8
 凤凰中文,http://113.64.146.6:2024/hls/11/index.m3u8
 
+🌺国外频道🌺兵哥整理,#genre# 
 
+AstroAEC,http://ali.hlspull.yximgs.com/live/f70688b15189f2a2bf729cb1d4f95284.flv
+ AstroQJ,http://103.225.9.173:1977/live/video/no_signal.mp4 AstroAOD,http://qwttv.iptv1688.top:2015/play/forward/4?tvid=AstroAOD311HDHK#forward&token=85fc88ba8b34ea1d6237e8b6b62c1358 Astro欢喜台,http://ali.hlspull.yximgs.com/live/ddef1b040da0ee84b52cb05535c435d9.flv
+ 娱家台,http://ali.hlspull.yximgs.com/live/884fc82480be44804bac8cedec9cd3ea.flv
+ 都会台,http://ali.hlspull.yximgs.com/live/85dab938b7ad470bf469d173d51ec2bc.flv
+ 新时代1,http://ali.hlspull.yximgs.com/live/54b2a50903788b814f5a96651d0652d5.flv
+ 新时代2,http://ali.hlspull.yximgs.com/live/c44b8e25c6cb3d075cfc9fa93cae6f4d.flv
+ 城市电视,http://ali.hlspull.yximgs.com/live/52c90d2db5c773186f5ea9201240199c.flv
+ 中旺电视,http://ali.hlspull.yximgs.com/live/353e5a173700a6132feca2e24cbc7bb6.flv
+ FashionBox,http://ali.hlspull.yximgs.com/live/1b831ee53a597424de54d37559ea8f0c.flv
+ tvN,http://ali.hlspull.yximgs.com/live/7074568d63d42d17e2f014984e2cdc8a.flv
+ Kix,http://ali.hlspull.yximgs.com/live/b4ae688204a26988878094b49e6088e7.flv
+ ROCK超级娱乐,http://ali.hlspull.yximgs.com/live/ca62cf895e2f206397ec32629c285e9e.flv
+ ROCK综艺娱乐,http://ali.hlspull.yximgs.com/live/fcb4cb0f72d49a661d9c5ae1bf042091.flv
+ AXN,http://ali.hlspull.yximgs.com/live/ef52fed646334c2b73d4745ecf9f6ca2.flv
+ Animax,http://ali.hlspull.yximgs.com/live/3d92ca7c904391f3da0bc04905ff33cf.flv
+ Thrill,http://ali.hlspull.yximgs.com/live/d115773cf7bd5e63c92a51061c47b164.flv
+ ZooMoo,http://ali.hlspull.yximgs.com/live/73fd5f990f36847858f5c56df21e1204.flv
+ Nickelodeon,http://ali.hlspull.yximgs.com/live/27373024e3d239779b67156bf9b1c2b5.flv
+ NickJr儿童频道,http://ali.hlspull.yximgs.com/live/454cd8577580f68844d13096b410f8f7.flv
+ DreamWorks,https://ali.hlspull.yximgs.com/live/a345a541cfa6947df8e605e471891870.flv
+ 动物星球,http://ali.hlspull.yximgs.com/live/d4946ba1b5a9dedf42a6a03115c80d88.flv
+ 国家地理,https://ali.hlspull.yximgs.com/live/tRAoiFbN6ZDJQnWIkQe8UEHoZes1UowG.flv
+ 探索频道,https://ali.hlspull.yximgs.com/live/a712e1fa527a996bd14b489aebb77cde.flv
+ Arirang,P2p://starvod.xyz:19806/3fe7c77ebb1a45a18ef30f78f917640b.ts KBS1,P2p://starvod.xyz:19806/af6297c16930401b893abd0cec4be07e.ts KBS2,P2p://starvod.xyz:19806/853d5ef131e241b3837d228ab6434f33.ts KBSDrama,P2p://starvod.xyz:19806/26204676281842929c42e21f040f2a2f.ts History,P2p://starvod.xyz:19806/3c17afa289594fd997fa61ed472bb2b5.ts SBS,P2p://starvod.xyz:19806/a64be5c8d277445abf4d89b5880190bf.ts SBSBiz,P2p://starvod.xyz:19806/0bcf12196c1a4d23aa622d894c596a02.ts JTBC,P2p://starvod.xyz:19806/88aeb4c5515142e59840426c80bf7c37.ts EBS,P2p://starvod.xyz:19806/b67cfae093a04e7daa0cc66e3adeb53b.ts YTN,P2p://starvod.xyz:19806/2c73ce22a7f14017ae3bde72db1c8d28.ts Mnet,P2p://starvod.xyz:19806/fb99ad067315497b8fc7df6d7abac88a.ts OCN,P2p://starvod.xyz:19806/b3dd463c3cb04aceb55b587b133afd56.ts InetTV,P2p://starvod.xyz:19806/271f55064b034a70af06b8166a30b6cf.ts MBC,P2p://starvod.xyz:19806/1d2805fb1e6a483fa8e191311e17c9f1.ts MBN,P2p://starvod.xyz:19806/a020c31336d84d42a3ec32d8fa9a13bc.ts Tooniverse,P2p://starvod.xyz:19806/0cb2baece4a94e8c85c99e5d35343d1d.ts SPOTV,P2p://starvod.xyz:19806/8fadaa0dbb5149c581eb9db576a429c1.ts JTBCGOLF,P2p://starvod.xyz:19806/d4fa73f4f49c41cab93a986d59d1fc4b.ts
 
 
 
@@ -1217,6 +1470,42 @@ Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
 
 
 🌺电影轮播🌺兵哥整理,#genre#
+
+
+//6.22推流
+POPC,http://ali.hlspull.yximgs.com/live/2d962652b9fa089b0bd491fcdec3f26f.flv
+ Now爆谷台,https://ali.hlspull.yximgs.com/live/3693c9a9a82bfe4df5a3f5ee3206e385.flv
+ Now星影台,https://ali.hlspull.yximgs.com/live/032c4235f9bd366936a237bab7f9588f.flv
+ 天映经典,http://ali.hlspull.yximgs.com/live/80ca1c89754ea5638ac5ec8fe649d49a.flv
+ TVB功夫台(国),http://ali.hlspull.yximgs.com/live/5b0cad0f4e07d3bbb37694867d1e0aad.flv
+ TVB功夫台(粤),http://ali.hlspull.yximgs.com/live/f9431bf76a27ec1fd738777aa6cae9a2.flv
+ 美亚电影(国),http://ali.hlspull.yximgs.com/live/e47b0b8cc6868e64bdb21a39d440b08e.flv
+ 美亚电影(粤),http://ali.hlspull.yximgs.com/live/038c31f715d1b42c96a78ea9bfcc2c97.flv
+ 中国电影频道,http://ali.hlspull.yximgs.com/live/74bd67356389b542f769733cf262c08d.flv
+ 纬来电影,http://ali.hlspull.yximgs.com/live/qwt_weilaidianying.flv
+ 纬来电影,http://103.225.9.173:1977/live/video/no_signal.mp4 纬来电影,https://ali.hlspull.yximgs.com/live/9a2f96bfa33eaa3902580f743febb1bd.flv
+ 东森电影,http://ali.hlspull.yximgs.com/live/qwt_dongsendianying.flv
+ 东森电影,http://103.225.9.173:1977/live/video/no_signal.mp4 东森电影,https://ali.hlspull.yximgs.com/live/3e4ef8754e5ce9c070df1eccf9f4359a.flv
+ 东森洋片,http://ali.hlspull.yximgs.com/live/qwt_dongsenyangpian.flv
+ 东森洋片,http://103.225.9.173:1977/live/video/no_signal.mp4 东森洋片,https://ali.hlspull.yximgs.com/live/a85e543f2a17035141f012843ee676a7.flv
+ tvN,http://ali.hlspull.yximgs.com/live/7074568d63d42d17e2f014984e2cdc8a.flv
+ Kix,http://ali.hlspull.yximgs.com/live/b4ae688204a26988878094b49e6088e7.flv
+ ROCK超级娱乐,http://ali.hlspull.yximgs.com/live/ca62cf895e2f206397ec32629c285e9e.flv
+ ROCK综艺娱乐,http://ali.hlspull.yximgs.com/live/fcb4cb0f72d49a661d9c5ae1bf042091.flv
+ Thrill惊悚,http://ali.hlspull.yximgs.com/live/d115773cf7bd5e63c92a51061c47b164.flv
+ 美亚电影台,http://ali.hlspull.yximgs.com/live/7bc4dfe409d81b70d9fdd28534b0bad3.flv
+ AXN頻道,http://ali.hlspull.yximgs.com/live/9fe6bc5a4250850a91b3ec6022d008b1.flv
+ 华纳电影,http://ali.hlspull.yximgs.com/live/09139198444ef04f919b05ced5ff5556.flv
+ CINEMAX,http://ali.hlspull.yximgs.com/live/ff693986116d4c43ff38195cd77772b0.flv
+ HBOHD,https://ali.hlspull.yximgs.com/live/af510fabb23dabd046ece68fda45b875.flv
+ HBO原创,http://ali.hlspull.yximgs.com/live/24f88cf8ad97b6ca30b479266b7b84c7.flv
+ HBO强档,http://ali.hlspull.yximgs.com/live/3dc98d24e162f09380b8433490d91c16.flv
+ HBO家庭,http://ali.hlspull.yximgs.com/live/e8b2b25a40080b507b5747c8ff11d8c8.flv
+ 好莱坞电影,http://ali.hlspull.yximgs.com/live/1d9d36cee363cf994e047e2694bc0b85.flv
+ amc最爱电影,http://ali.hlspull.yximgs.com/live/7b690d1fcb9a20b5a6452da4040916fe.flv
+
+
+//6.22之前
 
 重温经典台,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典台,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
