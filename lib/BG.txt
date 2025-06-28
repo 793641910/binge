@@ -299,6 +299,24 @@ TVB生活台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB生活台
 翡翠台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=翡翠台
 
 
+中视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中视
+中视新闻,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中视新闻
+中视经典,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中视经典
+公视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=公视
+小公视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=小公视
+公视戏剧,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=公视戏剧
+公视台语台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=公视台语台
+公视新闻网,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=公视新闻网
+民视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视
+民视第一台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视第一台
+民视台湾台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视台湾台
+民视新闻台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视新闻台
+民视影剧台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视影剧台
+民视旅游台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视旅游台
+民视综艺台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视综艺台
+台视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台视
+台视新闻HD,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台视新闻HD
+台视综合,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台视综合
 
 
 TVBPlus,http://api.mytv666.top/api/fh6.php?t=香港频道&id=TVBPlus
@@ -351,25 +369,8 @@ HandsUP,http://api.mytv666.top/api/fh6.php?t=香港频道&id=HandsUP
 粤语片台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=粤语片台
 亚洲综合娱乐台,http://api.mytv666.top/api/fh6.php?t=香港频道&id=亚洲综合娱乐台
 28AI智慧赛马,http://api.mytv666.top/api/fh6.php?t=香港频道&id=28AI智慧赛马
-台湾频道~7656,#genre#
-中视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中视
-中视新闻,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中视新闻
-中视经典,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=中视经典
-公视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=公视
-小公视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=小公视
-公视戏剧,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=公视戏剧
-公视台语台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=公视台语台
-公视新闻网,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=公视新闻网
-民视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视
-民视第一台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视第一台
-民视台湾台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视台湾台
-民视新闻台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视新闻台
-民视影剧台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视影剧台
-民视旅游台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视旅游台
-民视综艺台,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视综艺台
-台视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台视
-台视新闻HD,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台视新闻HD
-台视综合,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台视综合
+
+
 台视财经,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台视财经
 台湾戏剧,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=台湾戏剧
 华视,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=华视
