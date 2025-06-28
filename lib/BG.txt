@@ -282,7 +282,14 @@ CCTV8K,http://227w9f5104.zicp.fun:35455/nptv/cctv8k.m3u8
 
 
 
-
+凤凰中文台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰中文台
+凤凰资讯台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰资讯台
+凤凰香港台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰香港台
+翡翠台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=翡翠台
+TVBPlus,http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVBPlus
+TVB无线新闻台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB无线新闻台
+TVB明珠台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB明珠台
+TVB生活台,http://api.mytv666.top/api/qwt.php?t=香港频道&id=TVB生活台
 
 
 
