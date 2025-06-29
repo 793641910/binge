@@ -1,5 +1,14 @@
 
 🌺6月28日整理🌺,#genre#
+
+
+
+CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
+CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
+CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
+
+//
+
 CHC动作电影,http://175.22.226.131:888/hls/106/index.m3u8
 CHC动作电影,http://119.32.12.17:2901/udp/224.1.100.131:11111
 CHC家庭影院,http://175.22.226.131:888/hls/108/index.m3u8
