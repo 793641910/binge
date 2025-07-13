@@ -41,8 +41,6 @@ CHC家庭影院,http://211.97.63.3:801/hls/525/index.m3u8
 睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270006&livemode=1&stbId=yu&mode=1
 
 
-
-🌺兵哥出品🌺必属精品,#genre#
 邵氏电影,http://120.76.248.139/live/lunbo/ssdy.m3u8
 爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
 Astro 
