@@ -1230,6 +1230,15 @@ CCTV17,http://kkk.888.3116598.xyz/api.php?n=6887925&id=KfxX65&tk=uVpEJ37ah2Aq
 
 🌺港台IPV6🌺兵哥整理,#genre#
 
+//7.13
+
+翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/24bcd2f5a73b255a701d6e1b79383b7c.flv
+凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/a28c7e53f01e794ac556099060c666c0.flv?time=1752444202
+凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/801334e2013054866808c5d15b3eb47f.flv
+凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/c3bea17e7c4fa22a1aafb6696a27743d.flv?time=1752444633
+
+
+
 //7.12
 
 
