@@ -5,9 +5,7 @@
 
 
 
-CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
-CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
-CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影
+
 
 //
 
@@ -40,6 +38,7 @@ CHC家庭影院,http://211.97.63.3:801/hls/525/index.m3u8
 睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270002&livemode=1&stbId=yu&mode=1
 睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270006&livemode=1&stbId=yu&mode=1
 
+邵氏影院,http://kkk.888.3116598.xyz/api.php?n=6887925&id=mQHlHg&tk=uVpEJ37ah2Aq
 
 邵氏电影,http://120.76.248.139/live/lunbo/ssdy.m3u8
 爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
@@ -77,120 +76,7 @@ Astro
 
 
 
-//移动央视
 
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=7uLgoa&tk=3wuGai9ZV78K
-CCTV2,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=fVkKso&tk=3wuGai9ZV78K
-CCTV3,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=PCe2NA&tk=3wuGai9ZV78K
-CCTV4,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=07KPmp&tk=3wuGai9ZV78K
-CCTV5,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=VKAmbw&tk=3wuGai9ZV78K
-CCTV5+,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=WRtXo6&tk=3wuGai9ZV78K
-CCTV6,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=Wp5CaJ&tk=3wuGai9ZV78K
-CCTV7,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=x6hEzX&tk=3wuGai9ZV78K
-CCTV8,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=V0tmlx&tk=3wuGai9ZV78K
-CCTV9,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=oYuiNo&tk=3wuGai9ZV78K
-CCTV10,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=p8VuUc&tk=3wuGai9ZV78K
-CCTV11,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=fes6D9&tk=3wuGai9ZV78K
-CCTV12,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=ve2w5D&tk=3wuGai9ZV78K
-CCTV13,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=2w7Lyu&tk=3wuGai9ZV78K
-CCTV14,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=rDKYrg&tk=3wuGai9ZV78K
-CCTV15,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=6i8z9t&tk=3wuGai9ZV78K
-CCTV16,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=VGzUrk&tk=3wuGai9ZV78K
-CCTV17,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=XmFswY&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=ygT82u&tk=3wuGai9ZV78K
-CCTV3,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=TP4m08&tk=3wuGai9ZV78K
-CCTV4,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=hFE0mD&tk=3wuGai9ZV78K
-CCTV4,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=tPdRZf&tk=3wuGai9ZV78K
-CCTV5,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=AHh3k3&tk=3wuGai9ZV78K
-CCTV5+,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=BsTF2W&tk=3wuGai9ZV78K
-CCTV6,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=hPgsrT&tk=3wuGai9ZV78K
-CCTV7,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=eUxtuR&tk=3wuGai9ZV78K
-CCTV7,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=6rDYfP&tk=3wuGai9ZV78K
-CCTV7,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=MQPcha&tk=3wuGai9ZV78K
-CCTV8,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=E1GbuF&tk=3wuGai9ZV78K
-CCTV9,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=xYkEM7&tk=3wuGai9ZV78K
-CCTV10,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=ZugvDr&tk=3wuGai9ZV78K
-CCTV11,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=GYvmMr&tk=3wuGai9ZV78K
-CCTV11,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=QBT644&tk=3wuGai9ZV78K
-CCTV12,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=ntS9H8&tk=3wuGai9ZV78K
-CCTV13,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=hMwL27&tk=3wuGai9ZV78K
-CCTV13,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=suif0c&tk=3wuGai9ZV78K
-CCTV13,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=6EXsVO&tk=3wuGai9ZV78K
-CCTV14,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=YbmiSd&tk=3wuGai9ZV78K
-CCTV14,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=wARCOo&tk=3wuGai9ZV78K
-CCTV15,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=kZXKJh&tk=3wuGai9ZV78K
-CCTV16,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=9xR1yE&tk=3wuGai9ZV78K
-CCTV17,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=Ip9Dmr&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=3fK3VE&tk=3wuGai9ZV78K
-CCTV3,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=zTimqv&tk=3wuGai9ZV78K
-CCTV5,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=cUgoje&tk=3wuGai9ZV78K
-CCTV6,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=ZM40ld&tk=3wuGai9ZV78K
-CCTV7,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=NcA7W5&tk=3wuGai9ZV78K
-CCTV8,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=nfjhdy&tk=3wuGai9ZV78K
-CCTV9,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=iNAYOi&tk=3wuGai9ZV78K
-CCTV10,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=T5bTcB&tk=3wuGai9ZV78K
-CCTV11,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=Xey1Fb&tk=3wuGai9ZV78K
-CCTV12,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=KJoFPw&tk=3wuGai9ZV78K
-CCTV14,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=q6Y0sp&tk=3wuGai9ZV78K
-CCTV15,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=wvmT7Q&tk=3wuGai9ZV78K
-CCTV16,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=gypiPn&tk=3wuGai9ZV78K
-CCTV17,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=wQ4p1D&tk=3wuGai9ZV78K
-CCTV5+,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=Z6yM0l&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=xUSO90&tk=3wuGai9ZV78K
-CCTV2,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=8dgYHp&tk=3wuGai9ZV78K
-CCTV3,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=P8MiAd&tk=3wuGai9ZV78K
-CCTV4,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=PZZxTK&tk=3wuGai9ZV78K
-CCTV5,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=vhEiGx&tk=3wuGai9ZV78K
-CCTV5+,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=w0mj3D&tk=3wuGai9ZV78K
-CCTV6,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=npky4W&tk=3wuGai9ZV78K
-CCTV7,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=yNVnZB&tk=3wuGai9ZV78K
-CCTV8,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=F67cD3&tk=3wuGai9ZV78K
-CCTV9,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=4mb30F&tk=3wuGai9ZV78K
-CCTV10,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=K1NKiH&tk=3wuGai9ZV78K
-CCTV11,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=qnqE1r&tk=3wuGai9ZV78K
-CCTV12,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=t5xDom&tk=3wuGai9ZV78K
-CCTV13,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=x7i79R&tk=3wuGai9ZV78K
-CCTV14,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=KGcsjM&tk=3wuGai9ZV78K
-CCTV15,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=c44N7n&tk=3wuGai9ZV78K
-CCTV16,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=OJ9Xb8&tk=3wuGai9ZV78K
-CCTV17,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=lrdaPO&tk=3wuGai9ZV78K
-
-
-
-
-//7.8
-
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=qbBTLs&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=Us9XC7&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=UgoOEO&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=BodAEW&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=MK0gXI&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=BXUD7x&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=11JDdZ&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=hCWJ8T&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=6Ye6SL&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=fp4sFg&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=FNECy7&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=Us6uok&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=TbDe2w&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=2CLsbf&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=PoUfFq&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=HI70UC&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=RPbHYJ&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=k2DwGV&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=2Hize1&tk=3wuGai9ZV78K
-CCTV1,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=BjpKjs&tk=3wuGai9ZV78K
-CCTV2,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=uZA0vL&tk=3wuGai9ZV78K
-CCTV2,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=LvBNFM&tk=3wuGai9ZV78K
-CCTV2,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=PadWLH&tk=3wuGai9ZV78K
-CCTV2,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=VQQNBM&tk=3wuGai9ZV78K
-CCTV2,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=DPnyEX&tk=3wuGai9ZV78K
-CCTV2,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=2hJNAx&tk=3wuGai9ZV78K
-CCTV2,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=DW22sf&tk=3wuGai9ZV78K
-CCTV2,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=PVxtg9&tk=3wuGai9ZV78K
-CCTV2,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=Lg71qm&tk=3wuGai9ZV78K
-CCTV2,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=3gqhXv&tk=3wuGai9ZV78K
-CCTV2,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=MXLhWG&tk=3wuGai9ZV78K
 CCTV2,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=ydrYjf&tk=3wuGai9ZV78K
 CCTV2,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=Hks5fE&tk=3wuGai9ZV78K
 CCTV2,http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=7x96tU&tk=3wuGai9ZV78K
