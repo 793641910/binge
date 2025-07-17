@@ -1230,6 +1230,22 @@ CCTV17,http://kkk.888.3116598.xyz/api.php?n=6887925&id=KfxX65&tk=uVpEJ37ah2Aq
 
 🌺港台IPV6🌺兵哥整理,#genre#
 
+//7.17
+凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+Viu6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
+翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+翡翠台 backup,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
+News新闻台,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
+J 2,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
+珍珠台,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
+凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
+HOY资讯台,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
+RHK 31,http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
+VIUTV1,http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
+RHK 32,http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3u8
+
+
 //7.13
 
 翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/24bcd2f5a73b255a701d6e1b79383b7c.flv
