@@ -1,5 +1,11 @@
 
-🌺7月18日整理🌺,#genre#
+🌺7月20日整理🌺,#genre#
+
+
+CHC影迷电影,https://live.sxrtv.com/iptv/chcymdy.flv
+CHC动作电影,https://live.sxrtv.com/iptv/chcdzdy.flv
+
+
 
 
 //7.17
@@ -89,8 +95,32 @@ Astro
 
 
 🌺央视IPV6🌺兵哥整理,#genre#
+//7.20
 
 
+CCTV2,https://live.sxrtv.com/iptv/cctv2.flv
+CCTV3,https://live.sxrtv.com/iptv/cctv3.flv
+CCTV4,https://live.sxrtv.com/iptv/cctv4.flv
+CCTV5,https://live.sxrtv.com/iptv/cctv5.flv
+CCTV5+,https://live.sxrtv.com/iptv/cctv5p.flv
+CCTV6,https://live.sxrtv.com/iptv/cctv6.flv
+CCTV7,https://live.sxrtv.com/iptv/cctv7.flv
+CCTV8,https://live.sxrtv.com/iptv/cctv8.flv
+CCTV9,https://live.sxrtv.com/iptv/cctv9.flv
+CCTV10,https://live.sxrtv.com/iptv/cctv10.flv
+CCTV11,https://live.sxrtv.com/iptv/cctv11.flv
+CCTV12,https://live.sxrtv.com/iptv/cctv12.flv
+CCTV13,https://live.sxrtv.com/iptv/cctv13.flv
+CCTV14,https://live.sxrtv.com/iptv/cctv14.flv
+CCTV15,https://live.sxrtv.com/iptv/cctv15.flv
+CCTV16,https://live.sxrtv.com/iptv/cctv16.flv
+CCTV17,https://live.sxrtv.com/iptv/cctv17.flv
+
+
+
+
+
+//皮皮
 
 CCTV1,http://kkk.888.3116598.xyz/api.php?n=6887925&id=7ZUrFC&tk=rRN4Ws5dPOKE
 CCTV1,http://kkk.888.3116598.xyz/api.php?n=6887925&id=4yPHOD&tk=rRN4Ws5dPOKE
@@ -608,8 +638,33 @@ CCTV17,http://kkk.888.3116598.xyz/api.php?n=6887925&id=OeUHnP&tk=rRN4Ws5dPOKE
 
 
 🌺卫视IPV6🌺兵哥整理,#genre#
+//7.20
+重庆卫视,https://live.sxrtv.com/iptv/cqws.flv
+江苏卫视,https://live.sxrtv.com/iptv/jsws.flv
+浙江卫视,https://live.sxrtv.com/iptv/zjws.flv
+东方卫视,https://live.sxrtv.com/iptv/dfws.flv
+深圳卫视,https://live.sxrtv.com/iptv/szws.flv
+北京卫视,https://live.sxrtv.com/iptv/bjws.flv
+山东卫视,https://live.sxrtv.com/iptv/sdws.flv
+天津卫视,https://live.sxrtv.com/iptv/tjws.flv
+四川卫视,https://live.sxrtv.com/iptv/scws.flv
+黑龙江卫视,https://live.sxrtv.com/iptv/hljws.flv
+安徽卫视,https://live.sxrtv.com/iptv/ahws.flv
+山西卫视,https://live.sxrtv.com/iptv/sxws.flv
+湖北卫视,https://live.sxrtv.com/iptv/hubws.flv
+旅游卫视,https://live.sxrtv.com/iptv/hinws.flv
+陕西卫视,https://live.sxrtv.com/iptv/shxws.flv
+东南卫视,https://live.sxrtv.com/iptv/dnws.flv
+吉林卫视,https://live.sxrtv.com/iptv/jlws.flv
+辽宁卫视,https://live.sxrtv.com/iptv/lnws.flv
+湖南卫视,https://live.sxrtv.com/iptv/hunws.flv
+广东卫视,https://live.sxrtv.com/iptv/gdws.flv
+河南卫视,https://live.sxrtv.com/iptv/hnws.flv
+河北卫视,https://live.sxrtv.com/iptv/hbws.flv
 
 
+
+//皮皮
 湖南卫视,http://kkk.888.3116598.xyz/api.php?n=6887925&id=SnGZnW&tk=rRN4Ws5dPOKE
 湖南卫视,http://kkk.888.3116598.xyz/api.php?n=6887925&id=byxp1d&tk=rRN4Ws5dPOKE
 湖南卫视,http://kkk.888.3116598.xyz/api.php?n=6887925&id=5OPYPH&tk=rRN4Ws5dPOKE
