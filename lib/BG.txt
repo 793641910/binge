@@ -96,7 +96,8 @@ Astro
 
 🌺央视IPV6🌺兵哥整理,#genre#
 //7.20
-
+CCTV1,http://kkk.888.3116598.xyz/api.php?n=6887925&id=fshmG9&tk=kd4DuOcilMoY
+CCTV1,http://kkk.888.3116598.xyz/api.php?n=6887925&id=0mNnFy&tk=kd4DuOcilMoY
 CCTV2,https://live.sxrtv.com/iptv/cctv2.flv
 CCTV3,https://live.sxrtv.com/iptv/cctv3.flv
 CCTV4,https://live.sxrtv.com/iptv/cctv4.flv
