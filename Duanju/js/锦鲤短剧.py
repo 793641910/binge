@@ -230,7 +230,7 @@ class Spider(Spider):
         response = requests.post(url=urlz, headers=headerx, json=payload)
         data = response.json()
 
-        url = './js/qyg.js'
+        url = './qyg.js'
         response = requests.get(url)
         response.encoding = 'utf-8'
         code = response.text
@@ -333,6 +333,7 @@ class Spider(Spider):
         elif params['type'] == "ts":
             return self.proxyTs(params)
         return None
+
 
 
 
