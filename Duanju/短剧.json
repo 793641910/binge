@@ -1,6 +1,6 @@
 {
     "spider": "https://gitee.com/hccxbg/py/raw/master/favorite/notice.jar",
-    "logo": "./lib/logo.txt",
+    "logo": "./lib/logo.gif",
     "warningText": "兵哥出品的接口完全免费，切勿付费购买！",
     "notice": "欢迎加入兵哥视界官方交流群",
     "lives": [
