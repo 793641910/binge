@@ -6,6 +6,7 @@ CHC家庭影院,http://124.93.18.238:9002//hls/78/index.m3u8
 CHC影迷电影,http://124.93.18.238:9002//hls/77/index.m3u8
 
 邵氏影院,http://lxajh.top/tv/douyu.php?id=4246519
+邵氏影院,http://www.douzhicloud.site:35455/douyu/4246519
 睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=yu&mode=1
 晴彩广场舞,http://39.134.64.87:6610/PLTV/88888888/224/3221226472/index.m3u8?IASHttpSessionId=
 晴彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226469/index.m3u8?IASHttpSessionId=
