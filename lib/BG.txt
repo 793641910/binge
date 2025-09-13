@@ -3,7 +3,9 @@
 CHC动作电影,http://124.93.18.238:9002//hls/76/index.m3u8
 CHC家庭影院,http://124.93.18.238:9002//hls/78/index.m3u8
 CHC影迷电影,http://124.93.18.238:9002//hls/77/index.m3u8
-
+CHC家庭影院,http://nas.201606.xyz:4022/rtp/239.10.0.86:5140
+CHC动作电影,http://nas.201606.xyz:4022/rtp/239.10.0.87:5140
+CHC影迷电影,http://nas.201606.xyz:4022/rtp/239.10.0.88:5140
 邵氏影院,http://lxajh.top/tv/douyu.php?id=4246519
 邵氏影院,http://www.douzhicloud.site:35455/douyu/4246519
 睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=yu&mode=1
@@ -133,8 +135,9 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 
 🌺港台频道🌺兵哥整理,#genre#
 
-
-
+//9.13
+凤凰卫视,http://nas.201606.xyz:4022/udp/239.11.0.153:5140
+凤凰资讯,http://nas.201606.xyz:4022/udp/239.11.0.154:5140【V】,http://nas.201606.xyz:4022/udp/239.11.0.155:5140
 
 
 //7.17
