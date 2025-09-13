@@ -1,8 +1,6 @@
 
-🌺9月3日整理🌺,#genre#
-CHC动作电影,http://124.93.18.238:9002//hls/76/index.m3u8
-CHC家庭影院,http://124.93.18.238:9002//hls/78/index.m3u8
-CHC影迷电影,http://124.93.18.238:9002//hls/77/index.m3u8
+🌺9月13日整理🌺,#genre#
+
 CHC家庭影院,http://nas.201606.xyz:4022/rtp/239.10.0.86:5140
 CHC动作电影,http://nas.201606.xyz:4022/rtp/239.10.0.87:5140
 CHC影迷电影,http://nas.201606.xyz:4022/rtp/239.10.0.88:5140
@@ -70,30 +68,37 @@ Astro
 
 🌺央视频道🌺兵哥整理,#genre#
 
-CCTV1,http://go.bkpcp.top/mg/cctv1 
-CCTV2,http://go.bkpcp.top/mg/cctv2 
-CCTV3,http://go.bkpcp.top/mg/cctv3 
-CCTV4,http://go.bkpcp.top/mg/cctv4 
-CCTV5,http://go.bkpcp.top/mg/cctv5
-CCTV5+,http://go.bkpcp.top/mg/cctv5p 
-CCTV6,http://go.bkpcp.top/mg/cctv6
-CCTV7,http://go.bkpcp.top/mg/cctv7 
-CCTV8,http://go.bkpcp.top/mg/cctv8
-CCTV9,http://go.bkpcp.top/mg/cctv9
-CCTV10,http://go.bkpcp.top/mg/cctv10 
-CCTV11,http://go.bkpcp.top/mg/cctv11
-CCTV12,http://go.bkpcp.top/mg/cctv12 
-CCTV13,http://go.bkpcp.top/mg/cctv13 
-CCTV14,http://go.bkpcp.top/mg/cctv14
-CCTV15,http://go.bkpcp.top/mg/cctv15
-CCTV16,http://go.bkpcp.top/mg/cctv16
-CCTV17,http://go.bkpcp.top/mg/cctv17 
-cct4欧洲,http://go.bkpcp.top/mg/cctv4o
-cct4美洲,http://go.bkpcp.top/mg/cctv4m
-CGTN-西,http://go.bkpcp.top/mg/cgtne 
-CGTN-阿,http://go.bkpcp.top/mg/cgtna 
-CGTN-法,http://go.bkpcp.top/mg/cgtnf 
+//9.13
 
+
+CCTV1,http://nas.201606.xyz:4022/udp/239.11.0.65:5140
+CCTV1,http://nas.201606.xyz:4022/udp/239.11.0.130:5140
+CCTV2,http://nas.201606.xyz:4022/udp/239.11.0.108:5140
+CCTV3,http://nas.201606.xyz:4022/udp/239.11.0.101:5140
+CCTV4,http://nas.201606.xyz:4022/udp/239.11.0.109:5140
+CCTV5,http://nas.201606.xyz:4022/udp/239.11.0.100:5140
+CCTV5+,http://nas.201606.xyz:4022/udp/239.11.0.241:5140
+CCTV6,http://nas.201606.xyz:4022/udp/239.11.0.102:5140
+CCTV7,http://nas.201606.xyz:4022/udp/239.11.0.110:5140
+CCTV8,http://nas.201606.xyz:4022/udp/239.11.0.103:5140
+CCTV9,http://nas.201606.xyz:4022/udp/239.11.0.111:5140
+CCTV10,http://nas.201606.xyz:4022/udp/239.11.0.112:5140
+CCTV11,http://nas.201606.xyz:4022/udp/239.11.0.22:5140
+CCTV12,http://nas.201606.xyz:4022/udp/239.11.0.113:5140
+CCTV13,http://nas.201606.xyz:4022/udp/239.11.0.24:5140
+CCTV14,http://nas.201606.xyz:4022/udp/239.11.0.114:5140
+CCTV15,http://nas.201606.xyz:4022/udp/239.11.0.26:5140
+CCTV16 4K,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
+CCTV17,http://nas.201606.xyz:4022/udp/239.11.0.107:5140
+CGTN西语,http://nas.201606.xyz:4022/udp/239.11.0.79:5140
+CGTN纪录,http://nas.201606.xyz:4022/udp/239.11.0.138:5140
+CGTN,http://nas.201606.xyz:4022/udp/239.11.0.245:5140
+CGTN法语,http://nas.201606.xyz:4022/udp/239.11.0.80:5140
+CGTN阿语,http://nas.201606.xyz:4022/udp/239.11.0.81:5140
+CGTN俄语,http://nas.201606.xyz:4022/udp/239.11.0.82:5140
+CETV1,http://nas.201606.xyz:4022/udp/239.11.0.139:5140
+CETV2,http://nas.201606.xyz:4022/udp/239.11.0.246:5140
+CETV4,http://nas.201606.xyz:4022/udp/239.11.0.248:5140
 
 
 
@@ -101,31 +106,50 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 🌺卫视频道🌺兵哥整理,#genre#
 
 
+//9.13
 
 
-湖南卫视,http://go.bkpcp.top/mg/hunws 
-北京卫视,http://go.bkpcp.top/mg/bjws
-东方卫视,http://go.bkpcp.top/mg/dfws
-浙江卫视,http://go.bkpcp.top/mg/zjws 
-江苏卫视,http://go.bkpcp.top/mg/jsws 
-
-广东卫视,http://go.bkpcp.top/mg/gdws 
-深圳卫视4k,http://go.bkpcp.top/mg/szws 
-山东卫视,http://go.bkpcp.top/mg/sdws
-河南卫视,http://go.bkpcp.top/mg/hnws
-江西卫视,http://go.bkpcp.top/mg/jxws 
-湖北卫视,http://go.bkpcp.top/mg/hubws 
-海南卫视,http://go.bkpcp.top/mg/hinws
-陕西卫视,http://go.bkpcp.top/mg/sxws 
-兵团卫视,http://go.bkpcp.top/mg/btws 
-黑龙江视,http://go.bkpcp.top/mg/hljws 
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-4K超高清,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.249:8001
-淘电影,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
-淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
-淘娱乐,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
-淘Baby,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.238:8001
-
+湖南卫视,http://nas.201606.xyz:4022/udp/239.11.0.119:5140
+北京卫视,http://nas.201606.xyz:4022/udp/239.11.0.121:5140
+天津卫视,http://nas.201606.xyz:4022/udp/239.11.0.123:5140
+东方卫视,http://nas.201606.xyz:4022/udp/239.11.0.68:5140
+浙江卫视,http://nas.201606.xyz:4022/udp/239.11.0.70:5140
+深圳卫视,http://nas.201606.xyz:4022/udp/239.11.0.71:5140
+山东卫视,http://nas.201606.xyz:4022/udp/239.11.0.73:5140
+湖北卫视,http://nas.201606.xyz:4022/udp/239.11.0.74:5140
+江苏卫视,http://nas.201606.xyz:4022/udp/239.11.0.76:5140
+四川卫视,http://nas.201606.xyz:4022/udp/239.11.0.78:5140
+广东卫视,http://nas.201606.xyz:4022/udp/239.11.0.115:5140
+重庆卫视,http://nas.201606.xyz:4022/udp/239.11.0.116:5140
+安徽卫视,http://nas.201606.xyz:4022/udp/239.11.0.117:5140
+辽宁卫视,http://nas.201606.xyz:4022/udp/239.11.0.118:5140
+北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
+北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
+深圳卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.93:5140
+广东卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.94:5140
+河北卫视,http://nas.201606.xyz:4022/udp/239.11.0.31:5140
+山西卫视,http://nas.201606.xyz:4022/udp/239.11.0.32:5140
+内蒙古卫视,http://nas.201606.xyz:4022/udp/239.11.0.33:5140
+吉林卫视,http://nas.201606.xyz:4022/udp/239.11.0.35:5140
+黑龙江卫视,http://nas.201606.xyz:4022/udp/239.11.0.36:5140
+东南卫视,http://nas.201606.xyz:4022/udp/239.11.0.41:5140
+江西卫视,http://nas.201606.xyz:4022/udp/239.11.0.42:5140
+河南卫视,http://nas.201606.xyz:4022/udp/239.11.0.44:5140
+广西卫视,http://nas.201606.xyz:4022/udp/239.11.0.48:5140
+贵州卫视,http://nas.201606.xyz:4022/udp/239.11.0.51:5140
+厦门卫视,http://nas.201606.xyz:4022/udp/239.11.0.83:5140
+三沙卫视,http://nas.201606.xyz:4022/udp/239.11.0.84:5140
+云南卫视,http://nas.201606.xyz:4022/udp/239.11.0.52:5140
+安多卫视,http://nas.201606.xyz:4022/udp/239.11.0.124:5140
+海南卫视,http://nas.201606.xyz:4022/udp/239.11.0.193:5140
+兵团卫视,http://nas.201606.xyz:4022/udp/239.11.0.204:5140
+延边卫视,http://nas.201606.xyz:4022/udp/239.11.0.206:5140
+西藏卫视,http://nas.201606.xyz:4022/udp/239.11.0.53:5140
+陕西卫视,http://nas.201606.xyz:4022/udp/239.11.0.54:5140
+甘肃卫视,http://nas.201606.xyz:4022/udp/239.11.0.55:5140
+青海卫视,http://nas.201606.xyz:4022/udp/239.11.0.56:5140
+宁夏卫视,http://nas.201606.xyz:4022/udp/239.11.0.57:5140
+新疆卫视,http://nas.201606.xyz:4022/udp/239.11.0.58:5140
 
 
 
@@ -137,8 +161,7 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 
 //9.13
 凤凰卫视,http://nas.201606.xyz:4022/udp/239.11.0.153:5140
-凤凰资讯,http://nas.201606.xyz:4022/udp/239.11.0.154:5140【V】,http://nas.201606.xyz:4022/udp/239.11.0.155:5140
-
+凤凰资讯,http://nas.201606.xyz:4022/udp/239.11.0.154:5140
 
 //7.17
 凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
