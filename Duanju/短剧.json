@@ -1299,6 +1299,7 @@
             ]
         }
     ],
+    "spider": "https://gitee.com/hccxbg/py/raw/master/favorite/YZM.jar",
     "parses": [
         {
             "name": "解析聚合",
