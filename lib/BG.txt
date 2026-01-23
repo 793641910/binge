@@ -8,78 +8,20 @@ CHC动作电影,http://nas.201606.xyz:4022/rtp/239.10.0.87:5140
 CHC影迷电影,http://nas.201606.xyz:4022/rtp/239.10.0.88:5140
 邵氏影院,http://lxajh.top/tv/douyu.php?id=4246519
 邵氏影院,http://www.douzhicloud.site:35455/douyu/4246519
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=yu&mode=1
-睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
-睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
-睛彩广场舞,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=yu&mode=1
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000062&livemode=1&stbId=yu&mode=1
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000064&livemode=1&stbId=yu&mode=1
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270003&livemode=1&stbId=yu&mode=1
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270005&livemode=1&stbId=yu&mode=1
 
-睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=yu&mode=1
-睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=yu&mode=1
-睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=yu&mode=1
-睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270001&livemode=1&stbId=yu&mode=1
-睛彩青少,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=yu&mode=1
-睛彩青少,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=yu&mode=1
-睛彩青少,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000068&livemode=1&stbId=yu&mode=1
-睛彩青少,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=yu&mode=1
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=yu&mode=1
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=yu&mode=1
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000061&livemode=1&stbId=yu&mode=1
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000065&livemode=1&stbId=yu&mode=1
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270002&livemode=1&stbId=yu&mode=1
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270006&livemode=1&stbId=yu&mode=1
 邵氏影院,http://kkk.888.3116598.xyz/api.php?n=6887925&id=qJRLwW&tk=rRN4Ws5dPOKE
 粤
 邵氏影院,http://kkk.888.3116598.xyz/api.php?n=6887925&id=mQHlHg&tk=uVpEJ37ah2Aq
 
 邵氏影院,http://120.76.248.139/live/lunbo/ssdy.m3u8
-爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
-Astro 
-睛彩中原,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/河南.php?id=jczy 
-睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=yu&mode=1
-睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=yu&mode=1
-睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=yu&mode=1
-睛彩竞技,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270001&livemode=1&stbId=yu&mode=1
-睛彩青少,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=yu&mode=1
-睛彩青少,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=yu&mode=1
-睛彩青少,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000068&livemode=1&stbId=yu&mode=1
-睛彩青少,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=yu&mode=1
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=yu&mode=1
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=yu&mode=1
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000061&livemode=1&stbId=yu&mode=1
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000065&livemode=1&stbId=yu&mode=1
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270002&livemode=1&stbId=yu&mode=1
-睛彩篮球,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270006&livemode=1&stbId=yu&mode=1
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=yu&mode=1
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=yu&mode=1
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000062&livemode=1&stbId=yu&mode=1
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000064&livemode=1&stbId=yu&mode=1
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270003&livemode=1&stbId=yu&mode=1
-睛彩广场舞,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270005&livemode=1&stbId=yu&mode=1
+
 
 
 🌺兵哥教程🌺如何开启IPV6,https://vdse.bdstatic.com//eaa8bb257e15512b1fd3da64cf62d640.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-04-29T19%3A02%3A30Z%2F-1%2Fhost%2F7b845449f3788d4fa9534408e846301955099694d7e76381e480fe44831e3b00
 🌺防失联🌺,https://vd2.bdstatic.com/mda-kfhr50vjwtmttwxc/v1-cae/sc/mda-kfhr50vjwtmttwxc.mp4
 🌺获取最新源址🌺,https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
 
-🌺新更央卫🌺兵哥整理,#genre#
-CCTV-01,http://iptv.4666888.xyz/iptv2A.php?id=7
-CCTV-02,http://iptv.4666888.xyz/iptv2A.php?id=8
-CCTV-03,http://iptv.4666888.xyz/iptv2A.php?id=9
-CCTV-04,http://iptv.4666888.xyz/iptv2A.php?id=10
-CCTV-13,http://iptv.4666888.xyz/iptv2A.php?id=11
-CCTV-14,http://iptv.4666888.xyz/iptv2A.php?id=12
-CCTV-16,http://iptv.4666888.xyz/iptv2A.php?id=32
-浙江卫视,http://iptv.4666888.xyz/iptv2A.php?id=14
-江苏卫视,http://iptv.4666888.xyz/iptv2A.php?id=15
-湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
-广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
-山西卫视,http://iptv.4666888.xyz/iptv2A.php?id=16
-青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
+
 
 🌺央视频道🌺兵哥整理,#genre#
 
