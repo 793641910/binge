@@ -1,5 +1,5 @@
 
-🌺2026年1月20日整理🌺,#genre#
+🌺2026年2月18日整理🌺,#genre#
 刘德华演唱会上,http://rihou.cc:555/tv/[mv]今日演上
 刘德华演唱会中,http://rihou.cc:555/tv/[mv]今日演中
 刘德华演唱会下,http://rihou.cc:555/tv/[mv]今日演下
@@ -24,6 +24,28 @@ CHC影迷电影,http://nas.201606.xyz:4022/rtp/239.10.0.88:5140
 
 
 🌺央视频道🌺兵哥整理,#genre#
+
+//2.18
+
+
+CCTV1,http://www.alphauncle.com:2715/rtp/239.0.0.10:5140
+CCTV2,http://www.alphauncle.com:2715/rtp/239.0.0.11:5140
+CCTV3,http://www.alphauncle.com:2715/rtp/239.0.0.12:5140
+CCTV4,http://www.alphauncle.com:2715/rtp/239.0.0.13:5140
+CCTV4K,http://www.alphauncle.com:2715/rtp/239.0.0.184:5140
+CCTV5,http://www.alphauncle.com:2715/rtp/239.0.0.14:5140
+CCTV5+,http://www.alphauncle.com:2715/rtp/239.0.0.22:5140
+CCTV6,http://www.alphauncle.com:2715/rtp/239.0.0.15:5140
+CCTV7,http://www.alphauncle.com:2715/rtp/239.0.0.16:5140
+CCTV8,http://www.alphauncle.com:2715/rtp/239.0.0.17:5140
+CCTV9,http://www.alphauncle.com:2715/rtp/239.0.0.18:5140
+CCTV10,http://www.alphauncle.com:2715/rtp/239.0.0.19:5140
+CCTV11,http://www.alphauncle.com:2715/rtp/239.0.0.187:5140
+CCTV12,http://www.alphauncle.com:2715/rtp/239.0.0.20:5140
+CCTV13,http://www.alphauncle.com:2715/rtp/239.0.0.190:5140
+CCTV14,http://www.alphauncle.com:2715/rtp/239.0.0.21:5140
+CCTV15,http://www.alphauncle.com:2715/rtp/239.0.0.188:5140
+CCTV17,http://www.alphauncle.com:2715/rtp/239.0.0.152:5140
 
 //11.17
 
@@ -146,6 +168,45 @@ BRTV纪实科技,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/8888
 BRTV北京卫视,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8
 
 🌺卫视频道🌺兵哥整理,#genre#
+
+
+//2.18
+
+湖南卫视,http://www.alphauncle.com:2715/rtp/239.0.0.68:5140
+浙江卫视,http://www.alphauncle.com:2715/rtp/239.0.0.61:5140
+江苏卫视,http://www.alphauncle.com:2715/rtp/239.0.0.60:5140
+北京卫视,http://www.alphauncle.com:2715/rtp/239.0.0.52:5140
+东方卫视,http://www.alphauncle.com:2715/rtp/239.0.0.58:5140
+安徽卫视,http://www.alphauncle.com:2715/rtp/239.0.0.65:5140
+广东卫视,http://www.alphauncle.com:2715/rtp/239.0.0.70:5140
+深圳卫视,http://www.alphauncle.com:2715/rtp/239.0.0.71:5140
+辽宁卫视,http://www.alphauncle.com:2715/rtp/239.0.0.56:5140
+海南卫视,http://www.alphauncle.com:2715/rtp/239.0.0.100:5140
+山东卫视,http://www.alphauncle.com:2715/rtp/239.0.0.66:5140
+天津卫视,http://www.alphauncle.com:2715/rtp/239.0.0.54:5140
+重庆卫视,http://www.alphauncle.com:2715/rtp/239.0.0.72:5140
+东南卫视,http://www.alphauncle.com:2715/rtp/239.0.0.62:5140
+甘肃卫视,http://www.alphauncle.com:2715/rtp/239.0.0.192:5140
+广西卫视,http://www.alphauncle.com:2715/rtp/239.0.0.185:5140
+贵州卫视,http://www.alphauncle.com:2715/rtp/239.0.0.64:5140
+河北卫视,http://www.alphauncle.com:2715/rtp/239.0.0.55:5140
+黑龙江卫视,http://www.alphauncle.com:2715/rtp/239.0.0.57:5140
+河南卫视,http://www.alphauncle.com:2715/rtp/239.0.0.182:5140
+湖北卫视,http://www.alphauncle.com:2715/rtp/239.0.0.67:5140
+江西卫视,http://www.alphauncle.com:2715/rtp/239.0.0.63:5140
+吉林卫视,http://www.alphauncle.com:2715/rtp/239.0.0.191:5140
+内蒙古卫视,http://www.alphauncle.com:2715/rtp/239.0.0.79:5140
+山西卫视,http://www.alphauncle.com:2715/rtp/239.0.0.78:5140
+陕西卫视,http://www.alphauncle.com:2715/rtp/239.0.0.53:5140
+四川卫视,http://www.alphauncle.com:2715/rtp/239.0.0.1:5140
+云南卫视,http://www.alphauncle.com:2715/rtp/239.0.0.74:5140
+厦门卫视,http://www.alphauncle.com:2715/rtp/239.0.0.194:5140
+青海卫视,http://www.alphauncle.com:2715/rtp/239.0.0.108:5140
+延边卫视,http://www.alphauncle.com:2715/rtp/239.0.0.76:5140
+康巴卫视,http://www.alphauncle.com:2715/rtp/239.0.0.175:5140
+三沙卫视,http://www.alphauncle.com:2715/rtp/239.0.0.195:5140
+
+
 
 //11.17
 
@@ -290,6 +351,32 @@ BRTV北京卫视,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/8888
 
 
 🌺港台频道🌺兵哥整理,#genre#
+//2.18
+
+凤凰资讯,https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+凤凰中文,http://jgw.ddns.iuxs.info:9999/udp/239.94.2.51:5140
+
+凤凰中文,http://ch3829.myds.me:4022/udp/239.94.2.51:5140
+凤凰中文,http://nas.yzs10000.com:17777/udp/239.94.2.51:5140
+凤凰中文,http://uo201.1985001.xyz:66/udp/239.94.2.51:5140
+凤凰中文,http://giwon.ddns.net:5555/udp/239.94.2.51:5140
+凤凰中文,http://cdhome.haobaitele.com:8800/udp/239.94.2.51:5140
+凤凰中文,http://bingdao6.f3322.net:9090/udp/239.94.2.51:5140
+凤凰中文,http://28181.032000.xyz:8848/udp/239.94.2.51:5140
+凤凰中文,http://sl.xeace.top:8886/udp/239.94.2.51:5140
+凤凰中文,http://izihao.cn:9977/udp/239.94.2.51:5140
+凤凰中文,http://hyyx.fun:9988/udp/239.94.2.51:5140
+凤凰中文,http://wan1.tangwudi.cc:47859/udp/239.94.2.51:5140
+凤凰中文,http://iptv.032000.xyz:8848/udp/239.94.2.51:5140
+凤凰中文,http://yulang132.cn:4022/udp/239.94.2.51:5140
+凤凰中文,http://lzcancer.cn:4055/udp/239.94.2.51:5140
+凤凰中文,http://shawn1057.myqnapcloud.com:4022/udp/239.94.2.51:5140
+凤凰中文,http://yulang132.cn:58888/udp/239.94.2.51:5140
+凤凰中文,http://udpxy.speedtest.yanshhhh.top:82/udp/239.94.2.51:5140
+凤凰中文,http://tools.speedtest.yanshhhh.top:82/udp/239.94.2.51:5140
+凤凰中文,http://ik.yanshhhh.top:82/udp/239.94.2.51:5140aecop43ptvea6epk.0kkkkkt.com:4022/udp/239.10.0.221:5140
+凤凰中文,http://gq.scvip.net.cn:8300/udp/239.10.0.221:5140
+
 
 //11.17
 凤凰资讯,http://120.233.178.42:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228524/1.m3u8
