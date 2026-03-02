@@ -1,5 +1,6 @@
 
-🌺2026年2月18日整理🌺,#genre#
+🌺2026年3月2整理🌺,#genre#
+李子柒,https://live.ottiptv.cc/huya/21969336
 刘德华演唱会上,http://rihou.cc:555/tv/[mv]今日演上
 刘德华演唱会中,http://rihou.cc:555/tv/[mv]今日演中
 刘德华演唱会下,http://rihou.cc:555/tv/[mv]今日演下
@@ -18,7 +19,21 @@ CHC影迷电影,http://nas.201606.xyz:4022/rtp/239.10.0.88:5140
 粤
 邵氏影院,http://kkk.888.3116598.xyz/api.php?n=6887925&id=mQHlHg&tk=uVpEJ37ah2Aq
 
-邵氏影院,http://120.76.248.139/live/lunbo/ssdy.m3u8
+邵氏影院z,http://120.76.248.139/live/lunbo/ssdy.m3u8
+邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+晴彩青少,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011525
+晴彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011528
+晴彩篮球,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011529
+晴彩广场舞,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523
+NewTV古装剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
+NewTV军旅剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
+NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
+NewTV泰语剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
+NewTV大家剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
+NewTV爱情剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
+
 
 
 
