@@ -1,5 +1,5 @@
 {
-    "spider": "https://gitee.com/hccxbg/py/raw/master/favorite/notice.jar",
+    "spider": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosha.jar",
     "logo": "./lib/logo.gif",
     "warningText": "兵哥出品的接口完全免费，切勿付费购买！",
     "notice": "欢迎加入兵哥视界官方交流群",
@@ -18,31 +18,10 @@
         {
             "api": "./js/牛牛短剧.py",
             "key": "py_牛牛短剧",
-            "name": "💥短剧专线💥8月27日整理🌺祝大家愉快观看短剧🍁",
+            "name": "💥短剧专线💥3月20日整理🌺祝大家愉快观看短剧🍁",
             "type": 3,
             "searchable": 0,
             "changeable": 1
-        },
-        {
-            "key": "Notice",
-            "name": "免费分享，请勿受骗",
-            "type": 3,
-            "api": "csp_Notice",
-            "ext": "💦兵哥视界💦追剧神器，兵哥已跑路，勿扰！"
-        },
-        {
-            "key": "配置中心",
-            "name": "配置中心🌺兵哥视界",
-            "type": 3,
-            "api": "csp_Config",
-            "jar": "https://gitee.com/hccxbg/py/raw/master/favorite/xiaosa.jar;md5;6d2a470db438ab94e2ca9b70f2041d43",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
         },
         {
             "key": "星芽",
