@@ -16,18 +16,11 @@
     ],
     "sites": [
         {
-            "api": "./js/牛牛短剧.py",
-            "key": "py_牛牛短剧",
+            "key": "星芽",
             "name": "💥短剧专线💥3月20日整理🌺祝大家愉快观看短剧🍁",
             "type": 3,
-            "searchable": 0,
-            "changeable": 1
-        },
-        {
-            "key": "星芽",
-            "name": "星芽短剧🌺兵哥视界",
-            "type": 3,
             "api": "https://gitee.com/hccxbg/py/raw/master/favorite/libjs/drpy/drpy2.min.js",
+            "indexs": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
