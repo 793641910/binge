@@ -17,7 +17,7 @@
     "sites": [
         {
             "key": "星芽",
-            "name": "💥短剧专线💥3月20日整理🌺祝大家愉快观看短剧🍁",
+            "name": "💥短剧专线💥4月1日整理🌺祝大家愉快观看短剧🍁",
             "type": 3,
             "api": "https://gitee.com/hccxbg/py/raw/master/favorite/libjs/drpy/drpy2.min.js",
             "indexs": 1,
@@ -34,6 +34,17 @@
             "quickSearch": 1,
             "searchable": 1,
             "type": 3
+        },
+        {
+            "key": "eytgz4k",
+            "name": "瓜子🧧短剧",
+            "type": 3,
+            "api": "https://gitee.com/hccxbg/py/raw/master/favorite/libjs/drpy/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/瓜子影视.js",
+            "类型": "短剧"
         },
         {
             "key": "七猫短剧",
