@@ -1,5 +1,5 @@
 
-🌺2026年8月18整理🌺,#genre#
+🌺2026年10月1整理🌺,#genre#
 成龙电影,http://107.150.60.122/live/lbcl.m3u8
 周润发电影,http://107.150.60.122/live/lbzrf.m3u8
 周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
@@ -54,6 +54,43 @@ NewTV爱情剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_108
 
 
 🌺央视频道🌺兵哥整理,#genre#
+
+//10.1
+
+CCTV-1综合,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=3d8e093d50b1a060c11758de78cca54d;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV-2财经,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7f0f7630ebd9f29f34452e64c037ca7c;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV-3综艺,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=eef05976d14b742fc22fe17affad1f60;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV-4中文国际,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c05a594b68692bbb5d09e966469540c8;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV4美洲,http://mg.hmysapp.cn:177/偷源狗/咪咕央视/咪咕直连/cctv4m.php?id=301
+CCTV4欧洲,http://mg.hmysapp.cn:177/偷源狗/咪咕央视/咪咕直连/cctv4o.php?id=301
+CCTV-5体育,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=dcef7eaddaa95231a534664b5294ef17;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV-5+体育赛事,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=52f0fc31a05ce8ec338126dfa9ccf3b2;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV-6电影,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=b642fd0c10e536bb69482f4a6787e0ea;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV-7国防军事,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=42206af12ae323cef243156bfe9bce04;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV-8电视剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=9ff989f42195a9f0fc85cae6b74d28df;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV-9纪录,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=bf747874f5d0b0612a7537dc35f4a02d;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV-10科教,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=2538c1b412bd1e0c68ff474bf68ecc67;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV-11戏曲,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=19133fadde9bf7161e568342d2482644;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV-12社会与法,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=859d4106cefb58b5f5a9feaf392b207b;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV-13新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=0846adebefbf618f3d7196645a6f83b0;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV-14少儿,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=afd5aeeff09615322773d2539c326b1b;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV-15音乐,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=2f1e65b31fdecc85032f08d23eb0cecc;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV-16奥林匹克,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=15807c8fa9312f624e86a064cc085388;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV-17农业农村,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7e30e8167039127910385b65b8b56f85;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV16 4K,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5becc1942216e76b304d4ac8e68f6432;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV4K,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=8f2da419d3a9859b510779a7579c76fc;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CCTV8K,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5b0037cd1f33782a01c9d060d938e493;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CHC影迷电影,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=0c6c955ede88b43d97658eaf44aeaef0;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CHC动作电影,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=afa18d2457e898b11f48f7764c61d4cc;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CHC家庭电影,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=ec5144362de7eac7ea777a18cc1d0f26;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+重温经典,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4846f3b8ce0507659e8cdb5e8abaf236;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CGTN法语,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=357adaf3dc0f1226ab1c94f0a243e3fb;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CGTN俄语,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=95471a96da7d7c7762b0e4aa9fa1655b;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CGTN阿拉伯语,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=2ab9e820d03ddf3853a621eb79046876;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CGTN西班牙语,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=b6d33471d59b25d52bb283a5e2b314f3;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+CGTN外语纪录,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=b509bcb409a617a5d51396bb453134ce;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+
+
 
 //3.18
 
@@ -341,6 +378,51 @@ BRTV纪实科技,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/8888
 BRTV北京卫视,http://120.233.178.42:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8
 
 🌺卫视频道🌺兵哥整理,#genre#
+
+//10.1
+
+湖南卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c39a7a374d888bce3912df71bcb0d580;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+江苏卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=322fa7b66243b8d0edef9d761a42f263;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+浙江卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=590e187a8799b1890175d25ec85ea352;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+东方卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=b0977d8b1d2a989a7177d9f6b6ff16e7;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+广东卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c8bf387b1824053bdb0423ef806a2227;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+深圳卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=20831bb807a45638cfaf81df1122024d;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+深圳都市,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=162efba2ca1316c82959d115edfec371;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+北京卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=db47125bc6c697e608358a9dfbf95f82;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+广西卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5cbb108dbf59f2ae1849ec8d1126d1a5;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+山东卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=28502a1b6bf5fbe7c6da9241db596237;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+东南卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=0b54da973aaa9d57361846b14cd7da3e;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+厦门卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=6519e05b08f08a507a3bd4ea71df8053;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+重庆卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5731a167d79c432575056c4963dc8049;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+贵州卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5a7d01661b5d9c64293860531374312b;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+湖北卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=55fc65ef82e92d0e1ccb2b3f200a7529;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+河北卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=ef1fce69a9e1b3a587ca734302400107;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+江西卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=535765a19ab55a12bbf64a1e98ae97dd;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+山西卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=2aeb585ccaca9fa893b0bdfdbc098c7f;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+陕西卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=eb7330e363ceec8c6895eacc44a1a804;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+四川卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=b82fa4086c9a2c9442279efbb80cce31;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+三沙卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=764e359087f0ff8e5b1800a3f0d13803;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+辽宁卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=9291c40ec1cec1281638720c74c7245f;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+天津卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5927c7a6dd31f38686fafa073e2e13bc;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+安徽卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5b0447ba48dbb6be1c286bab83f77e39;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+甘肃卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5ace8ddc54a4151bbcf76e56c8aa582a;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+宁夏卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=a09ab19928a6b2bd616f7e2eba1056ee;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+海峡卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c43d13c6d8854196ffed08f6b926baf3;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+康巴卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=0d0eb74114ec9f0bfaa79d687cf7b6a7;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+河南卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=2c854868563485135dd486801057dd6e;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+海南卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c0fc93e34943ad854b923c031d24bd39;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+云南卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c786da29f0f5cc5973444e3ad49413a6;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+吉林卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=45392a8be644f5b8903838436870c75d;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+农林卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5406f8e49c8db56f306ec656bbdc69e4;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+兵团卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5ec2992011cb16a9ca85c84e41b05b8b;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+新疆卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=ad291a233f1fd3f24332e41461798a25;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+西藏卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=feccf21eb7e50753355efdab2d54d9e8;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+青海卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4ec095f1d2564f82341275fff64edb5a;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+黑龙江卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=1ce026a774dba0d13dc0cef453248fb7;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+内蒙古卫视,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=03295de404257fa9653b89bf2d0e47ac;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+
+
+
 
 //3.18
 
@@ -658,6 +740,52 @@ CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
 
 
 🌺港台频道🌺兵哥整理,#genre#
+
+//10.1
+
+凤凰中文,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=20d2d96308e5b86aa632cdb8113b2313;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+凤凰资讯,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c23cb91e28540bf120c96780829055cc;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+凤凰香港,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=aff37a7016d2f0ae2cab0c213a506bc0;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+凤凰澳洲,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=3cc83ada5a8d350182f34b3515400dbf;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+凤凰电影,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=3ea54960d444c5950872b58000eeef4b;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-无线新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=202dd6cb2fa10b757f27371ed2308931;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-无线新闻(北美),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=38f4e6844d506788074317f9c86ab525;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB_Plus,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=86ef0c139b7b3b2a8063f931d48586ba;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-翡翠,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=56ef2938fa095b9f57c44c7918d7ba62;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-翡翠(马来),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=9150accbde417e7620852691b50f2f40;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-翡翠(新加坡),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=66521bb3ce37a0c095bfeb825326b3e7;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-翡翠(越南),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=81650d4099ca66f4a2881e6bfe2a8f21;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-明珠,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=1b6b150766afa778761938542d893f52;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-翡翠剧集,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=feb979fb08606f46fc3ef3dd36967632;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-华丽翡翠,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=b654513ab752f7a72e6445fcb756a74f;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-娱乐新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=731b14933ec05b7bed938ab0e2489f30;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-黄金华剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=96e0bcab4e9aa165d4c5ef690762e0b0;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-千禧经典,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=293ac51056235368be698c698197b3e9;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-生活,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=98794fafab0c7b0e92896a344adcc2ed;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-综艺,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=2dae4813e183ec35e6e18dab2c93bcdd;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-亚洲剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=db79880374fcfcc4bd727642413a6443;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-华语剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=6315b61b0ae7756c01210d79d527f53a;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-粤语片,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=363b54c3886040017d7fa5bb29ad0335;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-粤语片(澳洲),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=524b79358dbeca9f89184cbbe2e64720;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-戏曲,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=36a506ea249cb8cf3fed56dbf6b21cd7;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-翡翠一台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=e9e1fe6c5259651029eda4e899282675;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-翡翠娱乐,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=8230da2d607ec3e66b388b2366063a9f;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-明珠剧集,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4b942eaae152191a2ac82ae4dd915851;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-黄金翡翠,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=abc050755794b4ef300af19d88be2c0a;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-翡翠综合,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=61022b25a00c6d2ee5e78ad604544308;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-星河(国),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=baa86b01502cb973558cfabd6a59467b;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-星河(粤),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=e4e7401dba979b89d746e5317393c046;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-武侠(国),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=15f9404076895c9e3b6bfd3cbe86dea8;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+TVB-武侠(粤),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5fdc3b112eb50e24679490ade22072ba;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+天映频道,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=cbae703675d7c3c04777f76229db0fb9;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+天映经典,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=95fbe855a1df5dc78b38a61bc64e7e9e;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+天映经典2,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5ae06ad6c6214b963861cf04dd63e460;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+美亚电影(国),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=667c693e234bc614bcb57ed6c940caca;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+美亚电影(粤),http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=1acd7da61bf72c10efd6d4fe9d44e494;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+HBO1,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=509e5f41146e278f9eab1ddaceb34515;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+HBO原创巨献,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=3c728c7f54cc6b9fa342949c3a6478db;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+HBO强档巨献,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7c7fb269298f5396d3f5662a39e72ef6;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
+HBO温馨家庭,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=628635c5c86e8588f6661252abf11688;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
 
 
 
