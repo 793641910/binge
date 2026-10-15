@@ -1,5 +1,5 @@
 
-🌺2026年10月1整理🌺,#genre#
+🌺2026年10月15整理🌺,#genre#
 成龙电影,http://107.150.60.122/live/lbcl.m3u8
 周润发电影,http://107.150.60.122/live/lbzrf.m3u8
 周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
@@ -54,41 +54,6 @@ NewTV爱情剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_108
 
 
 🌺央视频道🌺兵哥整理,#genre#
-
-//10.1
-
-CCTV-1综合,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=3d8e093d50b1a060c11758de78cca54d;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV-2财经,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7f0f7630ebd9f29f34452e64c037ca7c;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV-3综艺,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=eef05976d14b742fc22fe17affad1f60;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV-4中文国际,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=c05a594b68692bbb5d09e966469540c8;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV4美洲,http://mg.hmysapp.cn:177/偷源狗/咪咕央视/咪咕直连/cctv4m.php?id=301
-CCTV4欧洲,http://mg.hmysapp.cn:177/偷源狗/咪咕央视/咪咕直连/cctv4o.php?id=301
-CCTV-5体育,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=dcef7eaddaa95231a534664b5294ef17;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV-5+体育赛事,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=52f0fc31a05ce8ec338126dfa9ccf3b2;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV-6电影,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=b642fd0c10e536bb69482f4a6787e0ea;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV-7国防军事,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=42206af12ae323cef243156bfe9bce04;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV-8电视剧,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=9ff989f42195a9f0fc85cae6b74d28df;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV-9纪录,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=bf747874f5d0b0612a7537dc35f4a02d;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV-10科教,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=2538c1b412bd1e0c68ff474bf68ecc67;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV-11戏曲,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=19133fadde9bf7161e568342d2482644;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV-12社会与法,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=859d4106cefb58b5f5a9feaf392b207b;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV-13新闻,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=0846adebefbf618f3d7196645a6f83b0;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV-14少儿,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=afd5aeeff09615322773d2539c326b1b;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV-15音乐,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=2f1e65b31fdecc85032f08d23eb0cecc;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV-16奥林匹克,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=15807c8fa9312f624e86a064cc085388;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV-17农业农村,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=7e30e8167039127910385b65b8b56f85;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV16 4K,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5becc1942216e76b304d4ac8e68f6432;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV4K,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=8f2da419d3a9859b510779a7579c76fc;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CCTV8K,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=5b0037cd1f33782a01c9d060d938e493;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CHC影迷电影,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=0c6c955ede88b43d97658eaf44aeaef0;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CHC动作电影,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=afa18d2457e898b11f48f7764c61d4cc;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CHC家庭电影,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=ec5144362de7eac7ea777a18cc1d0f26;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-重温经典,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=4846f3b8ce0507659e8cdb5e8abaf236;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CGTN法语,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=357adaf3dc0f1226ab1c94f0a243e3fb;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CGTN俄语,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=95471a96da7d7c7762b0e4aa9fa1655b;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CGTN阿拉伯语,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=2ab9e820d03ddf3853a621eb79046876;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CGTN西班牙语,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=b6d33471d59b25d52bb283a5e2b314f3;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
-CGTN外语纪录,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=b509bcb409a617a5d51396bb453134ce;token=D7EM474PHcnFQSdqYupajwwN6JWmNmPR;type=mobile2026Acc3iL
 
 
 
