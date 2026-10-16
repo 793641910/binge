@@ -1,5 +1,5 @@
 
-🌺2026年10月15整理🌺,#genre#
+🌺2026年10月17整理🌺,#genre#
 成龙电影,http://107.150.60.122/live/lbcl.m3u8
 周润发电影,http://107.150.60.122/live/lbzrf.m3u8
 周星驰电影,http://107.150.60.122/live/lbzxc.m3u8
@@ -662,6 +662,12 @@ CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
 
 
 🌺港台频道🌺兵哥整理,#genre#
+
+//10.17
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+
 
 
 
